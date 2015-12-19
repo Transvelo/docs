@@ -2,7 +2,7 @@
 
 Home v2 of Unicase is built using **Visual Composer**.It has 7 rows. The **Visual Composer** Backend editor of the page look like this
 
-![](http://transvelo.github.io/unicase/docs/images/home2-setting.png)
+![](http://transvelo.github.io/docs/unicase/images/home2-setting.png)
 
 ### Row 1
 ---
@@ -10,7 +10,7 @@ Home v2 of Unicase is built using **Visual Composer**.It has 7 rows. The **Visua
 * Revolution Slider : Here i pasted a Revolution Slider Setting Page image.
 
 
-![](http://transvelo.github.io/unicase/docs/images/home2-revolution-setting.png)
+![](http://transvelo.github.io/docs/unicase/images/home2-revolution-setting.png)
 
 ### Row 2
 ---
@@ -48,14 +48,14 @@ Home v2 of Unicase is built using **Visual Composer**.It has 7 rows. The **Visua
 ```
 
 
-![](http://transvelo.github.io/unicase/docs/images/vc-banner-setting.png)
+![](http://transvelo.github.io/docs/unicase/images/vc-banner-setting.png)
 
 ### Row 3
 ---
 * It has one element
 * Product Tabs Carousel : Here i pasted a Product Tabs Carousel Setting Page image.
 
-![](http://transvelo.github.io/unicase/docs/images/vc-product-tab-carousel-setting.png)
+![](http://transvelo.github.io/docs/unicase/images/vc-product-tab-carousel-setting.png)
 
 ### Row 4
 ---
@@ -77,27 +77,27 @@ Home v2 of Unicase is built using **Visual Composer**.It has 7 rows. The **Visua
 
 ```
 
-![](http://transvelo.github.io/unicase/docs/images/home2-banner-setting.png)
+![](http://transvelo.github.io/docs/unicase/images/home2-banner-setting.png)
 
 ### Row 5
 ---
 * It has one element
 * Products Carousel : Here i pasted a Products Featured Carousel Setting Page image.
 
-![](http://transvelo.github.io/unicase/docs/images/vc-product-featured-carousel-setting.png)
+![](http://transvelo.github.io/docs/unicase/images/vc-product-featured-carousel-setting.png)
 
 ### Row 6
 ---
 * It has one element
 * Products Carousel : Here i pasted a Products Best Seller Carousel Setting Page image.
 
-![](http://transvelo.github.io/unicase/docs/images/vc-product-bestseller-carousel-setting.png)
+![](http://transvelo.github.io/docs/unicase/images/vc-product-bestseller-carousel-setting.png)
 
 ### Row 7
 ---
 * It has one element
 * Blog Carousel : Here i pasted a Blog Carousel Setting Page image.
 
-![](http://transvelo.github.io/unicase/docs/images/vc-blog-carousel-setting.png)
+![](http://transvelo.github.io/docs/unicase/images/vc-blog-carousel-setting.png)
 
 

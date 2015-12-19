@@ -11,7 +11,7 @@
   * **Widget Title** : Pre-Built Pages
   * **Menu** : Pre-Built Pages ( name of the menu created already)
 
- ![](http://transvelo.github.io/unicase/docs/images/megamenu-item-pages-setting.png)
+ ![](http://transvelo.github.io/docs/unicase/images/megamenu-item-pages-setting.png)
 
 * Column 2 - Click on the **Add** button. It should popup **Add Element** button. Let us add **WP Custom Menu** widget under **Wordpress Widgets**. I have already created a menu (via **Appearance > Menus**).
   * **Widget Title** : WooCommerce Pages
@@ -19,4 +19,4 @@
 
 Here is the screenshot of the Megamenu Item : Pages
 
-  ![](http://transvelo.github.io/unicase/docs/images/megamenu-item-pages.png)
+  ![](http://transvelo.github.io/docs/unicase/images/megamenu-item-pages.png)

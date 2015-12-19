@@ -28,6 +28,6 @@
 * Enable / Disable Share Block.
 
 
-![](http://transvelo.github.io/unicase/docs/images/theme-options-shop.png)
+![](http://transvelo.github.io/docs/unicase/images/theme-options-shop.png)
 
 

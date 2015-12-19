@@ -8,7 +8,7 @@
 
 Here is the Footer's anatomy:
 
-![](http://transvelo.github.io/unicase/docs/images/footer-anatomy.png)
+![](http://transvelo.github.io/docs/unicase/images/footer-anatomy.png)
 
 ## Footer Contact Information
 
@@ -16,7 +16,7 @@ The **Footer Contact Information** is also the part in Footer Top Widget. This s
 
 * **Logo** - This is the same as the website logo and can be set from **Unicase > General Tab**.
 * **Footer Contact Info Text** - The default value is *"Nam libero tempore, cum soluta nobis est ses eligendi optio cumque cum soluta nobis est ses eligendi optio cumque.."* and can be changed from **Unicase > Footer Tab**.
-* **Get in Touch** - Links to Social media profiles. It can be set from **Unicase > Social Media**<br/>![](http://transvelo.github.io/unicase/docs/images/theme-options-social-media.png)
+* **Get in Touch** - Links to Social media profiles. It can be set from **Unicase > Social Media**<br/>![](http://transvelo.github.io/docs/unicase/images/theme-options-social-media.png)
 * Edit the information as required and click on **Save Changes** in **Unicase** page
 
 ## Configuring MailChimp Sign-Up Form-
@@ -172,7 +172,7 @@ The **Bottom Bar** has two sections and these 2 sections can be configured via *
 1. **Copyright Information** - the default is "*&copy; 2015 <a href="http://demo2.transvelo.in/unicase/">Unicase Store</a>*"
 2. **Payment Logos** - Displays all the payment methods available to the user. There is no default and each logo needs to be uploaded to media library. The recommended resolution for payment logos is **40x29 pixels**
 
-![](http://transvelo.github.io/unicase/docs/images/theme-options-bottom-bar.png)
+![](http://transvelo.github.io/docs/unicase/images/theme-options-bottom-bar.png)
 
 
 

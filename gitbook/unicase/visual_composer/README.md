@@ -14,7 +14,7 @@ There are 6 additional elements that are made available via **Unicase Extensions
 6. [Product Carousel](visual_composer/product_carousel.md)
 
 
-![](http://transvelo.github.io/unicase/docs/images/visual-composer-unicase-elements.png)
+![](http://transvelo.github.io/docs/unicase/images/visual-composer-unicase-elements.png)
 
 
 <div class="alert alert-info">**Deep Diving** : Learn more about using **Visual Composer** from here : http://vc.wpbakery.com/video-academy/ </div>

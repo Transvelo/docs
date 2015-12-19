@@ -4,7 +4,7 @@
 
 Allows you to add a carousel that displays products on your page.
 
-![](http://transvelo.github.io/unicase/docs/images/vc-product-featured-carousel-setting.png)
+![](http://transvelo.github.io/docs/unicase/images/vc-product-featured-carousel-setting.png)
 
 ## Settings
 
@@ -17,4 +17,4 @@ Allows you to add a carousel that displays products on your page.
 
 ## Sample Output
 
-![](http://transvelo.github.io/unicase/docs/images/vc-product-carousel-output.png)
+![](http://transvelo.github.io/docs/unicase/images/vc-product-carousel-output.png)

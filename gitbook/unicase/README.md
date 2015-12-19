@@ -1,4 +1,4 @@
-![](http://transvelo.github.io/unicase/docs/images/logo.png)
+![](http://transvelo.github.io/docs/unicase/images/logo.png)
 
 Theme Documentation
 =======

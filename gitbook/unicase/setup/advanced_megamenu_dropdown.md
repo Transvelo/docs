@@ -9,7 +9,7 @@ We built our simple Megamenu in previous section. We are now going to build a li
 * Click on edit and you should see an existing text block.
 * Delete the text edit block by hovering over the block and clicking on the button which has the trash icon.
 
-![](http://transvelo.github.io/unicase/docs/images/edit-test-megamenu-item.png)
+![](http://transvelo.github.io/docs/unicase/images/edit-test-megamenu-item.png)
 
 ## A complex Megamenu Item
 
@@ -20,7 +20,7 @@ We built our simple Megamenu in previous section. We are now going to build a li
 * Click on the grid icon and it will expand to various grid option available.
 * We will select a predefined grid which is 1/3 + 1/3 + 1/3.
 
-* Once you click on the predefined grid layout it will look like this :<br/>![](http://transvelo.github.io/unicase/docs/images/vc-three-col-grid-on-selection.png)
+* Once you click on the predefined grid layout it will look like this :<br/>![](http://transvelo.github.io/docs/unicase/images/vc-three-col-grid-on-selection.png)
 
 
 
@@ -61,13 +61,13 @@ We built our simple Megamenu in previous section. We are now going to build a li
 
 ### 3. How does the Grid look after populating ?
 
-![](http://transvelo.github.io/unicase/docs/images/vc-megamenu-backend-editor.png)
+![](http://transvelo.github.io/docs/unicase/images/vc-megamenu-backend-editor.png)
 
 Click on **Publish** button and view the output.
 
 ### 4. The Output
 
-![](http://transvelo.github.io/unicase/docs/images/vc-megamenu-advanced.png)
+![](http://transvelo.github.io/docs/unicase/images/vc-megamenu-advanced.png)
 
 ### 5. Making the megamenu dropdown full-width
 
@@ -79,10 +79,10 @@ The megamenu now looks advanced and neat. What if we want the megamenu to be ful
 4. If the **CSS Classes** field is not visible. Click on **Screen Options** on the top-right corner of the screen and check on **CSS Classess** under **Show advanced menu properties**.
 4. Click on **Save Menu**.
 
-![](http://transvelo.github.io/unicase/docs/images/yamm-fw.png)
+![](http://transvelo.github.io/docs/unicase/images/yamm-fw.png)
 
 ### 6. Megamenu Full-width
 
-![](http://transvelo.github.io/unicase/docs/images/yamm-fw-output.png)
+![](http://transvelo.github.io/docs/unicase/images/yamm-fw-output.png)
 
 

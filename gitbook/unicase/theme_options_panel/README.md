@@ -6,7 +6,7 @@ The Theme Options panel helps you easily take control over the appearance of you
 
 To access it, navigate to the **Unicase** section in the WordPress dashboard.
 
-![](http://transvelo.github.io/unicase/docs/images/unicase-options-dashboard.png)
+![](http://transvelo.github.io/docs/unicase/images/unicase-options-dashboard.png)
 
 
 ## Export Your Options

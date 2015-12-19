@@ -1,7 +1,7 @@
 # Static Content
 
 Static Content of Unicase is built using **Visual Composer**. Before creating Static Blocks, make sure **static_block** is enable in **Visual Composer > Role Manager**.
-<br/>![](http://transvelo.github.io/unicase/docs/images/vc-settings.png)
+<br/>![](http://transvelo.github.io/docs/unicase/images/vc-settings.png)
 
 Static Content creates the following static blocks
 1. Test Megamenu Item

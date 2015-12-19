@@ -7,7 +7,7 @@ By default, Wordpress displays blog posts in the home page but we will display a
 2. Create another Page from **Pages > Add New ** and name it **Blog**.
 3. Navigate to **Settings > Reading ** and choose **A static page** radio button option for **Front page displays** settings.
 
-![](http://transvelo.github.io/unicase/docs/images/reading-settings-blog.png)
+![](http://transvelo.github.io/docs/unicase/images/reading-settings-blog.png)
 
 
 Here is the **video** to setup the HomePage
@@ -38,7 +38,7 @@ In default Unicase is in **Style 2** option, if you want to configure your theme
 
 Here is the screenshot to choose the demo version
 
-![](http://transvelo.github.io/unicase/docs/images/demo2-setting.png)
+![](http://transvelo.github.io/docs/unicase/images/demo2-setting.png)
 
 Here is the **video** to switch your homepage style from Modern to Classic.
 

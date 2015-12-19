@@ -99,9 +99,9 @@ This widgetized area contains all the widgets used for layered navigation. In th
 3. **WooCommerce Layered Nav** Widget : To filter products by manufactures.
 4. **WooCommerce Layered Nav** Widget : To filter products by colors.
 
-![](http://transvelo.github.io/unicase/docs/images/filter-widget.png)
+![](http://transvelo.github.io/docs/unicase/images/filter-widget.png)
 
 ### Product Filters Sidebar Output
-![](http://transvelo.github.io/unicase/docs/images/product-filter.png)
+![](http://transvelo.github.io/docs/unicase/images/product-filter.png)
 
 

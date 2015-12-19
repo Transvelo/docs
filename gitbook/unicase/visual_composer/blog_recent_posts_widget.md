@@ -4,7 +4,7 @@
 
 Allows you to add a carousel that displays blogs on your page.
 
-![](http://transvelo.github.io/unicase/docs/images/vc-blog-carousel-setting.png)
+![](http://transvelo.github.io/docs/unicase/images/vc-blog-carousel-setting.png)
 
 ## Settings
 
@@ -17,4 +17,4 @@ Allows you to add a carousel that displays blogs on your page.
 
 ## Sample Output
 
-![](http://transvelo.github.io/unicase/docs/images/vc-blog-carousel-output.png)
+![](http://transvelo.github.io/docs/unicase/images/vc-blog-carousel-output.png)

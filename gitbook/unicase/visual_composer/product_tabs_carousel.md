@@ -4,7 +4,7 @@
 
 Allows you to add a carousel that displays product tabs on your page.
 
-![](http://transvelo.github.io/unicase/docs/images/vc-product-tab-carousel-setting.png)
+![](http://transvelo.github.io/docs/unicase/images/vc-product-tab-carousel-setting.png)
 
 ## Settings
 
@@ -22,4 +22,4 @@ Allows you to add a carousel that displays product tabs on your page.
 
 ## Sample Output
 
-![](http://transvelo.github.io/unicase/docs/images/vc-product-tabs-output.png)
+![](http://transvelo.github.io/docs/unicase/images/vc-product-tabs-output.png)

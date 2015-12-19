@@ -2,7 +2,7 @@
 
 ## General Guidelines
 
-![](http://transvelo.github.io/unicase/docs/images/new-page.png)
+![](http://transvelo.github.io/docs/unicase/images/new-page.png)
 
 1. Navigate to **Pages > Add New **.
 2. In the **Page Attributes**, select on of the available templates in the dropdown.
@@ -13,7 +13,7 @@
 
 ### Visual Composer
 
-![](http://transvelo.github.io/unicase/docs/images/vc-backend-editor.png)
+![](http://transvelo.github.io/docs/unicase/images/vc-backend-editor.png)
 
 Visual Composer is drag and drop frontend and backend page builder plugin that will save you tons of time working on the site content. You will be able to take full control over your WordPress site, build any layout you can imagine – no programming knowledge required. Moreover, now you can choose either work on a backend or move your page building process to frontend and instantly see changes you make.
 
@@ -29,7 +29,7 @@ Unicase has 3 Page templates and they are :
 
 ### Unicase Page Attributes Meta Box
 
-![](http://transvelo.github.io/unicase/docs/images/page-attributes.png)
+![](http://transvelo.github.io/docs/unicase/images/page-attributes.png)
 
 The **Unicase Page Attributes Meta Box** is available for all Pages. It helps you to override certain default settings of the Page Template. The following are its settings :
 

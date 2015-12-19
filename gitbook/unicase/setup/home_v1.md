@@ -2,7 +2,7 @@
 
 Home v1 of Unicase is built using **Visual Composer**. This is a default template with 75% of Content Section and 25% of Page Sidebar Section.Content Section is filled with 9 rows. The **Visual Composer** Backend editor of the page look like this
 
-![](http://transvelo.github.io/unicase/docs/images/home1-setting.png)
+![](http://transvelo.github.io/docs/unicase/images/home1-setting.png)
 
 ## Content Section
 
@@ -12,7 +12,7 @@ Home v1 of Unicase is built using **Visual Composer**. This is a default templat
 * Revolution Slider : Here i pasted a Revolution Slider Setting Page image.
 
 
-![](http://transvelo.github.io/unicase/docs/images/home1-revolution-setting.png)
+![](http://transvelo.github.io/docs/unicase/images/home1-revolution-setting.png)
 
 ### Row 2
 ---
@@ -50,14 +50,14 @@ Home v1 of Unicase is built using **Visual Composer**. This is a default templat
 ```
 
 
-![](http://transvelo.github.io/unicase/docs/images/vc-banner-setting.png)
+![](http://transvelo.github.io/docs/unicase/images/vc-banner-setting.png)
 
 ### Row 3
 ---
 * It has one element
 * Product Tabs Carousel : Here i pasted a Product Tabs Carousel Setting Page image.
 
-![](http://transvelo.github.io/unicase/docs/images/vc-product-tab-carousel-setting.png)
+![](http://transvelo.github.io/docs/unicase/images/vc-product-tab-carousel-setting.png)
 
 ### Row 4
 ---
@@ -79,42 +79,42 @@ Home v1 of Unicase is built using **Visual Composer**. This is a default templat
 
 ```
 
-![](http://transvelo.github.io/unicase/docs/images/home1-banner-setting.png)
+![](http://transvelo.github.io/docs/unicase/images/home1-banner-setting.png)
 
 ### Row 5
 ---
 * It has one element
 * Products Carousel : Here i pasted a Products Featured Carousel Setting Page image.
 
-![](http://transvelo.github.io/unicase/docs/images/vc-product-featured-carousel-setting.png)
+![](http://transvelo.github.io/docs/unicase/images/vc-product-featured-carousel-setting.png)
 
 ### Row 6
 ---
 * It has one element
 * Banner : Here i pasted a Banner Setting Page image.
 
-![](http://transvelo.github.io/unicase/docs/images/home2-fullwidth-banner-setting.png)
+![](http://transvelo.github.io/docs/unicase/images/home2-fullwidth-banner-setting.png)
 
 ### Row 7
 ---
 * It has one element
 * Products Carousel : Here i pasted a Products Best Seller Carousel Setting Page image.
 
-![](http://transvelo.github.io/unicase/docs/images/vc-product-bestseller-carousel-setting.png)
+![](http://transvelo.github.io/docs/unicase/images/vc-product-bestseller-carousel-setting.png)
 
 ### Row 8
 ---
 * It has one element
 * Blog Carousel : Here i pasted a Blog Carousel Setting Page image.
 
-![](http://transvelo.github.io/unicase/docs/images/vc-blog-carousel-setting.png)
+![](http://transvelo.github.io/docs/unicase/images/vc-blog-carousel-setting.png)
 
 ### Row 9
 ---
 * It has one element
 * Products Carousel : Here i pasted a Products Weekly Featured Carousel Setting Page image.
 
-![](http://transvelo.github.io/unicase/docs/images/vc-product-featured-carousel-setting.png)
+![](http://transvelo.github.io/docs/unicase/images/vc-product-featured-carousel-setting.png)
 
 ## Page Sidebar
 
@@ -133,7 +133,7 @@ It is a widgetized area and can be populated from Appearance > Widgets > Page Si
 * **Text Widget** - This includes view for Advertisement Banner Image.
 
 
-![](http://transvelo.github.io/unicase/docs/images/page-sidebar-widget-setting.png)
+![](http://transvelo.github.io/docs/unicase/images/page-sidebar-widget-setting.png)
 
 
 Here is the **video** to setup the sidebar in HomePage

@@ -2,7 +2,7 @@
 
 Terms and Conditions Page of Unicase is built using **Visual Composer**.It has one rows. The **Visual Composer** Backend editor of the page look like this
 
-![](http://transvelo.github.io/unicase/docs/images/terms-and-conditions.png)
+![](http://transvelo.github.io/docs/unicase/images/terms-and-conditions.png)
 
 ### Row 1
 ---

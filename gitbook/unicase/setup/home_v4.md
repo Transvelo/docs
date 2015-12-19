@@ -2,7 +2,7 @@
 
 Home v4 of Unicase is built using **Visual Composer**.It has 7 rows. The **Visual Composer** Backend editor of the page look like this
 
-![](http://transvelo.github.io/unicase/docs/images/home4-setting.png)
+![](http://transvelo.github.io/docs/unicase/images/home4-setting.png)
 
 ### Row 1
 ---
@@ -13,7 +13,7 @@ Home v4 of Unicase is built using **Visual Composer**.It has 7 rows. The **Visua
 * Column-2 - Revolution Slider : Here i pasted a Revolution Slider Setting Page image.
 
 
-![](http://transvelo.github.io/unicase/docs/images/home1-revolution-setting.png)
+![](http://transvelo.github.io/docs/unicase/images/home1-revolution-setting.png)
 
 
 
@@ -53,14 +53,14 @@ Home v4 of Unicase is built using **Visual Composer**.It has 7 rows. The **Visua
 ```
 
 
-![](http://transvelo.github.io/unicase/docs/images/vc-banner-setting.png)
+![](http://transvelo.github.io/docs/unicase/images/vc-banner-setting.png)
 
 ### Row 3
 ---
 * It has one element
 * Product Tabs Carousel : Here i pasted a Product Tabs Carousel Setting Page image.
 
-![](http://transvelo.github.io/unicase/docs/images/vc-product-tab-carousel-setting.png)
+![](http://transvelo.github.io/docs/unicase/images/vc-product-tab-carousel-setting.png)
 
 ### Row 4
 ---
@@ -84,7 +84,7 @@ Home v4 of Unicase is built using **Visual Composer**.It has 7 rows. The **Visua
 
 ```
 
-![](http://transvelo.github.io/unicase/docs/images/home4-banner-setting.png)
+![](http://transvelo.github.io/docs/unicase/images/home4-banner-setting.png)
 
 ### Row 5
 ---
@@ -92,7 +92,7 @@ Home v4 of Unicase is built using **Visual Composer**.It has 7 rows. The **Visua
 * Both the elements has product carousel setting
 * Products Carousel : Here i pasted a Products New Arrivals  Carousel Setting Page image.
 
-![](http://transvelo.github.io/unicase/docs/images/home3-product-carousel-setting.png)
+![](http://transvelo.github.io/docs/unicase/images/home3-product-carousel-setting.png)
 
 
 ### Row 6
@@ -100,11 +100,11 @@ Home v4 of Unicase is built using **Visual Composer**.It has 7 rows. The **Visua
 * It has one element
 * Blog Carousel : Here i pasted a Blog Carousel Setting Page image.
 
-![](http://transvelo.github.io/unicase/docs/images/vc-blog-carousel-setting.png)
+![](http://transvelo.github.io/docs/unicase/images/vc-blog-carousel-setting.png)
 
 ### Row 7
 ---
 * It has one element
 * Products Carousel : Here i pasted a Weekly Products Carousel Setting Page image.
 
-![](http://transvelo.github.io/unicase/docs/images/vc-weekly-product-carousel-setting.png)
+![](http://transvelo.github.io/docs/unicase/images/vc-weekly-product-carousel-setting.png)

@@ -9,4 +9,4 @@ Wishlist page is created automatically on activating the **YITH WooCommerce Wish
 5. Click on **Publish**.
 6. Navigate to **WooCommerce > Settings > Wishlist ** and make sure the page created in the above step is selected against the **Wishlist Page** option.
 
-![](http://transvelo.github.io/unicase/docs/images/page-wishlist.png)
+![](http://transvelo.github.io/docs/unicase/images/page-wishlist.png)

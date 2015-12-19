@@ -12,6 +12,6 @@ Follow the steps to setup the logo and favicon for your website.
 3. In **Your Logo** option, click on **upload** button to launch Wordpress Media Library. Choose an existing media file or upload a new media file.
 4. Click on **Save Changes** button to save the logo and favicon.
 
-![](http://transvelo.github.io/unicase/docs/images/theme-option-logo.png)
+![](http://transvelo.github.io/docs/unicase/images/theme-option-logo.png)
 
 

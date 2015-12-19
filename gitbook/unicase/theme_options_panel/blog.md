@@ -9,5 +9,5 @@
 * Set a Animation for Post Item.
 * Enable / Disable Single Post Share Block.
 
-![](http://transvelo.github.io/unicase/docs/images/theme-options-blog.png)
+![](http://transvelo.github.io/docs/unicase/images/theme-options-blog.png)
 

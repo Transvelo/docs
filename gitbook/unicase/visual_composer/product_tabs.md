@@ -4,7 +4,7 @@
 
 Allows you to add product tabs on your page.
 
-![](http://transvelo.github.io/unicase/docs/images/vc-product-tabs-settings.png)
+![](http://transvelo.github.io/docs/unicase/images/vc-product-tabs-settings.png)
 
 ## Settings
 
@@ -20,4 +20,4 @@ Allows you to add product tabs on your page.
 
 ## Sample Output
 
-![](http://transvelo.github.io/unicase/docs/images/vc-product-tabs-output.png)
+![](http://transvelo.github.io/docs/unicase/images/vc-product-tabs-output.png)

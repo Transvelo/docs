@@ -10,4 +10,4 @@
 
 Here is the screenshot of the Test Megamenu Item
 
-![](http://transvelo.github.io/unicase/docs/images/shop-category-jumbo.png)
+![](http://transvelo.github.io/docs/unicase/images/shop-category-jumbo.png)
