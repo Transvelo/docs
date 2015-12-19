@@ -8,13 +8,13 @@
 
 Header style 1 does not have a horizontal navbar. Here is how it looks like for **Cart** Page.
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/header-style-1-cart.png)
+![](http://transvelo.github.io/docs/mediacenter/images/header-style-1-cart.png)
 
 ### Header Style 2
 
 Header style 2 features a horizontal navbar. Here is how it looks like for the same **Cart** Page.
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/header-style-2-cart.png)
+![](http://transvelo.github.io/docs/mediacenter/images/header-style-2-cart.png)
 
 ### Choosing a Header Style
 
@@ -25,7 +25,7 @@ Header style 2 features a horizontal navbar. Here is how it looks like for the s
 3. You will find **Header Style** option with **Header 1** and **Header 2** as two choices presented as radio buttons.
 4. Click on the radio button that represents the style of your choice and click on **Save Changes**.
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/choose-header-style.png)
+![](http://transvelo.github.io/docs/mediacenter/images/choose-header-style.png)
 
 ## Contact Number and Support Email
 
@@ -38,4 +38,4 @@ Media Center displays a contact phone number and support email just above the se
 5. Replace the prefilled values of the text boxes with your support phone number and email address.
 4. Scroll down and click on "Save Changes** button.
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/choose-support-details.png)
+![](http://transvelo.github.io/docs/mediacenter/images/choose-support-details.png)

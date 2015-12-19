@@ -8,7 +8,7 @@
 
 Here is the Footer's anatomy:
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/footer-anatomy.png)
+![](http://transvelo.github.io/docs/mediacenter/images/footer-anatomy.png)
 
 ## Footer Widget Area
 
@@ -22,7 +22,7 @@ By default the footer widget area is populated with 3 instances of 2 widgets and
 2. **WooCommerce Products** Widget - configured to display **On Sale Products**
 3. **WooCommerce Top Rated Products** Widget.
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/footer-widget-area.png)
+![](http://transvelo.github.io/docs/mediacenter/images/footer-widget-area.png)
 
 ## Footer Contact Information
 
@@ -30,8 +30,8 @@ The **Footer Contact Information** is just below the **Footer widget area** and 
 
 * **Logo** - This is the same as the website logo and can be set from **MC Options > General Tab**.
 * **Footer Contact Info Text** - The default value is *"Feel free to contact us via phone,email or just send us mail."* and can be changed from **MC Options > Footer Tab**.
-* **Footer Contact Info Address** - The default value is "*17 Princess Road, London, Greater London NW1 8JR, UK 1-888-8MEDIA (1-888-892-9953)*" and can be changed from **MC Options > Footer Tab**<br/>![](http://transvelo.github.io/mediacenter/docs/assets/images/footer-contact-information.png)
-* **Get in Touch** - Links to Social media profiles. It can be set from **MC Options > Social Media**<br/>![](http://transvelo.github.io/mediacenter/docs/assets/images/theme-options-social-media.png)
+* **Footer Contact Info Address** - The default value is "*17 Princess Road, London, Greater London NW1 8JR, UK 1-888-8MEDIA (1-888-892-9953)*" and can be changed from **MC Options > Footer Tab**<br/>![](http://transvelo.github.io/docs/mediacenter/images/footer-contact-information.png)
+* **Get in Touch** - Links to Social media profiles. It can be set from **MC Options > Social Media**<br/>![](http://transvelo.github.io/docs/mediacenter/images/theme-options-social-media.png)
 * Edit the information as required and click on **Save Changes** in **MC Options** page.
 
 ## Footer Bottom Widget Area
@@ -51,7 +51,7 @@ By default the footer bottom widget area is populated with 4 instances of 4 widg
 **Pro Tip:** Each widget in **footer bottom widget area** has a margin-right of **60px** ( CSS Rule : **#footer .footer-bottom-widget-area .columns**). Adjust the margin-right value to accomodate more widgets.
 </div>
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/footer-bottom-widget-area.png)
+![](http://transvelo.github.io/docs/mediacenter/images/footer-bottom-widget-area.png)
 
 ## Bottom Bar
 
@@ -60,6 +60,6 @@ The **Bottom Bar** has two sections and these 2 sections can be configured via *
 1. **Copyright Information** - the default is "*&copy; &lt;a href="&lt;website-url&gt;"&gt;Media Center&lt;/a&gt; - All Rights Reserved.*"
 2. **Payment Logos** - Displays all the payment methods available to the user. There is no default and each logo needs to be uploaded to media library. The recommended resolution for payment logos is **40x29 pixels**
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/theme-options-bottom-bar.png)
+![](http://transvelo.github.io/docs/mediacenter/images/theme-options-bottom-bar.png)
 
 

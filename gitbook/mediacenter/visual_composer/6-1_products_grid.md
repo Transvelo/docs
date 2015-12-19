@@ -4,7 +4,7 @@
 
 Allows you to add a 6-1 Products Grid to your page. It has 2 columns. One Column displays 6 products and the other column displays just one product along with a gallery of images.
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/vc-6-1-product-grid-setting.png)
+![](http://transvelo.github.io/docs/mediacenter/images/vc-6-1-product-grid-setting.png)
 
 ## Settings
 
@@ -21,4 +21,4 @@ Allows you to add a 6-1 Products Grid to your page. It has 2 columns. One Column
 
 ## Sample Output
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/vc-6-1grid-output.png)
+![](http://transvelo.github.io/docs/mediacenter/images/vc-6-1grid-output.png)

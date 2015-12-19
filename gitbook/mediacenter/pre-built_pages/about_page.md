@@ -2,7 +2,7 @@
 
 About Page<sup>v1</sup> of Media Center is built using **Visual Composer**.It has 3 rows. The **Visual Composer** Backend editor of the page look like this
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/aboutv1.png)
+![](http://transvelo.github.io/docs/mediacenter/images/aboutv1.png)
 
 ### Row 1
 ---
@@ -32,7 +32,7 @@ It has two instances Team.
 <br/><br/>
 .
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/about-teamMember-setting.png)
+![](http://transvelo.github.io/docs/mediacenter/images/about-teamMember-setting.png)
 
 ### Row 2
 ---
@@ -52,7 +52,7 @@ Donec libero dolor, tincidunt id laoreet vitae, ullamcorper eu tortor. Maecenas 
 
 Again this column 2 has a nested row which is divided into 3 columns in ratio 1/3 : 1/3 : 1/3
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/aboutv1-serviceIcon-setting.png)
+![](http://transvelo.github.io/docs/mediacenter/images/aboutv1-serviceIcon-setting.png)
 
 ### Row 3
 ---
@@ -60,5 +60,5 @@ Again this column 2 has a nested row which is divided into 3 columns in ratio 1/
 * It has only one column.
 * Text Block : Here is an example short code for that element`[brands per_page="6" columns="6" carousel="false"]`
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/aboutv1-r3-txtblocksetting.png)
+![](http://transvelo.github.io/docs/mediacenter/images/aboutv1-r3-txtblocksetting.png)
 

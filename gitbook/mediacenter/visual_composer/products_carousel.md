@@ -4,7 +4,7 @@
 
 Allows you to add a carousel of products to your page. You can choose from predefined set of products like recent products, featured products, on-sale products, etc or you can specify the IDs/SKUs of products you wish to display in the carousel.
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/vc-ProductsCarousel-setting..png)
+![](http://transvelo.github.io/docs/mediacenter/images/vc-ProductsCarousel-setting..png)
 
 ## Settings
 
@@ -24,5 +24,5 @@ Allows you to add a carousel of products to your page. You can choose from prede
 
 ## Sample Output
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/vc-ProductsCarousel-output.png)
+![](http://transvelo.github.io/docs/mediacenter/images/vc-ProductsCarousel-output.png)
 

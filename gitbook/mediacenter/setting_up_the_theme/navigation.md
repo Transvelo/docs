@@ -28,17 +28,17 @@ To create a new menu :
 **Note**: **Main Navigation** is not available for **Header Style 1**
 </div>
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/navigation-header-style-1.png)
+![](http://transvelo.github.io/docs/mediacenter/images/navigation-header-style-1.png)
 
 ### Navigation Menus and their location in Header Style 2
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/navigation-header-style-1.png)
+![](http://transvelo.github.io/docs/mediacenter/images/navigation-header-style-1.png)
 
 ### Dropdown Levels ##
 
 By default Bootstrap supports only single level dropdown. This is keeping in mind various devices that Bootstrap supports. **MediaCenter** theme has tweaked Bootstrap's code to support more than one level. However we do not recommend dropdown level more than one level deep.
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/navigation-depth.png)
+![](http://transvelo.github.io/docs/mediacenter/images/navigation-depth.png)
 
 ### Dropdown Trigger & Animation
 
@@ -52,7 +52,7 @@ Dropdown menu can be triggered by either : **Click** or **Hover** action. Once t
 6. RoleIn
 7. ZoomIn
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/navigation-dropdown-trigger-animation.png)
+![](http://transvelo.github.io/docs/mediacenter/images/navigation-dropdown-trigger-animation.png)
 
 <div class="alert alert-warning">**Note** : Dropdown trigger and animation are available only for first level dropdown. Dropdown levels more than one level deep are triggered on hover and fadeInUp animation.</div>
 
@@ -66,4 +66,4 @@ You can enable/disable language/currency switcher and display them along with ei
 
 <div class="alert alert-danger">**Disclaimer** : We are affilate partners of WPML plugin and we receive a commission when you make a purchase by clicking on the links above.</div>
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/navigation-lang-currency-switcher.png)
+![](http://transvelo.github.io/docs/mediacenter/images/navigation-lang-currency-switcher.png)

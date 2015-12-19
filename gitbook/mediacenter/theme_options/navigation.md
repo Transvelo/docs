@@ -30,5 +30,5 @@
 * Enable / Disable the Currency Switcher.
 * Set a Currency Switcher Position.
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/theme-options-navigation.png)
+![](http://transvelo.github.io/docs/mediacenter/images/theme-options-navigation.png)
 

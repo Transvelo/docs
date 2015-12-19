@@ -4,7 +4,7 @@
 
 Allows you to add product tabs that contains 3 tabs to your home page.
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/vc-homePageTab-setting.png)
+![](http://transvelo.github.io/docs/mediacenter/images/vc-homePageTab-setting.png)
 
 ## Settings
 
@@ -20,4 +20,4 @@ Allows you to add product tabs that contains 3 tabs to your home page.
 
 ## Sample Output
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/vc-homepagetab-output.png)
+![](http://transvelo.github.io/docs/mediacenter/images/vc-homepagetab-output.png)

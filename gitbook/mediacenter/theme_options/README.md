@@ -6,7 +6,7 @@ The Theme Options panel helps you easily take control over the appearance of you
 
 To access it, navigate to the **MC Options** section in the WordPress dashboard.
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/mc-options-dashboard.png)
+![](http://transvelo.github.io/docs/mediacenter/images/mc-options-dashboard.png)
 
 ## Export Your Options
 

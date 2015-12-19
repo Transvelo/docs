@@ -4,7 +4,7 @@
 
 Allows you to add a carousel that displays brand logos on your page.
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/vc-brand-carousel-settings.png)
+![](http://transvelo.github.io/docs/mediacenter/images/vc-brand-carousel-settings.png)
 
 ## Settings
 
@@ -17,5 +17,5 @@ Allows you to add a carousel that displays brand logos on your page.
 
 ## Sample Output
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/vc-BrandCarousel-output.png)
+![](http://transvelo.github.io/docs/mediacenter/images/vc-BrandCarousel-output.png)
 

@@ -5,7 +5,7 @@
 
 Add a Google map with a location marked at its center. To mark the location, you need to know the latitude and longitude position of the location.
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/vc-googleMap-setting.png)
+![](http://transvelo.github.io/docs/mediacenter/images/vc-googleMap-setting.png)
 
 ## Settings
 
@@ -20,4 +20,4 @@ Add a Google map with a location marked at its center. To mark the location, you
 
 ## Sample Output
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/vc-googlemap-output.png)
+![](http://transvelo.github.io/docs/mediacenter/images/vc-googlemap-output.png)

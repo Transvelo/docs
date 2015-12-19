@@ -4,7 +4,7 @@
 
 Allows add a vertical menu to your page. Usually added to home page.
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/vc-verticalMenu-setting.png)
+![](http://transvelo.github.io/docs/mediacenter/images/vc-verticalMenu-setting.png)
 
 ## Settings
 
@@ -19,4 +19,4 @@ Allows add a vertical menu to your page. Usually added to home page.
 
 ## Sample Output
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/vc-vertical-menu-output.png)
+![](http://transvelo.github.io/docs/mediacenter/images/vc-vertical-menu-output.png)

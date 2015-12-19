@@ -16,4 +16,4 @@
 *  Update the Email Address for support.
 
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/theme-options-header.png)
+![](http://transvelo.github.io/docs/mediacenter/images/theme-options-header.png)

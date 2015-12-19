@@ -12,8 +12,8 @@
 
 ## Product Comparison Page Editor
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/page-product-comparison.png)
+![](http://transvelo.github.io/docs/mediacenter/images/page-product-comparison.png)
 
 ## Assigning Product Comparison Page in MC Options
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/mc-options-shop-page-settings.png)
+![](http://transvelo.github.io/docs/mediacenter/images/mc-options-shop-page-settings.png)

@@ -20,4 +20,4 @@
 * Set a Single Product Page Layout.
 * Set a Product Comparision Page.
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/theme-options-shop.png)
+![](http://transvelo.github.io/docs/mediacenter/images/theme-options-shop.png)

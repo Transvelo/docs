@@ -10,7 +10,7 @@ The taxonomy is '*product_label*'.
 
 Setting up labels themselves uses an interface you will be familiar with. It’s recommended that you set up any **label** you will be using over and over in this way. Navigate to **Products > Labels** and you will be presented with the following screen:
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/labels-screen.png)
+![](http://transvelo.github.io/docs/mediacenter/images/labels-screen.png)
 
 Here you can quickly and easily add labels, its text color and background color.
 

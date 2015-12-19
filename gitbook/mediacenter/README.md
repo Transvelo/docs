@@ -1,4 +1,4 @@
-![](http://transvelo.github.io/mediacenter/docs/assets/images/mclogo.png)
+![](http://transvelo.github.io/docs/mediacenter/images/mclogo.png)
 
 Theme Documentation
 =======

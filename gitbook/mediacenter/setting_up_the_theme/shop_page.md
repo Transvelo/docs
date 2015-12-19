@@ -70,7 +70,7 @@ Shop Sidebar if enabled in the layout has two widgetized areas.
 1. **Product Filters** - This will have all the widgets used for layered navigation.
 2. **Shop Sidebar** - This will have the general widgets.
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/shop-sidebars.png)
+![](http://transvelo.github.io/docs/mediacenter/images/shop-sidebars.png)
 
 Both the widgetized areas can be populated from **Appearance > Widgets**
 
@@ -82,7 +82,7 @@ This widgetized area contains all the widgets used for layered navigation. In th
 2. **MediaCenter Brands Filter** Widget : To filter products by brands.
 3. **WooCommerce Price Filter** Widget : To filter products by price.
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/sidebar-product-filters.png)
+![](http://transvelo.github.io/docs/mediacenter/images/sidebar-product-filters.png)
 
 ### Shop Sidebar
 
@@ -93,4 +93,4 @@ This widgetized area contains widgets that generally go into shop's sidebar. In 
 3. **WP Text** Widget: To display an image banner.
 4. **WooCommerce Products** Widget : Configured to display **Featured Products**.
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/sidebar-shop.png)
+![](http://transvelo.github.io/docs/mediacenter/images/sidebar-shop.png)

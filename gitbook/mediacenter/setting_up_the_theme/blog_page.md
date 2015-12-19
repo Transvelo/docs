@@ -10,7 +10,7 @@ By default Wordpress displays blog posts in front page but Media Center theme us
 4. Click on **A static Page** option for **Front page displays**.
 5. In the **Posts page** dropdown, choose the page you just created in step 2.
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/reading-settings-blog.png)
+![](http://transvelo.github.io/docs/mediacenter/images/reading-settings-blog.png)
 
 ## Choosing a Blog Layout & Style
 
@@ -37,5 +37,5 @@ MediaCenter supports 'image', 'gallery', 'video', 'audio', 'quote', 'link', 'asi
 
 If a sidebar layout is chosen, then the sidebar is populated with widgets. The name of the sidebar area is **Sidebar**.
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/sidebar-blog.png)
+![](http://transvelo.github.io/docs/mediacenter/images/sidebar-blog.png)
 

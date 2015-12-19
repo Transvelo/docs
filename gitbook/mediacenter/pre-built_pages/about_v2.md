@@ -2,7 +2,7 @@
 
 About Page<sup>v2</sup> of Media Center is built using **Visual Composer**.It has 4 rows. The **Visual Composer** Backend editor of the page look like this
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/aboutv2.png)
+![](http://transvelo.github.io/docs/mediacenter/images/aboutv2.png)
 
 ### Row 1
 ---
@@ -15,7 +15,7 @@ It has one element.
 * Single Image Setting : Here is an example Single Image Setting screen
 <br/><br/>
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/aboutv2-r1-c1.png)
+![](http://transvelo.github.io/docs/mediacenter/images/aboutv2-r1-c1.png)
 
 ##### Column 2 (1/2) :
 It has one element.
@@ -67,7 +67,7 @@ Mauris rhoncus aliquet purus, a ornare nisi euismod in. Interdum et malesuada fa
 * Text Block with some short code and also it has section setting insideof it.
 * Here i paste a sample section setting image.
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/aboutv2-section-setting.png)
+![](http://transvelo.github.io/docs/mediacenter/images/aboutv2-section-setting.png)
 
 ### Row 3
 ---
@@ -77,7 +77,7 @@ Mauris rhoncus aliquet purus, a ornare nisi euismod in. Interdum et malesuada fa
 * A sample Pie Chart Setting image is pasted here.
 <br/><br/>
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/aboutv2-pie-chart-setting.png)
+![](http://transvelo.github.io/docs/mediacenter/images/aboutv2-pie-chart-setting.png)
 
 ### Row 4
 ---
@@ -87,5 +87,5 @@ Mauris rhoncus aliquet purus, a ornare nisi euismod in. Interdum et malesuada fa
 * A sample Team Member Setting image for a single column is pasted here.
 <br/><br/>
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/aboutv2-teamMember-setting.png)
+![](http://transvelo.github.io/docs/mediacenter/images/aboutv2-teamMember-setting.png)
 

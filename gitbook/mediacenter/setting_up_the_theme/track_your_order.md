@@ -6,4 +6,4 @@
 4. Under **Discussion**, uncheck **Allow Comments** and **Allow trackbacks and pingbacks on this page**.
 5. Click on **Publish**.
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/page-track-your-order.png)
+![](http://transvelo.github.io/docs/mediacenter/images/page-track-your-order.png)

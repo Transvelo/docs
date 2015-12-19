@@ -2,7 +2,7 @@
 
 Contact Page<sup>v2</sup> of Media Center is built using **Visual Composer**.It has 2 rows. The **Visual Composer** Backend editor of the page look like this
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/contactv2.png)
+![](http://transvelo.github.io/docs/mediacenter/images/contactv2.png)
 
 
 ### Row 1
@@ -34,7 +34,7 @@ Contact Page<sup>v2</sup> of Media Center is built using **Visual Composer**.It 
 * **MediaCenter Google Map Element**.
 * Here is the image of Google Map Setting page.
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/contactv1-googleMap-setting.png)
+![](http://transvelo.github.io/docs/mediacenter/images/contactv1-googleMap-setting.png)
 
 ###### Element 3
 * **Text Block** : Content of text block given below :

@@ -16,7 +16,7 @@ There are 9 additional elements that are made available via **MediaCenter Extens
 8. [Google Map](visual_composer/google_map.md)
 9. [Home Page Tabs](visual_composer/home_page_tabs.md)
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/visual-composer-mc-elements.png)
+![](http://transvelo.github.io/docs/mediacenter/images/visual-composer-mc-elements.png)
 
 <div class="alert alert-info">**Deep Diving** : Learn more about using **Visual Composer** from here : http://vc.wpbakery.com/video-academy/ </div>
 

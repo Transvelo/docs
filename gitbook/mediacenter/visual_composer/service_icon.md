@@ -4,7 +4,7 @@
 
 Allows you add a service/feature description along with an icon.
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/vc-serviceIcon-setting.png)
+![](http://transvelo.github.io/docs/mediacenter/images/vc-serviceIcon-setting.png)
 
 ## Settings
 
@@ -17,4 +17,4 @@ Allows you add a service/feature description along with an icon.
 
 ## Sample Output
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/vc-serviceIcon-output.png)
+![](http://transvelo.github.io/docs/mediacenter/images/vc-serviceIcon-output.png)

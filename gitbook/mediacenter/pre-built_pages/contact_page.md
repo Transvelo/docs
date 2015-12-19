@@ -2,14 +2,14 @@
 
 Contact Page<sup>v1</sup> of Media Center is built using **Visual Composer**.It has 2 rows. The **Visual Composer** Backend editor of the page look like this
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/contactv1.png)
+![](http://transvelo.github.io/docs/mediacenter/images/contactv1.png)
 
 ### Row 1
 ---
 * It has one column which and the element is MediaCenter Google Map.
 * Here is the screenshot of Google Map Setting page.
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/contactv1-googleMap-setting.png)
+![](http://transvelo.github.io/docs/mediacenter/images/contactv1-googleMap-setting.png)
 
 ### Row 2
 ---
@@ -31,7 +31,7 @@ Maecenas dolor elit, semper a sem sed, pulvinar molestie lacus. Aliquam dignissi
 <div class="cf-style-1"><div class="row field-row"><div class="col-xs-12 col-sm-6"><label>Your Name*</label>[text* your-name class:le-input]</div><div class="col-xs-12 col-sm-6"><label>Your Email*</label>[email* your-email class:le-input]</div></div><!-- /.field-row --><div class="field-row"><label>Subject</label>[text your-subject class:le-input]</div><!-- /.field-row --><div class="field-row"><label>Your Message</label>[textarea your-message x8 class:le-input]</div><!-- /.field-row --><div class="buttons-holder">[submit class:le-button class:huge "Send Message"]</div><!-- /.buttons-holder --></div>
 ```
 
-![](http://transvelo.github.io/mediacenter/docs/assets/images/contactv1-form7-setting.png)
+![](http://transvelo.github.io/docs/mediacenter/images/contactv1-form7-setting.png)
 
 ##### Column 2 (4/12) :
 
