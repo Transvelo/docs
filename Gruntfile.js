@@ -7,7 +7,11 @@ module.exports = function( grunt ) {
 
 		// Clean grunt files
 		clean: {
-			files: '.grunt'
+			files: '.grunt',
+			bethlehem: 'gh-pages/bethlehem/',
+			mediacenter: 'gh-pages/mediacenter/',
+			sportexx: 'gh-pages/sportexx/',
+			unicase: 'gh-pages/unicase/',
 		},
 
 		// Copy documantation to gh-pages
@@ -70,27 +74,27 @@ module.exports = function( grunt ) {
 
 	// Register tasks
 	grunt.registerTask( 'default', [
-		'gitbook', 'copy'
+		'gitbook', 'clean', 'copy'
 	]);
 
 	grunt.registerTask( 'bethlehem', [
-		'gitbook:bethlehem', 'copy:bethlehem'
+		'gitbook:bethlehem', 'clean:bethlehem', 'copy:bethlehem'
 	]);
 
 	grunt.registerTask( 'mediacenter', [
-		'gitbook:mediacenter', 'copy:mediacenter'
+		'gitbook:mediacenter', 'clean:mediacenter', 'copy:mediacenter'
 	]);
 
 	grunt.registerTask( 'sportexx', [
-		'gitbook:sportexx', 'copy:sportexx'
+		'gitbook:sportexx', 'clean:sportexx', 'copy:sportexx'
 	]);
 
 	grunt.registerTask( 'unicase', [
-		'gitbook:unicase', 'copy:unicase'
+		'gitbook:unicase', 'clean:unicase', 'copy:unicase'
 	]);
 
 	grunt.registerTask( 'publish', [
 		'gh-pages',
-		'clean'
+		'clean:files'
 	]);
 };
