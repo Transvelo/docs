@@ -6,4 +6,7 @@ config.codekit
 npm-debug.log
 .grunt
 
+# Gitbook
+gitbook/*/_book
+
 .DS_Store
