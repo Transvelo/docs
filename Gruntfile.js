@@ -70,23 +70,23 @@ module.exports = function( grunt ) {
 
 	// Register tasks
 	grunt.registerTask( 'default', [
-		'copy'
+		'gitbook', 'copy'
 	]);
 
 	grunt.registerTask( 'bethlehem', [
-		'copy:bethlehem'
+		'gitbook:bethlehem', 'copy:bethlehem'
 	]);
 
 	grunt.registerTask( 'mediacenter', [
-		'copy:mediacenter'
+		'gitbook:mediacenter', 'copy:mediacenter'
 	]);
 
 	grunt.registerTask( 'sportexx', [
-		'copy:sportexx'
+		'gitbook:sportexx', 'copy:sportexx'
 	]);
 
 	grunt.registerTask( 'unicase', [
-		'copy:unicase'
+		'gitbook:unicase', 'copy:unicase'
 	]);
 
 	grunt.registerTask( 'publish', [
