@@ -1,0 +1,9 @@
+# Codekit
+config.codekit
+
+# Grunt
+/node_modules/
+npm-debug.log
+.grunt
+
+.DS_Store
