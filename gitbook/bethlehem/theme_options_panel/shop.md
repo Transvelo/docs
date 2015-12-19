@@ -20,4 +20,4 @@
 * Set a Product Item Animation.
 * Enable / Disable the Lazy load product images.
 
-![](http://transvelo.github.io/bethlehem/docs/images/theme-options-shop.png)
+![](http://transvelo.github.io/docs/bethlehem/images/theme-options-shop.png)

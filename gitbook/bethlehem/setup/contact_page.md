@@ -2,7 +2,7 @@
 
 Contact Page of Bethlehem is built using **Visual Composer**.It has 2 rows. The **Visual Composer** Backend editor of the page look like this
 
-![](http://transvelo.github.io/bethlehem/docs/images/contact.png)
+![](http://transvelo.github.io/docs/bethlehem/images/contact.png)
 
 
 ### Row 1
@@ -11,7 +11,7 @@ Contact Page of Bethlehem is built using **Visual Composer**.It has 2 rows. The 
 
 #### **Title Widget Setting**
 
-![](http://transvelo.github.io/bethlehem/docs/images/contact-page-title-setting.png)
+![](http://transvelo.github.io/docs/bethlehem/images/contact-page-title-setting.png)
 
 #### **Contact Form 7 Setting**
 
@@ -38,13 +38,13 @@ Contact Page of Bethlehem is built using **Visual Composer**.It has 2 rows. The 
 
 Here is the contact form setting
 
-![](http://transvelo.github.io/bethlehem/docs/images/contact-page-form-setting.png)
+![](http://transvelo.github.io/docs/bethlehem/images/contact-page-form-setting.png)
 
 
 ### Row 2
 ---
 * It has only one element, which is event venue location.
 
-![](http://transvelo.github.io/bethlehem/docs/images/contact-page-event-location-setting.png)
+![](http://transvelo.github.io/docs/bethlehem/images/contact-page-event-location-setting.png)
 
 

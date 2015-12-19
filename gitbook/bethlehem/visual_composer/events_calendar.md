@@ -4,7 +4,7 @@
 
 Allows you to show events calendar on your page.
 
-![](http://transvelo.github.io/bethlehem/docs/images/vc-events-calender-settings.png)
+![](http://transvelo.github.io/docs/bethlehem/images/vc-events-calender-settings.png)
 
 ## Settings
 
@@ -17,4 +17,4 @@ Allows you to show events calendar on your page.
 
 ## Sample Output
 
-![](http://transvelo.github.io/bethlehem/docs/images/vc-events-calender-output.png)
+![](http://transvelo.github.io/docs/bethlehem/images/vc-events-calender-output.png)

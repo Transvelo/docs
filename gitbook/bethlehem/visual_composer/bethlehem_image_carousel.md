@@ -4,7 +4,7 @@
 
 Allows you to add snaps from gallery on your page.
 
-![](http://transvelo.github.io/bethlehem/docs/images/vc-bethlehem-image-gallery-setting.png)
+![](http://transvelo.github.io/docs/bethlehem/images/vc-bethlehem-image-gallery-setting.png)
 
 ## Settings
 
@@ -20,4 +20,4 @@ Allows you to add snaps from gallery on your page.
 
 ## Sample Output
 
-![](http://transvelo.github.io/bethlehem/docs/images/vc-bethlehem-image-gallery-output.png)
+![](http://transvelo.github.io/docs/bethlehem/images/vc-bethlehem-image-gallery-output.png)

@@ -4,7 +4,7 @@
 
 Allows you to add a carousel that displays sermons on your page.
 
-![](http://transvelo.github.io/bethlehem/docs/images/vc-sermons-carousel-settings.png)
+![](http://transvelo.github.io/docs/bethlehem/images/vc-sermons-carousel-settings.png)
 
 ## Settings
 
@@ -22,4 +22,4 @@ Allows you to add a carousel that displays sermons on your page.
 
 ## Sample Output
 
-![](http://transvelo.github.io/bethlehem/docs/images/vc-sermons-carousel-output.png)
+![](http://transvelo.github.io/docs/bethlehem/images/vc-sermons-carousel-output.png)

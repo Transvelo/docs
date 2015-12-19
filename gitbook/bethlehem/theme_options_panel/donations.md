@@ -13,4 +13,4 @@
 * Set a Donations Page Layout.
 * Set a Donations Single Page Layout.
 
-![](http://transvelo.github.io/bethlehem/docs/images/theme-options-donation.png)
+![](http://transvelo.github.io/docs/bethlehem/images/theme-options-donation.png)

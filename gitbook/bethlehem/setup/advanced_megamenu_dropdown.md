@@ -9,7 +9,7 @@ We built our simple Megamenu in previous section. We are now going to build a li
 * Click on edit and you should see an existing text block.
 * Delete the text edit block by hovering over the block and clicking on the button which has the trash icon.
 
-![](http://transvelo.github.io/bethlehem/docs/images/edit-page-submenu.png)
+![](http://transvelo.github.io/docs/bethlehem/images/edit-page-submenu.png)
 
 
 ## A complex Megamenu Item
@@ -20,7 +20,7 @@ We built our simple Megamenu in previous section. We are now going to build a li
 * On the top-right of each row, you will find a grid icon, next to the move icon.
 * Click on the grid icon and it will expand to various grid option available.
 * Now we need 3 columns with the ration of 6/12 + 3/12 + 3/12 , but it is not in the predefined grid for that we click custom icon to set the gird.
-* After setting the custom grid it will look like this :<br/>![](http://transvelo.github.io/bethlehem/docs/images/vc-three-col-grid-on-selection.png)
+* After setting the custom grid it will look like this :<br/>![](http://transvelo.github.io/docs/bethlehem/images/vc-three-col-grid-on-selection.png)
 
 
 
@@ -69,13 +69,13 @@ We built our simple Megamenu in previous section. We are now going to build a li
 
 ### 3. How does the Grid look after populating ?
 
-![](http://transvelo.github.io/bethlehem/docs/images/vc-megamenu-backend-editor.png)
+![](http://transvelo.github.io/docs/bethlehem/images/vc-megamenu-backend-editor.png)
 
 Click on **Publish** button and view the output.
 
 ### 4. The Output
 
-![](http://transvelo.github.io/bethlehem/docs/images/vc-megamenu-advanced.png)
+![](http://transvelo.github.io/docs/bethlehem/images/vc-megamenu-advanced.png)
 
 ### 5. Split the megamenu dropdown in Left and Right Column
 
@@ -86,10 +86,10 @@ The megamenu now looks advanced and neat. What if we want the megamenu to be ful
 3. In the **CSS Classes** text box, enter `split-right`. This will make the megamenu to split into left nav and right nav.
 4. If the **CSS Classes** field is not visible. Click on **Screen Options** on the top-right corner of the screen and check on **CSS Classess** under **Show advanced menu properties**.
 4. Click on **Save Menu**.
-![](http://transvelo.github.io/bethlehem/docs/images/split-right-setting.png)
+![](http://transvelo.github.io/docs/bethlehem/images/split-right-setting.png)
 
 ### Output of the Split Megamenu
-![](http://transvelo.github.io/bethlehem/docs/images/split-right-output.png)
+![](http://transvelo.github.io/docs/bethlehem/images/split-right-output.png)
 
 
 

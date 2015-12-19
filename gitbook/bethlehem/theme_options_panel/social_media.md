@@ -15,5 +15,5 @@
 * Type your Dribble profile URL here.
 * Type your Stumble Upon profile URL here.
 
-![](http://transvelo.github.io/bethlehem/docs/images/theme-options-social.png)
+![](http://transvelo.github.io/docs/bethlehem/images/theme-options-social.png)
 

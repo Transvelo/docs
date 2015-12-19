@@ -4,7 +4,7 @@
 
 Allows you to add a banner image and an overlay text. It also allows you to animate the banner on hover action.
 
-![](http://transvelo.github.io/bethlehem/docs/images/vc-banner-settings.png)
+![](http://transvelo.github.io/docs/bethlehem/images/vc-banner-settings.png)
 
 ## Settings
 
@@ -20,4 +20,4 @@ Allows you to add a banner image and an overlay text. It also allows you to anim
 
 ## Sample Output
 
-![](http://transvelo.github.io/bethlehem/docs/images/vc-banner-output.png)
+![](http://transvelo.github.io/docs/bethlehem/images/vc-banner-output.png)

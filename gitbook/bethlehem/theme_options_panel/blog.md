@@ -6,4 +6,4 @@
 * Select the layout style for the Blog Listing.
 * Set a Force Excerpt for your Blog to Show only excerpt instead of blog content in archive pages.
 
-![](http://transvelo.github.io/bethlehem/docs/images/theme-options-blog.png)
+![](http://transvelo.github.io/docs/bethlehem/images/theme-options-blog.png)

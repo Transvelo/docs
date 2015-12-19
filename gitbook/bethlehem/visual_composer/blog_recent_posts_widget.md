@@ -4,7 +4,7 @@
 
 Allows you to add recent post on your page.
 
-![](http://transvelo.github.io/bethlehem/docs/images/vc-blog-recent-posts-settings.png)
+![](http://transvelo.github.io/docs/bethlehem/images/vc-blog-recent-posts-settings.png)
 
 ## Settings
 
@@ -17,4 +17,4 @@ Allows you to add recent post on your page.
 
 ## Sample Output
 
-![](http://transvelo.github.io/bethlehem/docs/images/vc-blog-recent-posts-output.png)
+![](http://transvelo.github.io/docs/bethlehem/images/vc-blog-recent-posts-output.png)

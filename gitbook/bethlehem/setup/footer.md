@@ -23,7 +23,7 @@
 * Update the Copyright Information.
 
 
-![](http://transvelo.github.io/bethlehem/docs/images/theme-options-footer.png)
+![](http://transvelo.github.io/docs/bethlehem/images/theme-options-footer.png)
 
 ### Choosing a Footer Background
 
@@ -35,17 +35,17 @@
 4. When choosing **Custom** option, it will show multiple options like **Header Background**, **Header Text Color** and **Header Link Color**.
 5. Choose the footer background of your choice and click on **Save Changes**.
 
-![](http://transvelo.github.io/bethlehem/docs/images/choose-footer-background.png)
+![](http://transvelo.github.io/docs/bethlehem/images/choose-footer-background.png)
 
 ## Setting Footer Top Bar
 
 Footer Top Bar is the top most row in the Footer. This section has :
 
 * **Footer Logo** - This is the same as the website logo and can be set from **Bethlehem > General Tab**.
-* **Contact with Us** - Links to Social media profiles. It can be set from **Bethlehem > Social Media**<br/>![](http://transvelo.github.io/bethlehem/docs/images/theme-options-social.png)
+* **Contact with Us** - Links to Social media profiles. It can be set from **Bethlehem > Social Media**<br/>![](http://transvelo.github.io/docs/bethlehem/images/theme-options-social.png)
 
 ### Output of Footer Top Bar
-![](http://transvelo.github.io/bethlehem/docs/images/footer-top-bar-output.png)
+![](http://transvelo.github.io/docs/bethlehem/images/footer-top-bar-output.png)
 
 ## Setting Footer Widget Area
 
@@ -80,7 +80,7 @@ By default the footer widget area is populated with 3 instances of 2 widgets and
 
 ### Ouput of Footer Widget Area
 
-![](http://transvelo.github.io/bethlehem/docs/images/footer-widget-area-output.png)
+![](http://transvelo.github.io/docs/bethlehem/images/footer-widget-area-output.png)
 
 
 

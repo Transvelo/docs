@@ -2,14 +2,14 @@
 
 Home Page v3 of Bethlehem is built using **Visual Composer**. It has 8 rows. The **Visual Composer** Backend editor of the page look like this
 
-![](http://transvelo.github.io/bethlehem/docs/images/home3.png)
+![](http://transvelo.github.io/docs/bethlehem/images/home3.png)
 
 ### Row 1
 ---
 * It has one Tiled Gallery Element.
 * Tiled Gallery for Events : Here i pasted a Tiled Gallery for Events Setting Page image.
 
-![](http://transvelo.github.io/bethlehem/docs/images/home3-tiled-gallery-event.png)
+![](http://transvelo.github.io/docs/bethlehem/images/home3-tiled-gallery-event.png)
 
 
 ### Row 2
@@ -17,34 +17,34 @@ Home Page v3 of Bethlehem is built using **Visual Composer**. It has 8 rows. The
 * It has one Tiled Gallery Element.
 * Tiled Gallery for Ministries : Here i pasted a Tiled Gallery for Ministries Setting Page image.
 
-![](http://transvelo.github.io/bethlehem/docs/images/home3-tiled-gallery-ministries.png)
+![](http://transvelo.github.io/docs/bethlehem/images/home3-tiled-gallery-ministries.png)
 
 ### Row 3
 ---
 * It has one elements
 * Sermons Media : Here i pasted a Sermons Media Setting Page image.
 
-![](http://transvelo.github.io/bethlehem/docs/images/home3-sermons-media.png)
+![](http://transvelo.github.io/docs/bethlehem/images/home3-sermons-media.png)
 ### Row 4
 ---
 * It has one element
 * Team Member Carousel : Here i pasted a Team Member Carousel Setting Page image.
 
-![](http://transvelo.github.io/bethlehem/docs/images/home3-team-member-carousel.png)
+![](http://transvelo.github.io/docs/bethlehem/images/home3-team-member-carousel.png)
 
 ### Row 5
 ---
 * It has one element.
 * Blog Recent Posts Widget : Here i pasted a Blog Recent Posts Widget Setting Page image.
 
-![](http://transvelo.github.io/bethlehem/docs/images/home3-blog-recent-post-widgets.png)
+![](http://transvelo.github.io/docs/bethlehem/images/home3-blog-recent-post-widgets.png)
 
 ### Row 6
 ---
 * It has one element.
 * Bethlehem Image Carousel : Here i pasted a Bethlehem Image Carousel Setting Page image.
 
-![](http://transvelo.github.io/bethlehem/docs/images/home3-bethlehem-image-carousel.png)
+![](http://transvelo.github.io/docs/bethlehem/images/home3-bethlehem-image-carousel.png)
 
 ### Row 7
 ---
@@ -79,4 +79,4 @@ Parking is in the garage on 4th with entrances on Jones and Calhoun. Entrance to
 
 * Google map setting image
 
-![](http://transvelo.github.io/bethlehem/docs/images/home3-google-map.png)
+![](http://transvelo.github.io/docs/bethlehem/images/home3-google-map.png)

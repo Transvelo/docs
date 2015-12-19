@@ -12,5 +12,5 @@ Follow the steps to setup the logo for your website.
 4. Instead of Logo Image need **Text** as Logo, then choose the checkbox of **Use text instead of logo** to enter the Logo Text.
 5. Click on **Save Changes** button to save the logo.
 
-![](http://transvelo.github.io/bethlehem/docs/images/theme-options-general.png)
+![](http://transvelo.github.io/docs/bethlehem/images/theme-options-general.png)
 

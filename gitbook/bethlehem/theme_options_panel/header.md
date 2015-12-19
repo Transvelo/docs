@@ -13,7 +13,7 @@ If you want a slider on the home page then
 3. Enable / Disable slider to display on **Home Page**.
 4. If you enable slider, then choose the slider to be displayed on the **Home Page**.
 
-![](http://transvelo.github.io/bethlehem/docs/images/choose-header-slider.png)
+![](http://transvelo.github.io/docs/bethlehem/images/choose-header-slider.png)
 
 ### Choosing a Header Background
 
@@ -25,7 +25,7 @@ If you want a slider on the home page then
 4. When choosing **Custom** option, it will show multiple options for **Header Background**, **Header Text Color** and **Header Link Color**.
 5. Choose the options for header background of your choice and click on **Save Changes**.
 
-![](http://transvelo.github.io/bethlehem/docs/images/choose-header-background.png)
+![](http://transvelo.github.io/docs/bethlehem/images/choose-header-background.png)
 
 ### Choosing a Header Style
 
@@ -36,7 +36,7 @@ If you want a slider on the home page then
 3. You will find **Header Style** option with **Header 1**, **Header 2**, **Header 3**, **Header 4**, **Header 5**, **Header 6**, **Header 7** and **Header 8** as eight choices.
 4. Choose the header style of your choice and click on **Save Changes**.
 
-![](http://transvelo.github.io/bethlehem/docs/images/choose-header-style.png)
+![](http://transvelo.github.io/docs/bethlehem/images/choose-header-style.png)
 
 ### Sticky Header and Event Countdown
 Sticky Header makes your header visible at all times. It's a great feature that allows you to browse faster and consume more of your content.

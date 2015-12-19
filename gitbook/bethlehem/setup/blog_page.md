@@ -10,7 +10,7 @@ By default Wordpress displays blog posts in front page but Bethlehem theme uses 
 4. Click on **A static Page** option for **Front page displays**.
 5. In the **Posts page** dropdown, choose the page you just created in step 2.
 
-![](http://transvelo.github.io/bethlehem/docs/images/reading-settings-blog.png)
+![](http://transvelo.github.io/docs/bethlehem/images/reading-settings-blog.png)
 
 ## Choosing Header Background
 
@@ -43,6 +43,6 @@ Bethlehem supports 'image', 'gallery', 'video', 'audio', 'quote', 'link', 'aside
 
 If a sidebar layout is chosen, then the sidebar is populated with widgets. The name of the sidebar area is **Sidebar**.
 
-![](http://transvelo.github.io/bethlehem/docs/images/sidebar-blog.png)
+![](http://transvelo.github.io/docs/bethlehem/images/sidebar-blog.png)
 
 

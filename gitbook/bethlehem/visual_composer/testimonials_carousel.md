@@ -4,7 +4,7 @@
 
 Allows you to add a carousel that displays testimonials on your page.
 
-![](http://transvelo.github.io/bethlehem/docs/images/vc-testimonial-carousel-settings.png)
+![](http://transvelo.github.io/docs/bethlehem/images/vc-testimonial-carousel-settings.png)
 
 ## Settings
 
@@ -17,4 +17,4 @@ Allows you to add a carousel that displays testimonials on your page.
 | ** Extra Class ** | Text | Additional classes that may be applied to the carousel. | none
 
 
-![](http://transvelo.github.io/bethlehem/docs/images/vc-testimonial-carousel-output.png)
+![](http://transvelo.github.io/docs/bethlehem/images/vc-testimonial-carousel-output.png)

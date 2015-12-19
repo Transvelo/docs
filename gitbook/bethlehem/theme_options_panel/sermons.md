@@ -13,4 +13,4 @@
 * Set a Sermons Page Layout.
 * Set a Sermons Single Page Layout.
 
-![](http://transvelo.github.io/bethlehem/docs/images/theme-options-sermons.png)
+![](http://transvelo.github.io/docs/bethlehem/images/theme-options-sermons.png)

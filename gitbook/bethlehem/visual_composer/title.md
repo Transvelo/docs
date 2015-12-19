@@ -3,7 +3,7 @@
 ## Description
 Allows you to add title with description on our page.
 
-![](http://transvelo.github.io/bethlehem/docs/images/vc-title-settings.png)
+![](http://transvelo.github.io/docs/bethlehem/images/vc-title-settings.png)
 
 ## Settings
 
@@ -20,4 +20,4 @@ Allows you to add title with description on our page.
 
 ## Sample Output
 
-![](http://transvelo.github.io/bethlehem/docs/images/vc-title-output.png)
+![](http://transvelo.github.io/docs/bethlehem/images/vc-title-output.png)

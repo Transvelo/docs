@@ -73,5 +73,5 @@ This widgetized area contains widgets that generally go into shop's sidebar. In 
 4. **Woocommerce Price Filter** Widget: To display price filter.
 5. **WooCommerce Featured Products** Widget : Configured to display **Featured Products**.
 
-![](http://transvelo.github.io/bethlehem/docs/images/sidebar-shop.png)
+![](http://transvelo.github.io/docs/bethlehem/images/sidebar-shop.png)
 

@@ -1,4 +1,4 @@
-![](http://transvelo.github.io/bethlehem/docs/images/logo.png)
+![](http://transvelo.github.io/docs/bethlehem/images/logo.png)
 
 Theme Documentation
 =======

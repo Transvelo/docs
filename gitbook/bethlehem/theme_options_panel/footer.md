@@ -22,7 +22,7 @@
 
 * Update the Copyright Information.
 
-![](http://transvelo.github.io/bethlehem/docs/images/theme-options-footer.png)
+![](http://transvelo.github.io/docs/bethlehem/images/theme-options-footer.png)
 
 ### Choosing a Footer Background
 
@@ -34,5 +34,5 @@
 4. When choosing **Custom** option, it will show multiple options like **Header Background**, **Header Text Color** and **Header Link Color**.
 5. Choose the footer background of your choice and click on **Save Changes**.
 
-![](http://transvelo.github.io/bethlehem/docs/images/choose-footer-background.png)
+![](http://transvelo.github.io/docs/bethlehem/images/choose-footer-background.png)
 

@@ -22,7 +22,7 @@ To create a new menu :
 
 ### Navigation Menus and their location in Header
 
-![](http://transvelo.github.io/bethlehem/docs/images/navigation-menu.png)
+![](http://transvelo.github.io/docs/bethlehem/images/navigation-menu.png)
 
 
 

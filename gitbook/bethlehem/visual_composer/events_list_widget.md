@@ -4,7 +4,7 @@
 
 Allows you to add list of events on your page.
 
-![](http://transvelo.github.io/bethlehem/docs/images/vc-event-list-widget-settings.png)
+![](http://transvelo.github.io/docs/bethlehem/images/vc-event-list-widget-settings.png)
 
 ## Settings
 
@@ -17,4 +17,4 @@ Allows you to add list of events on your page.
 
 ## Sample Output
 
-![](http://transvelo.github.io/bethlehem/docs/images/vc-event-list-widget-output.png)
+![](http://transvelo.github.io/docs/bethlehem/images/vc-event-list-widget-output.png)

@@ -8,4 +8,4 @@ Cart page is created automatically on activating the **Woocommerce** plugin. If 
 4. Check on **Hide Title** under **Bethlehem Page Attributes** Meta box.
 5. Click on **Publish**.
 
-![](http://transvelo.github.io/bethlehem/docs/images/page-cart.png)
+![](http://transvelo.github.io/docs/bethlehem/images/page-cart.png)

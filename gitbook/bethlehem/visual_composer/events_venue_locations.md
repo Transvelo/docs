@@ -4,7 +4,7 @@
 
 Allows you to add event locations on your page.
 
-![](http://transvelo.github.io/bethlehem/docs/images/vc-event-venue-location-settings.png)
+![](http://transvelo.github.io/docs/bethlehem/images/vc-event-venue-location-settings.png)
 
 ## Settings
 
@@ -18,4 +18,4 @@ Allows you to add event locations on your page.
 
 ## Sample Output
 
-![](http://transvelo.github.io/bethlehem/docs/images/vc-event-venue-location-output.png)
+![](http://transvelo.github.io/docs/bethlehem/images/vc-event-venue-location-output.png)

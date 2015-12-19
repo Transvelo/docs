@@ -6,7 +6,7 @@ A Event page is used to display the events added. It displays according to the s
 
 In the Events Settings page there may be three tabs , in the **Display** tab, choose **Default Events Template** option for **Events Templates**. This **Default Events Template** controls the appearance of your calendar and event content.
 
-![](http://transvelo.github.io/bethlehem/docs/images/event-page-settings.png)
+![](http://transvelo.github.io/docs/bethlehem/images/event-page-settings.png)
 
 ## Bethlehem Settings
  It displays according to the settings given in **Bethlehem > Events**.
@@ -40,5 +40,5 @@ This widgetized area contains widgets that generally go into event's sidebar. In
 2. **Events Sort By Month** Widget : Display Events by Month.
 3. **MailChimp Sign-Up Form** Widget : Display Newsletter Sign-up Form to know about new Events.
 
-![](http://transvelo.github.io/bethlehem/docs/images/sidebar-events.png)
+![](http://transvelo.github.io/docs/bethlehem/images/sidebar-events.png)
 

@@ -12,4 +12,4 @@
 
 * Set a Ministries Single Page Layout
 
-![](http://transvelo.github.io/bethlehem/docs/images/theme-options-ministries.png)
+![](http://transvelo.github.io/docs/bethlehem/images/theme-options-ministries.png)

@@ -14,5 +14,5 @@
 
 * Here is the place to paste your Google Analytics code or any other JS code you might want to add to be loaded in the footer of your website.
 
-![](http://transvelo.github.io/bethlehem/docs/images/theme-options-custom-code.png)
+![](http://transvelo.github.io/docs/bethlehem/images/theme-options-custom-code.png)
 

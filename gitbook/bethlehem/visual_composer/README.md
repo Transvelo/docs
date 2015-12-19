@@ -22,7 +22,7 @@ There are 11 additional elements that are made available via **Bethlehem Extensi
 15. [Tiled Gallery](tiled_gallery.md)
 16. [Bethlehem Image Carousel](bethlehem_image_carousel.md)
 
-![](http://transvelo.github.io/bethlehem/docs/images/visual-composer-elements.png)
+![](http://transvelo.github.io/docs/bethlehem/images/visual-composer-elements.png)
 
 <div class="alert alert-info">**Deep Diving** : Learn more about using **Visual Composer** from here : http://vc.wpbakery.com/video-academy/ </div>
 

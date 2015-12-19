@@ -4,7 +4,7 @@
 
 Allows you to add a carousel that displays donations on your page.
 
-![](http://transvelo.github.io/bethlehem/docs/images/vc-donation-carousel-settings.png)
+![](http://transvelo.github.io/docs/bethlehem/images/vc-donation-carousel-settings.png)
 
 ## Settings
 
@@ -18,4 +18,4 @@ Allows you to add a carousel that displays donations on your page.
 
 ## Sample Output
 
-![](http://transvelo.github.io/bethlehem/docs/images/vc-donation-carousel-output.png)
+![](http://transvelo.github.io/docs/bethlehem/images/vc-donation-carousel-output.png)

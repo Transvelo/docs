@@ -9,4 +9,4 @@
 
 * Set a Events Page Layout.
 
-![](http://transvelo.github.io/bethlehem/docs/images/theme-options-events.png)
+![](http://transvelo.github.io/docs/bethlehem/images/theme-options-events.png)

@@ -6,11 +6,11 @@ A Donation page is used to display the donations added. It displays according to
 
 In the Donation Settings page there may be seven tabs , in the **General** tab, make sure all the options are checked like this :
 
-![](http://transvelo.github.io/bethlehem/docs/images/donation-page-setting.png)
+![](http://transvelo.github.io/docs/bethlehem/images/donation-page-setting.png)
 
 In the same way, make sure **Enable Form Categories** is checked under **Display Options** tab.
 
-![](http://transvelo.github.io/bethlehem/docs/images/donation-display-option-setting.png)
+![](http://transvelo.github.io/docs/bethlehem/images/donation-display-option-setting.png)
 
 
 ## Bethlehem Settings
@@ -48,5 +48,5 @@ This widgetized area contains widgets that generally go into donation's sidebar.
 2. **Categories(Custom Post Type)** Widget : To display donation by Category.
 3. **Donations Recent Posts** Widget : Configured to display **Featured Causes**..
 
-![](http://transvelo.github.io/bethlehem/docs/images/sidebar-donation.png)
+![](http://transvelo.github.io/docs/bethlehem/images/sidebar-donation.png)
 

@@ -6,7 +6,7 @@ The Theme Options panel helps you easily take control over the appearance of you
 
 To access it, navigate to the **Bethlehem** section in the WordPress dashboard.
 
-![](http://transvelo.github.io/bethlehem/docs/images/bethlehem-options-dashboard.png)
+![](http://transvelo.github.io/docs/bethlehem/images/bethlehem-options-dashboard.png)
 
 
 

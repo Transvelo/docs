@@ -8,7 +8,7 @@
 
 * Use a predefined color scheme.
 
-![](http://transvelo.github.io/bethlehem/docs/images/theme-options-styling.png)
+![](http://transvelo.github.io/docs/bethlehem/images/theme-options-styling.png)
 
 ### Body Setting
 
@@ -21,4 +21,4 @@
 4. When choosing **Custom** option, it will show multiple options like **Header Background**, **Header Text Color** and **Header Link Color**.
 5. Choose the body background of your choice and click on **Save Changes**.
 
-![](http://transvelo.github.io/bethlehem/docs/images/choose-body-background.png)
+![](http://transvelo.github.io/docs/bethlehem/images/choose-body-background.png)

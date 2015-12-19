@@ -8,4 +8,4 @@ My Account page is created automatically on activating the **Woocommerce** plugi
 4. Check on **Hide Title** under **Bethlehem Page Attributes** Meta box.
 5. Click on **Publish**.
 
-![](http://transvelo.github.io/bethlehem/docs/images/page-myaccount.png)
+![](http://transvelo.github.io/docs/bethlehem/images/page-myaccount.png)

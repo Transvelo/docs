@@ -4,7 +4,7 @@
 
 Allows you to add post tiles or tiled galleries on your page.
 
-![](http://transvelo.github.io/bethlehem/docs/images/vc-tiled-galery-settings.png)
+![](http://transvelo.github.io/docs/bethlehem/images/vc-tiled-galery-settings.png)
 
 ## Settings
 
@@ -28,4 +28,4 @@ Allows you to add post tiles or tiled galleries on your page.
 
 ## Sample Output
 
-![](http://transvelo.github.io/bethlehem/docs/images/vc-tiled-galery-output.png)
+![](http://transvelo.github.io/docs/bethlehem/images/vc-tiled-galery-output.png)

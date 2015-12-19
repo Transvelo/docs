@@ -8,4 +8,4 @@ Checkout page is created automatically on activating the **Woocommerce** plugin.
 4. Check on **Hide Title** under **Bethlehem Page Attributes** Meta box.
 5. Click on **Publish**.
 
-![](http://transvelo.github.io/bethlehem/docs/images/page-checkout.png)
+![](http://transvelo.github.io/docs/bethlehem/images/page-checkout.png)

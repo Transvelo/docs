@@ -13,7 +13,7 @@
 4. Choose the header style of your choice and click on **Save Changes**.
 
 
-![](http://transvelo.github.io/bethlehem/docs/images/choose-header-style.png)
+![](http://transvelo.github.io/docs/bethlehem/images/choose-header-style.png)
 
 ### Choosing a Header Background
 
@@ -25,7 +25,7 @@
 4. When choosing **Custom** option, it will show multiple options with **Header Background**, **Header Text Color** and **Header Link Color**. Selecting this options and set your own Header Background, Header Text Color and Header Link Color.
 5. Choose the header background of your choice and click on **Save Changes**.
 
-![](http://transvelo.github.io/bethlehem/docs/images/choose-header-background.png)
+![](http://transvelo.github.io/docs/bethlehem/images/choose-header-background.png)
 
 ### Sticky Header and Event Countdown
 Sticky Header makes your header visible at all times. It's a great feature that allows you to browse faster and consume more of your content.

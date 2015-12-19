@@ -4,7 +4,7 @@
 
 Allows you to add a carousel that displays team members on your page.
 
-![](http://transvelo.github.io/bethlehem/docs/images/vc-team-members-carousel-settings.png)
+![](http://transvelo.github.io/docs/bethlehem/images/vc-team-members-carousel-settings.png)
 
 ## Settings
 
@@ -21,4 +21,4 @@ Allows you to add a carousel that displays team members on your page.
 
 ## Sample Output
 
-![](http://transvelo.github.io/bethlehem/docs/images/vc-team-members-carousel-output.png)
+![](http://transvelo.github.io/docs/bethlehem/images/vc-team-members-carousel-output.png)

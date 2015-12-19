@@ -7,4 +7,4 @@ Transaction Failed page is created automatically on activating the **Give** plug
 3. Check on **Hide Title** under **Bethlehem Page Attributes** Meta box.
 4. Click on **Publish**.
 
-![](http://transvelo.github.io/bethlehem/docs/images/page-transaction-failed.png)
+![](http://transvelo.github.io/docs/bethlehem/images/page-transaction-failed.png)

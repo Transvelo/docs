@@ -35,4 +35,4 @@ This widgetized area contains widgets that generally go into sermons's sidebar. 
 3. **Categories(Custom Post Type)** Widget : To display Sermon Occasions by Category.
 3. **Sermons Recent Posts** Widget : Configured to display **Featured Sermons**.
 
-![](http://transvelo.github.io/bethlehem/docs/images/sidebar-sermons.png)
+![](http://transvelo.github.io/docs/bethlehem/images/sidebar-sermons.png)

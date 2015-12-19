@@ -2,7 +2,7 @@
 
 Home Page v2 of Bethlehem is built using **Visual Composer**. It has 6 rows. The **Visual Composer** Backend editor of the page look like this
 
-![](http://transvelo.github.io/bethlehem/docs/images/home2.png)
+![](http://transvelo.github.io/docs/bethlehem/images/home2.png)
 
 ### Row 1
 ---
@@ -31,7 +31,7 @@ Home Page v2 of Bethlehem is built using **Visual Composer**. It has 6 rows. The
 * It has one element
 * Sermons Carousel : Here i pasted a Sermons Carousel Setting Page image.
 
-![](http://transvelo.github.io/bethlehem/docs/images/home2-sermon-carousel.png)
+![](http://transvelo.github.io/docs/bethlehem/images/home2-sermon-carousel.png)
 
 ### Row 3
 ---
@@ -56,21 +56,21 @@ Home Page v2 of Bethlehem is built using **Visual Composer**. It has 6 rows. The
 * It has one element
 * Stories Carousel : Here i pasted a Stories Carousel Setting Page image.
 
-![](http://transvelo.github.io/bethlehem/docs/images/home2-stories-carousel.png)
+![](http://transvelo.github.io/docs/bethlehem/images/home2-stories-carousel.png)
 
 ### Row 5
 ---
 * It has one element.
 * Events Calendar Setting : Here i pasted a Events Calendar Setting Setting Page image. Read more details about [**Events Calendar Setting**](events_calendar.md)
 
-![](http://transvelo.github.io/bethlehem/docs/images/home2-events-calendar-setting.png)
+![](http://transvelo.github.io/docs/bethlehem/images/home2-events-calendar-setting.png)
 
 ### Row 6
 ---
 * It has one column.
 * Blog Recent Posts : Here i pasted a Blog Recent Posts Setting Page image.
 
-![](http://transvelo.github.io/bethlehem/docs/images/home2-blog-recent-post-setting.png)
+![](http://transvelo.github.io/docs/bethlehem/images/home2-blog-recent-post-setting.png)
 
 
 

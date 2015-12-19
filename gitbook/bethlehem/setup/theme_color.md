@@ -10,7 +10,7 @@
 4. Choose the color of your choice from the dropdown for **Main Theme Color**. Colors available : **green**, **blue**, **red**, **orange**, **violet** and **yellow**.
 5. Click on **Save Changes** button.
 
-![](http://transvelo.github.io/bethlehem/docs/images/theme-options-styling.png)
+![](http://transvelo.github.io/docs/bethlehem/images/theme-options-styling.png)
 
 
 ## Using a custom theme color

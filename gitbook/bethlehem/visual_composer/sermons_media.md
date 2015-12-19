@@ -4,7 +4,7 @@
 
 Allows you to add sermons media on your page.
 
-![](http://transvelo.github.io/bethlehem/docs/images/vc-sermons-media-setting.png)
+![](http://transvelo.github.io/docs/bethlehem/images/vc-sermons-media-setting.png)
 
 ## Settings
 
@@ -18,4 +18,4 @@ Allows you to add sermons media on your page.
 
 ## Sample Output
 
-![](http://transvelo.github.io/bethlehem/docs/images/vc-sermons-media-output.png)
+![](http://transvelo.github.io/docs/bethlehem/images/vc-sermons-media-output.png)
