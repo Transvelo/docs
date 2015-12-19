@@ -2,14 +2,14 @@
 
 Contact Page of Sportexx is built using **Visual Composer**.It has 2 rows. The **Visual Composer** Backend editor of the page look like this
 
-![](http://transvelo.github.io/sportexx/docs/images/contact.png)
+![](http://transvelo.github.io/docs/sportexx/images/contact.png)
 
 ### Row 1
 ---
 * It has one column which and the element is Sportexx Google Map.
 * Here is the screenshot of Google Map Setting page.
 
-![](http://transvelo.github.io/sportexx/docs/images/contact-googleMap-setting.png)
+![](http://transvelo.github.io/docs/sportexx/images/contact-googleMap-setting.png)
 
 ### Row 2
 ---
@@ -20,7 +20,7 @@ Contact Page of Sportexx is built using **Visual Composer**.It has 2 rows. The *
 * It has Contact Form 7 element.
 * Here is the screenshot of Contact Form 7.
 
-![](http://transvelo.github.io/sportexx/docs/images/contact-form7-setting.png)
+![](http://transvelo.github.io/docs/sportexx/images/contact-form7-setting.png)
 
 ##### Column 2 (4/12) :
 

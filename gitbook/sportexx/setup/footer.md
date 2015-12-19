@@ -11,7 +11,7 @@ which has Copyright Information on left and quick links menu on right.
 
 Here is the Footer's anatomy:
 
-![](http://transvelo.github.io/sportexx/docs/images/footer-style.png)
+![](http://transvelo.github.io/docs/sportexx/images/footer-style.png)
 
 
 
@@ -27,4 +27,4 @@ Here is the Footer's anatomy:
 3. You will find **Footer Style** option with **Default BG** and **Dark BG** as two choices presented as radio buttons.
 4. Click on the radio button that represents the style of your choice and click on **Save Changes**.
 
-![](http://transvelo.github.io/sportexx/docs/images/choose-footer-background.png)
+![](http://transvelo.github.io/docs/sportexx/images/choose-footer-background.png)

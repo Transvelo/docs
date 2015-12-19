@@ -6,7 +6,7 @@ The Theme Options panel helps you easily take control over the appearance of you
 
 To access it, navigate to the **Sportexx** section in the WordPress dashboard.
 
-![](http://transvelo.github.io/sportexx/docs/images/sportexx-options-dashboard.png)
+![](http://transvelo.github.io/docs/sportexx/images/sportexx-options-dashboard.png)
 
 
 ## Export Your Options

@@ -7,7 +7,7 @@ By default, Wordpress displays blog posts in the home page but we will display a
 2. Create another Page from **Pages > Add New ** and name it **Blog**.
 3. Navigate to **Settings > Reading ** and choose **A static page** radio button option for **Front page displays** settings.
 
-![](http://transvelo.github.io/sportexx/docs/images/reading-settings-blog.png)
+![](http://transvelo.github.io/docs/sportexx/images/reading-settings-blog.png)
 
 We'll create the contents of the Blog and Home page later.
 

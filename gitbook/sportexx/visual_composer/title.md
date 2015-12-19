@@ -4,7 +4,7 @@
 
 Allows you to add a title to your page with description.
 
-![](http://transvelo.github.io/sportexx/docs/images/vc-title-settings.png)
+![](http://transvelo.github.io/docs/sportexx/images/vc-title-settings.png)
 
 ## Settings
 
@@ -22,5 +22,5 @@ Allows you to add a title to your page with description.
 
 ## Sample Output
 
-![](http://transvelo.github.io/sportexx/docs/images/vc-title-output.png)
+![](http://transvelo.github.io/docs/sportexx/images/vc-title-output.png)
 

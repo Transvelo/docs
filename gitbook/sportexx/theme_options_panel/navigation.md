@@ -22,7 +22,7 @@
 * Set a Dropdown Animation for Top Bar Right Navigation.
 * Enable / Disable the Show Dropdown Indicator.
 
-![](http://transvelo.github.io/sportexx/docs/images/theme-options-navigation.png)
+![](http://transvelo.github.io/docs/sportexx/images/theme-options-navigation.png)
 
 
 

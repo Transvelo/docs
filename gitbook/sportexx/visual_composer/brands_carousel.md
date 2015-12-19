@@ -4,7 +4,7 @@
 
 Allows you to add a carousel that displays brands on your page.
 
-![](http://transvelo.github.io/sportexx/docs/images/vc-brands-carousel-settings.png)
+![](http://transvelo.github.io/docs/sportexx/images/vc-brands-carousel-settings.png)
 
 ## Settings
 
@@ -20,4 +20,4 @@ Allows you to add a carousel that displays brands on your page.
 
 ## Sample Output
 
-![](http://transvelo.github.io/sportexx/docs/images/vc-brands-carousel-output.png)
+![](http://transvelo.github.io/docs/sportexx/images/vc-brands-carousel-output.png)

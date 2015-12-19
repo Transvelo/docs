@@ -12,6 +12,6 @@ Follow the steps to setup the logo and favicon for your website.
 4. In **Use text instead of logo** option, click the checkbox to enter the **Text as Logo**.
 5. Click on **Save Changes** button to save the logo and favicon.
 
-![](http://transvelo.github.io/sportexx/docs/images/theme-options-general.png)
+![](http://transvelo.github.io/docs/sportexx/images/theme-options-general.png)
 
 

@@ -5,4 +5,4 @@
 3. Click on Backend Editor. It will display Visual Composer Backend Editor. We will use this back end editor to build our jumbotron : shop fullwidth.
 4. Jumbotron : Shop has 1 row with 1 column. Here is the setting screenshot
 
-![](http://transvelo.github.io/sportexx/docs/images/jumbotron-shop-fullwidth-setting.png)
+![](http://transvelo.github.io/docs/sportexx/images/jumbotron-shop-fullwidth-setting.png)

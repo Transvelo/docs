@@ -27,12 +27,12 @@ Display Newsletter Sign-up Form to know about new Products.
 
 Here is the mc4wp-form setting
 
-![](http://transvelo.github.io/sportexx/docs/images/footer-newletter-form.png)
+![](http://transvelo.github.io/docs/sportexx/images/footer-newletter-form.png)
 
 ### **Social Icons**
 
-**Social Icons** - Links to Social media profiles. It can be set from **Sportexx > Social  Media**<br/>![](http://transvelo.github.io/sportexx/docs/images/theme-options-social-media.png)
+**Social Icons** - Links to Social media profiles. It can be set from **Sportexx > Social  Media**<br/>![](http://transvelo.github.io/docs/sportexx/images/theme-options-social-media.png)
 
 ## Sample Output of the Footer Top Bar
 
-![](http://transvelo.github.io/sportexx/docs/images/footer-top-bar-output.png)
+![](http://transvelo.github.io/docs/sportexx/images/footer-top-bar-output.png)

@@ -31,6 +31,6 @@
 * Set Related Products Count.
 * Enable / Disable Up-sell Products.
 
-![](http://transvelo.github.io/sportexx/docs/images/theme-options-shop.png)
+![](http://transvelo.github.io/docs/sportexx/images/theme-options-shop.png)
 
 

@@ -101,6 +101,6 @@ This widgetized area contains all the widgets used for layered navigation. In th
 3. **WooCommerce Price Filter** Widget : To filter products by price.
 4. **WooCommerce Layered Nav** Widget : To filter products by attributes.
 
-![](http://transvelo.github.io/sportexx/docs/images/filter-widget.png)
+![](http://transvelo.github.io/docs/sportexx/images/filter-widget.png)
 
 

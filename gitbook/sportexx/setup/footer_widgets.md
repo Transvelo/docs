@@ -11,7 +11,7 @@
   * **Widget Title** : Home Pages
   * **Menu** : Home Pages ( name of the menu created already)
 
- ![](http://transvelo.github.io/sportexx/docs/images/footer-widget-area-setting.png)
+ ![](http://transvelo.github.io/docs/sportexx/images/footer-widget-area-setting.png)
  * Column 2 - Click on the **Add** button. It should popup **Add Element** button. Let us add **WP Custom Menu** widget under **Wordpress Widgets**. I have already created a menu (via **Appearance > Menus**).
   * **Widget Title** : Pre-built Pages
   * **Menu** : Pre-built Pages ( name of the menu created already)
@@ -61,4 +61,4 @@
 
  Here is the screenshot of the footer widget area
 
-![](http://transvelo.github.io/sportexx/docs/images/footer-widget-area.png)
+![](http://transvelo.github.io/docs/sportexx/images/footer-widget-area.png)

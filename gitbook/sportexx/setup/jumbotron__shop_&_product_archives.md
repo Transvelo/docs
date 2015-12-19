@@ -5,4 +5,4 @@
 3. Click on Backend Editor. It will display Visual Composer Backend Editor. We will use this back end editor to build our jumbotron : shop & product archives.
 4. Jumbotron : Shop & Product Archives has 1 row with one column.
 
-![](http://transvelo.github.io/sportexx/docs/images/jumbotron-shop-cum-product-settings.png)
+![](http://transvelo.github.io/docs/sportexx/images/jumbotron-shop-cum-product-settings.png)

@@ -4,7 +4,7 @@
 
 Allows you to add a product cum image to your page.
 
-![](http://transvelo.github.io/sportexx/docs/images/vc-product-cum-image-card-settings.png)
+![](http://transvelo.github.io/docs/sportexx/images/vc-product-cum-image-card-settings.png)
 
 ## Settings
 
@@ -20,4 +20,4 @@ Allows you to add a product cum image to your page.
 | **Background Color** | Color Picker |  Choose Background color for content  | none
 | ** Extra Class ** | Text | Additional classes that may be applied to the banner. |  wow fadeInUp
 
-![](http://transvelo.github.io/sportexx/docs/images/vc-product-cum-image-card-output.png)
+![](http://transvelo.github.io/docs/sportexx/images/vc-product-cum-image-card-output.png)

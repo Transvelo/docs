@@ -16,7 +16,7 @@ There are 9 additional elements that are made available via **Sportexx Extension
 8. [Image Card](visual_composer/image_card.md)
 9. [Product & Image Card](visual_composer/product_&_image_card.md)
 
-![](http://transvelo.github.io/sportexx/docs/images/visual-composer-sportexx-elements.png)
+![](http://transvelo.github.io/docs/sportexx/images/visual-composer-sportexx-elements.png)
 
 
 <div class="alert alert-info">**Deep Diving** : Learn more about using **Visual Composer** from here : http://vc.wpbakery.com/video-academy/ </div>

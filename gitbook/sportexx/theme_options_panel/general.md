@@ -7,5 +7,5 @@
 * Enable / Disable Retina-ready feature.
 * Enable / Disable Scroll-to-Top option.
 
-![](http://transvelo.github.io/sportexx/docs/images/theme-options-general.png)
+![](http://transvelo.github.io/docs/sportexx/images/theme-options-general.png)
 

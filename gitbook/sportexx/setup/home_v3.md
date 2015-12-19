@@ -2,7 +2,7 @@
 
 Home v3 of Sportexx is built using **Visual Composer**.It has 4 rows. The **Visual Composer** Backend editor of the page look like this
 
-![](http://transvelo.github.io/sportexx/docs/images/home3-settings.png)
+![](http://transvelo.github.io/docs/sportexx/images/home3-settings.png)
 
 ### Row 1
 ---
@@ -10,7 +10,7 @@ Home v3 of Sportexx is built using **Visual Composer**.It has 4 rows. The **Visu
 * Revolution Slider : Here i pasted a Revolution Slider Setting Page image.
 
 
-![](http://transvelo.github.io/sportexx/docs/images/home1-revolution-slider.png)
+![](http://transvelo.github.io/docs/sportexx/images/home1-revolution-slider.png)
 
 
 ### Row 2
@@ -18,7 +18,7 @@ Home v3 of Sportexx is built using **Visual Composer**.It has 4 rows. The **Visu
 * It has one element.
 * Banner : Here i pasted a Banner Setting Page image.
 
-![](http://transvelo.github.io/sportexx/docs/images/vc-banner-settings.png)
+![](http://transvelo.github.io/docs/sportexx/images/vc-banner-settings.png)
 
 ### Row 3
 ---
@@ -26,12 +26,12 @@ Home v3 of Sportexx is built using **Visual Composer**.It has 4 rows. The **Visu
 * All the columns have one Banner Element.
 * Here is a sample Banner Element settings.
 
-![](http://transvelo.github.io/sportexx/docs/images/home3-banner-setting.png)
+![](http://transvelo.github.io/docs/sportexx/images/home3-banner-setting.png)
 
 ### Row 4
 ---
 * It has one element
 * Brands Carousel : Here i pasted a Brands Carousel Setting Page image.
 
-![](http://transvelo.github.io/sportexx/docs/images/vc-brands-carousel-settings.png)
+![](http://transvelo.github.io/docs/sportexx/images/vc-brands-carousel-settings.png)
 

@@ -4,7 +4,7 @@
 
 Allows you to add recent post on your page.
 
-![](http://transvelo.github.io/sportexx/docs/images/vc-blog-recent-post-settings.png)
+![](http://transvelo.github.io/docs/sportexx/images/vc-blog-recent-post-settings.png)
 
 ## Settings
 
@@ -17,4 +17,4 @@ Allows you to add recent post on your page.
 
 ## Sample Output
 
-![](http://transvelo.github.io/sportexx/docs/images/vc-blog-recent-post-output.png)
+![](http://transvelo.github.io/docs/sportexx/images/vc-blog-recent-post-output.png)

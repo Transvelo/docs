@@ -7,7 +7,7 @@
 
 Here is the footer widget area setting
 
-![](http://transvelo.github.io/sportexx/docs/images/footer-widget-area.png)
+![](http://transvelo.github.io/docs/sportexx/images/footer-widget-area.png)
 
 
 ### Row 1

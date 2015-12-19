@@ -8,5 +8,5 @@
 * Set a Animation for Post Item.
 * Enable / Disable Single Post Share Block.
 
-![](http://transvelo.github.io/sportexx/docs/images/theme-options-blog.png)
+![](http://transvelo.github.io/docs/sportexx/images/theme-options-blog.png)
 

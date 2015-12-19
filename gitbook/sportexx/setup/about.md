@@ -2,7 +2,7 @@
 
 About Page of Sportexx is built using **Visual Composer**.It has 3 rows. The **Visual Composer** Backend editor of the page look like this
 
-![](http://transvelo.github.io/sportexx/docs/images/about.png)
+![](http://transvelo.github.io/docs/sportexx/images/about.png)
 
 ### Row 1
 ---
@@ -10,7 +10,7 @@ About Page of Sportexx is built using **Visual Composer**.It has 3 rows. The **V
 * It has only one column.
 * Here is the screenshot for Single Image Setting
 
-![](http://transvelo.github.io/sportexx/docs/images/single-image-setting.png)
+![](http://transvelo.github.io/docs/sportexx/images/single-image-setting.png)
 
 
 

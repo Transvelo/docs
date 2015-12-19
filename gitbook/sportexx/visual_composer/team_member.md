@@ -4,7 +4,7 @@
 
 Allows you to add a team member to profile to your page.
 
-![](http://transvelo.github.io/sportexx/docs/images/vc-team-menber-settings.png)
+![](http://transvelo.github.io/docs/sportexx/images/vc-team-menber-settings.png)
 
 ## Settings
 
@@ -15,4 +15,4 @@ Allows you to add a team member to profile to your page.
 
 ## Sample Output
 
-![](http://transvelo.github.io/sportexx/docs/images/vc-team-menber-output.png)
+![](http://transvelo.github.io/docs/sportexx/images/vc-team-menber-output.png)

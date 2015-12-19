@@ -15,5 +15,5 @@
 
 * Here is the place to paste your Google Analytics code or any other JS code you might want to add to be loaded in the footer of your website.
 
-![](http://transvelo.github.io/sportexx/docs/images/theme-options-customcode.png)
+![](http://transvelo.github.io/docs/sportexx/images/theme-options-customcode.png)
 

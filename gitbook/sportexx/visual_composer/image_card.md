@@ -4,7 +4,7 @@
 
 Allows you to add a image card to your page.
 
-![](http://transvelo.github.io/sportexx/docs/images/vc-image-card-settings.png)
+![](http://transvelo.github.io/docs/sportexx/images/vc-image-card-settings.png)
 
 ## Settings
 
@@ -18,4 +18,4 @@ Allows you to add a image card to your page.
 | **Button Text** | Text | Text for button.  | Shop Now
 | ** Extra Class ** | Text | Additional classes that may be applied to the banner. | dark-bg wow fadeInUp
 
-![](http://transvelo.github.io/sportexx/docs/images/vc-image-card-output.png)
+![](http://transvelo.github.io/docs/sportexx/images/vc-image-card-output.png)

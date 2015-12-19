@@ -12,11 +12,11 @@
 
 ## Product Comparison Page Editor
 
-![](http://transvelo.github.io/sportexx/docs/images/page-product-comparison.png)
+![](http://transvelo.github.io/docs/sportexx/images/page-product-comparison.png)
 
 
 ## Assigning Product Comparison Page in Sportexx
 
-![](http://transvelo.github.io/sportexx/docs/images/sportexx-shop-page-settings.png)
+![](http://transvelo.github.io/docs/sportexx/images/sportexx-shop-page-settings.png)
 
 

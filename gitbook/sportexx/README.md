@@ -1,4 +1,4 @@
-![](http://transvelo.github.io/sportexx/docs/images/logo.png)
+![](http://transvelo.github.io/docs/sportexx/images/logo.png)
 
 Theme Documentation
 =======

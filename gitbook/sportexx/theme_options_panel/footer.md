@@ -6,5 +6,5 @@
 * Update the Footer Credit.
 * Remove or Update the Payment images.
 
-![](http://transvelo.github.io/sportexx/docs/images/theme-options-footer.png)
+![](http://transvelo.github.io/docs/sportexx/images/theme-options-footer.png)
 

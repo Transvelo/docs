@@ -24,7 +24,7 @@ To create a new menu :
 
 ### Navigation Menus and their location in Header
 
-![](http://transvelo.github.io/sportexx/docs/images/navigation-menu.png)
+![](http://transvelo.github.io/docs/sportexx/images/navigation-menu.png)
 
 ### Dropdown Trigger & Animation
 
@@ -38,7 +38,7 @@ Dropdown menu can be triggered by either : **Click** or **Hover** action. Once t
 6. RoleIn
 7. ZoomIn
 
-![](http://transvelo.github.io/sportexx/docs/images/navigation-dropdown-trigger-animation.png)
+![](http://transvelo.github.io/docs/sportexx/images/navigation-dropdown-trigger-animation.png)
 
 
 
