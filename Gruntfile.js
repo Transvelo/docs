@@ -10,6 +10,7 @@ module.exports = function( grunt ) {
 			files: '.grunt',
 			bethlehem: 'gh-pages/bethlehem/',
 			mediacenter: 'gh-pages/mediacenter/',
+			mybag: 'gh-pages/mybag/',
 			sportexx: 'gh-pages/sportexx/',
 			unicase: 'gh-pages/unicase/',
 		},
@@ -24,6 +25,11 @@ module.exports = function( grunt ) {
 			mediacenter: {
 				files: [
 					{ expand: true, cwd: 'gitbook/mediacenter/_book/', src: ['**','!.*','!.*/**','.htaccess','!Gruntfile.js','!README.md','!package.json','!node_modules/**','!.DS_Store','!npm-debug.log'], dest : 'gh-pages/mediacenter/' }
+				],
+			},
+			mybag: {
+				files: [
+					{ expand: true, cwd: 'gitbook/mybag/_book/', src: ['**','!.*','!.*/**','.htaccess','!Gruntfile.js','!README.md','!package.json','!node_modules/**','!.DS_Store','!npm-debug.log'], dest : 'gh-pages/mybag/' }
 				],
 			},
 			sportexx: {
@@ -54,6 +60,10 @@ module.exports = function( grunt ) {
 				input: 'gitbook/mediacenter',
 				github: 'Transvelo/mediacenter'
 			},
+			mybag: {
+				input: 'gitbook/mybag',
+				github: 'Transvelo/mybag'
+			},
 			sportexx: {
 				input: 'gitbook/sportexx',
 				github: 'Transvelo/sportexx'
@@ -83,6 +93,10 @@ module.exports = function( grunt ) {
 
 	grunt.registerTask( 'mediacenter', [
 		'gitbook:mediacenter', 'clean:mediacenter', 'copy:mediacenter'
+	]);
+
+	grunt.registerTask( 'mybag', [
+		'gitbook:mybag', 'clean:mybag', 'copy:mybag'
 	]);
 
 	grunt.registerTask( 'sportexx', [
