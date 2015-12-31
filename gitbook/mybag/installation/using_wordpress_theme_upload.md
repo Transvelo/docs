@@ -7,10 +7,6 @@
 5. After installation you will receive a success message confirming your new install.
 6. Click the link **"Activate"**
 
-Here is the **video** for MyBag Installation & Setup
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZo52JGQEa4" frameborder="0" allowfullscreen></iframe>
-
 ### Recommended Additional Step
 
 We highly recommend the use of child themes. The additional step involves repeating steps 1 to 7 for **mybag-child.zip** file

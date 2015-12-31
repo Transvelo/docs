@@ -17,7 +17,9 @@ MyBag – is a clean, modern, user friendly – with many of functions theme jus
 * **5 Different Footers**
 * **Responsive Megamenu**
 * **8 Pre-Built Pages**
+* **3 Single Product Pages**
 * **6 WooCommerce Pages**
+* **Boxed** and **Stretched** Layouts
 * Support for **post formats** and **post thumbnails**
 
 ### Customization Options

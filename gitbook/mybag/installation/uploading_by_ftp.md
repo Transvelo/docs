@@ -6,7 +6,7 @@
 4. Copy the folder "**mybag**" to your themes directory.
 5. After the files finish uploading, login to your WordPress admin.
 6. In the **"Appearance"** menu click **"Themes"**
-7. Click **"Activate"** for the theme **"MyBag"**
+7. Click **"Activate"** for the theme **"Mybag"**
 
 ### Recommended Additional Step
 

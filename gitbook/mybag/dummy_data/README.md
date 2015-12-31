@@ -10,19 +10,11 @@ Once you had downloaded the package from ThemeForest, you can find the dummy dat
 * Upload the **dummy-data.xml** file to import all the dummy information.
 * You can alternatively upload **dummy-data.xml.gz** incase you run into errors.
 
- Here is the **video** to setup the website with  dummy data
-
- <iframe width="560" height="315" src="https://www.youtube.com/embed/-Nc8MwlzhOI" frameborder="0" allowfullscreen></iframe>
-
 ## Importing Dummy Sliders
 * Navigate to **Revolution Slider** and click on import Sliders.
 * From the package, navigate to **assets > dummy-data**.
-* Import the below zip file:
-  * **home-page-slider.zip**
-
- Here is the **video** to setup the revolution slider
-
- <iframe width="560" height="315" src="https://www.youtube.com/embed/cRUkcFhEwFc" frameborder="0" allowfullscreen></iframe>
+* Import this zip file
+ **home-page-slider.zip**.
 
 ## Setting up the Pages
 
