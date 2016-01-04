@@ -1,6 +1,6 @@
 # Terms and Conditions Page
 
-Terms and Conditions Page of MyBag is built using **Visual Composer**.It has one rows. The **Visual Composer** Backend editor of the page look like this
+Terms and Conditions Page of MyBag is built using **Visual Composer**.It has one row. The **Visual Composer** Backend editor of the page look like this
 
 ![](http://transvelo.github.io/docs/mybag/images/terms-and-conditions.png)
 

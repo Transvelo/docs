@@ -1,6 +1,6 @@
 # FAQ Page
 
-Frequently Asked Questions **(FAQ)** of  MyBag is built using **Visual Composer**.It has one rows. The **Visual Composer** Backend editor of the page look like this
+Frequently Asked Questions **(FAQ)** of  MyBag is built using **Visual Composer**.It has one row. The **Visual Composer** Backend editor of the page look like this
 
 ![](http://transvelo.github.io/docs/mybag/images/faq.png)
 

@@ -9,14 +9,18 @@ Home Page of MyBag is built using **Visual Composer**.It has 5 rows. The **Visua
 ### Row 1
 ---
 * It has two columns in the ratio of 1/2 + 1/2.
-* Column 1: Column 1 has three elements.
-    * Row 1 : Click on **Add** button and add **Single Image** under **Content**.
-    * Row 2 : Click on **Add** button and add **Icon** under **Content**.
-    * Row 3 : Click on **Add** button and add **Custom Heading** under **Content**.
 
-* Column 2: Column 2 has two columns in ratio of 1/2 + 1/2.
-    *  Column 1 has two rows with **Icons** and **Custom Heading** elements.
-    *  Column 2 has one row with **single image** element.
+#### Column 1: Column 1 has three elements.
+* Row 1 : Click on **Add** button and add **Single Image** under **Content**.
+* Row 2 : Click on **Add** button and add **Icon** under **Content**.
+* Row 3 : Click on **Add** button and add **Custom Heading** under **Content**.
+
+
+#### Column 2: Column 2 has two columns in ratio of 1/2 + 1/2.
+
+  *  Column 1 has two rows with **Icons** and **Custom Heading** elements.
+  *  Column 2 has one row with **single image** element.
+
 
 Column 2 also has **Image Carousel** element.Here i pasted the image carousel setting
 

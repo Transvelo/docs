@@ -6,7 +6,7 @@
 
 Yes, you can use a text instead of an image as your logo.
 
-* Navigate to **Unicase** and **General**.
+* Navigate to **MyBag** and **General**.
 * Find **Use text instead of logo ?** option
 * Click on the checkbox.
 * A text box will be displayed with **Logo text** as its label.
@@ -15,7 +15,7 @@ Yes, you can use a text instead of an image as your logo.
 
 #### How to enable/disable Scroll to Top button ?
 
-* Navigate to **Unicase** and **General** tab.
+* Navigate to **MyBag** and **General** tab.
 * At the bottom, there is **Scroll to Top** option.
 * Toggle the switch to Enable/Disable Scroll to Top.
 * Click on **Save Changes** to save your configuration.

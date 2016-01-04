@@ -17,5 +17,5 @@
 * Type your Sound Cloud profile URL here.
 * Type your Vine profile URL here.
 
-![](http://transvelo.github.io/unicase/docs/images/theme-options-social-media.png)
+![](http://transvelo.github.io/docs/mybag/images/theme-options-social-media.png)
 

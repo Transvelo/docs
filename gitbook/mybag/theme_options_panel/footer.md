@@ -2,21 +2,13 @@
 
 ## Footer Options
 
-* Set the Footer Style as Default BG or as custom.
+* Enable / Disable Header Logo.
+* Choose Footer Style.
 * Update the Footer Contact Info.
+* Update the Footer Contact Mail.
+* Update the Footer Contact Number.
 * Update the Footer Credit.
-* Remove or Update the Payment images.
+* Remove or Update the Footer Payment images.
 
-![](http://transvelo.github.io/unicase/docs/images/theme-options-footer.png)
+![](http://transvelo.github.io/docs/mybag/images/theme-options-footer.png)
 
-
-### Choosing a Footer Style
-
-**Default BG** is chosen by default. To change the footer style :
-
-1. Navigate to **Unicase**.
-2. Click on **Footer** Tab.
-3. You will find **Footer Style** option with **Default BG** and **Custom** as two choices presented as dropdown.
-4. Choose on the dropdown that represents the style of your choice and click on **Save Changes**.
-
-![](http://transvelo.github.io/unicase/docs/images/choose-footer-background.png)

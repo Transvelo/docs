@@ -24,7 +24,7 @@ MyBag allows you to display your Blog posts in 3 different layouts.
 2. **Sidebar Left** - Same as **Sidebar Right** except that the **Sidebar** appears to the left of the screen.
 3. **Full-width** - This layout does not display any sidebars. The Full-width layout can have be **widely dense** which means the content section occupies from left to right ends or **narrowly dense** which means the content section will be only 75% wide as in sidebar layouts but aligned centered.
 
-You can select blog page layout form **Mybag > Blog Tab > Blog Page Layout**.
+You can select blog page layout form **MyBag > Blog Tab > Blog Page Layout**.
 
 ### Blog Page View
 
@@ -32,7 +32,7 @@ Blog Page has 2 views Grid and Normal. You can select the view for the Blog List
 
 #### Style
 
-**Normal** - Lists all posts with post thumbnails and post excerpt on the right Side and post title with category to the left side of the thumbnail and excerpt.
+**Normal** - Lists all posts with post thumbnails and post excerpt on the right side and post title with category to the left side of the thumbnail and excerpt.
 
 **Grid Style** - Displays post as a 2-column grid.
 

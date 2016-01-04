@@ -4,9 +4,9 @@
 
 The Theme Options panel helps you easily take control over the appearance of your site, by allowing you to upload your logo, style the theme with the colors you choose, change fonts, turn features on and off, without having to write any code.
 
-To access it, navigate to the **Unicase** section in the WordPress dashboard.
+To access it, navigate to the **MyBag** section in the WordPress dashboard.
 
-![](http://transvelo.github.io/unicase/docs/images/unicase-options-dashboard.png)
+![](http://transvelo.github.io/docs/mybag/images/mybag-options-dashboard.png)
 
 
 ## Export Your Options

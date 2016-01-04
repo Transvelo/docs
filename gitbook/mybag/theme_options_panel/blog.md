@@ -4,10 +4,11 @@
 
 
 * Select the layout style for the Blog Page.
-* Set a Force Excerpt for your Blog to Show only excerpt instead of blog content in archive pages.
+* Select the Blog Page View for the Blog Listing.
 * Enable / Disable Placeholder Images.
-* Set a Animation for Post Item.
-* Enable / Disable Single Post Share Block.
+* Enable / Disable Post Content.
+* Set a Force Excerpt for your Blog to Show only excerpt instead of blog content in archive pages.
+* Select the layout style for the Blog Single Page.
 
-![](http://transvelo.github.io/unicase/docs/images/theme-options-blog.png)
+![](http://transvelo.github.io/docs/mybag/images/theme-options-blog.png)
 

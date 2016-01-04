@@ -6,9 +6,7 @@
 #### General
 
 * Enable / Disable the Catalog Mode.
-* Set the Shop Page Jumbotron.
-* Set the Brand Attribute.
-* Set a Product Comparision Page.
+* Set a Product Comparison Page.
 
 #### Shop/Catalog Pages
 
@@ -21,13 +19,11 @@
 * Set a Animation for Product Item.
 * Enable / Disable Animation Delay.
 * Enable / Disable Thumbnail Lazy loading.
-* Enable / Disable Quick View.
 
 #### Single Product Page
-* Single Product Page is designed with two styles, choose the style as you wish.
-* Enable / Disable Share Block.
+* Single Product Page is designed with three styles, choose the style as you wish.
 
 
-![](http://transvelo.github.io/unicase/docs/images/theme-options-shop.png)
+![](http://transvelo.github.io/docs/mybag/images/theme-options-shop.png)
 
 

@@ -1,10 +1,10 @@
 # Contact Page
 
-Contact Page of MyBag is built using **Visual Composer**.It has 1 row with 2 columns. The **Visual Composer** Backend editor of the page look like this
+Contact Page of MyBag is built using **Visual Composer**.It has a row with 2 columns. The **Visual Composer** Backend editor of the page look like this
 
 ![](http://transvelo.github.io/docs/mybag/images/contact.png)
 
-### Row
+### Row 1
 ---
 * It has two columns in ratio 1/3 : 2/3.
 
