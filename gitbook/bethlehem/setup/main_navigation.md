@@ -15,7 +15,7 @@ A megamenu item in **Bethlehem** theme is a **Static Block**. This **Static Bloc
 ### 2. Enable Visual Composer for Static Block
 
 1. Navigate to **Settings > Visual Composer**.
-2. In **Content Types** under **General Settings** tab , make sure **static_block** is checked.<br/>![](http://transvelo.github.io/docs/bethlehem/images/vc-settings.png)
+2. In **Post Types** under **Role Manager** tab , make sure **custom** is selected and **static_block** is checked.<br/>![](http://transvelo.github.io/docs/bethlehem/images/vc-settings.png)
 3. Go to **Static Content > Add New** and make sure it has a button just below the title with visual composer icon and text that reads **Backend Editor**.<br/>![](http://transvelo.github.io/docs/bethlehem/images/visual-composer-button.png)
 
 ### 3. Add a new megamenu item
