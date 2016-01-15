@@ -55,6 +55,8 @@
    * [Team Member](visual_composer/team_member.md)
    * [Google Map](visual_composer/google_map.md)
    * [Home Page Tabs](visual_composer/home_page_tabs.md)
+* [Ecwid](ecwid/README.md)
+   * [Ecwid Home](ecwid/home.md)
 * [FAQ](faq/README.md)
 * [Credits](credits/README.md)
 
