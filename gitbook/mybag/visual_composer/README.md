@@ -6,8 +6,8 @@
 
 There are 2 additional elements that are made available via **MyBag Extensions** plugin.They are :
 
-1. [MyBag Blog](visual_composer/mybag_blog.md)
-2. [Products Element](visual_composer/products_element.md)
+1. [MyBag Blog](mybag_blog.md)
+2. [Products Element](products_element.md)
 
 
 ![](http://transvelo.github.io/docs/mybag/images/visual-composer-mybag-elements.png)

@@ -34,6 +34,6 @@ Nam libero tempore, cum soluta nobis est ses eligendi optio cumque cum soluta no
 
 The **Bottom Bar** has copyright information and can be configured via **MyBag > Footer**.
 
-1. **Copyright Information** - the default is "*&copy; 2015 <a href="http://demo2.transvelo.in/mybag/">MyBag</a>*"
+1. **Copyright Information** - the default is "*&copy; 2016 <a href="http://demo2.transvelo.in/mybag/">MyBag</a>*"
 
 ![](http://transvelo.github.io/docs/mybag/images/theme-options-footer.png)

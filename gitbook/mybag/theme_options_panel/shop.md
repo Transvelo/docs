@@ -6,7 +6,7 @@
 #### General
 
 * Enable / Disable the Catalog Mode.
-* Set a Product Comparison Page.
+* Set Product Comparison Page as Product Comparison.
 
 #### Shop/Catalog Pages
 

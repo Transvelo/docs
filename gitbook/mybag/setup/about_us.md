@@ -19,21 +19,19 @@ About Us Page of MyBag is built using **Visual Composer**.It has 10 rows. The **
 
 ```
 <div id="Scrollspy">
-<div id="sidebar" class="sticky-sidebar top sticky">
-<div class="widget">
-<div class="widget-heading">
-<h4 class="title">about me</h4>
-</div>
-<div class="widget-body">
-<ul class="nav tabs-left">
-	<li><a href="#education" data-toggle="tab">my education</a></li>
-	<li><a href="#modivation" data-toggle="tab">modivation &amp; inspiration</a></li>
-	<li><a href="#event" data-toggle="tab">events i am in</a></li>
-	<li><a href="#life" data-toggle="tab">my life</a></li>
-</ul>
-</div>
-</div>
-</div>
+    <div id="sidebar" class="sticky-sidebar top sticky">
+        <div class="widget">
+            <div class="widget-body">
+                <ul class="nav tabs-left">
+                	<li><a href="#about-me">about me</a></li>
+                	<li><a href="#education">my education</a></li>
+                	<li><a href="#modivation">modivation &amp; inspiration</a></li>
+                	<li><a href="#event">events i am in</a></li>
+                	<li><a href="#life">my life</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
 </div>
 ```
 
@@ -43,18 +41,18 @@ About Us Page of MyBag is built using **Visual Composer**.It has 10 rows. The **
 
 ```
 <div id="about-me" class="right-content">
-<div class="row">
-<div class="col-md-7">
-<h2>about me</h2>
-<p class="text">Aenean eros ex, elementum eu enim quis, lacinia ornare tellus. Ut mattis, risus quis commodo molestie, purus dui rhoncus ex, eu efficitur ligula enim sit amet tortor. Quisque in lobortis lorem.</p>
-<p class="text">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce suscipit feugiat quam, eu posuere tellus scelerisque a.</p>
-<p class="text">Donec aliquam, lacus nec euismod elementum.</p>
-<p class="text">Proin vehicula ante a pulvinar pharetra. Duis suscipit lacus sed dolor iaculis, eget ullamcorper orci luctus. Curabitur tempor nibh vitae velit dictum dapibus.</p>
-<p class="text">Vestibulum dolor magna, dictum a enim ac, ultricies congue est. Suspendisse id risus ut lorem scelerisque lacinia eget vel sapien.</p>
+    <div class="row">
+        <div id="about-me" class="col-md-7 tab-pane">
+        <h2>about me</h2>
+        <p class="text">Aenean eros ex, elementum eu enim quis, lacinia ornare tellus. Ut mattis, risus quis commodo molestie, purus dui rhoncus ex, eu efficitur ligula enim sit amet tortor. Quisque in lobortis lorem.</p>
+        <p class="text">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce suscipit feugiat quam, eu posuere tellus scelerisque a.</p>
+        <p class="text">Donec aliquam, lacus nec euismod elementum.</p>
+        <p class="text">Proin vehicula ante a pulvinar pharetra. Duis suscipit lacus sed dolor iaculis, eget ullamcorper orci luctus. Curabitur tempor nibh vitae velit dictum dapibus.</p>
+        <p class="text">Vestibulum dolor magna, dictum a enim ac, ultricies congue est. Suspendisse id risus ut lorem scelerisque lacinia eget vel sapien.</p>
 
-</div>
-<div class="col-md-5"><a href="#"><img class="img-responsive" src="assets/images/blank.gif" alt="" data-echo="assets/images/about-me/01.jpg" /></a></div>
-</div>
+        </div>
+        <div class="col-md-5"><a href="#"><img src="http://demo2.transvelo.in/mybag/wp-content/uploads/2015/12/01.jpg" alt="" /></a></div>
+    </div>
 </div>
 ```
 
@@ -65,10 +63,10 @@ About Us Page of MyBag is built using **Visual Composer**.It has 10 rows. The **
 
 ```
 <div class="quick-scroll">
-<ul class="nav tabs-left">
-	<li><a class="left-nav" href="#modivation">left</a></li>
-	<li><a class="right-nav" href="#about-me">Right</a></li>
-</ul>
+    <ul class="nav tabs-left">
+    	<li><a class="left-nav" href="#modivation">left</a></li>
+    	<li><a class="right-nav" href="#about-me">Right</a></li>
+    </ul>
 </div>
 ```
 ### Row 3

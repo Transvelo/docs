@@ -21,11 +21,10 @@ It has **40+ predefined elements** that you can add to your pages. MyBag Theme h
 
 ### Page Templates
 
-MyBag has 3 Page templates and they are :
+MyBag has 2 Page templates and they are :
 
-1. **Default Template** - The default template is a full-width page. It does not has sidebar and it is contained within a container.
-2. **Free Style Page** - The Free Style Page template does not display title and it is not contained within a container and it extends fullwidth from left end to right end of the screen.
-3. **Sidebar Template** - This template has sidebar.
+1. **Default Template** - The default template is a full-width page. It does not has sidebar and it is contained within a container
+2. **Sidebar Template** - This template has sidebar.
 
 ### MyBag Page Attributes Meta Box
 

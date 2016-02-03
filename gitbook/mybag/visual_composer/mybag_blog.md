@@ -15,4 +15,4 @@ Allows you to add blog post on your page.
 
 ## Sample Output
 
-![](http://transvelo.github.io/docs/mybag/images/vc-blog-carousel-output.png)
+![](http://transvelo.github.io/docs/mybag/images/vc-mybag-blog-output.png)

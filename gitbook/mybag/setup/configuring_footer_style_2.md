@@ -63,7 +63,7 @@ By default the footer widgets is populated with 5 widgets and they are :
 The **Bottom Bar** has two sections and these 2 sections can be configured via **MyBag > Footer**.
 
 1. **Copyright Information** - the default is "*&copy; 2015 <a href="http://demo2.transvelo.in/mybag/">MyBag</a>*"
-2. **Payment Logos** - Displays all the payment methods available to the user. There is no default and each logo needs to be uploaded to media library. The recommended resolution for payment logos is **40x29 pixels**
+2. **Payment Logos** - Displays all the payment methods available to the user. There is no default and each logo needs to be uploaded to media library. The recommended resolution for payment logos is **70x60 pixels**
 
 ![](http://transvelo.github.io/docs/mybag/images/theme-options-footer.png)
 

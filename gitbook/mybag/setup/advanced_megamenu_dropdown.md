@@ -29,17 +29,17 @@ We built our simple Megamenu in previous section. We are now going to build a li
 
 #### Row 1 has 4 columns.
 * Column 1 - Click on the **Add** button. It should popup **Add Element** button. Let us add **WP Custom Menu** widget under **Wordpress Widgets**. I have already created a menu (via **Appearance > Menus**).
- * **Widget Title** : Pre Built Pages
- * **Menu** : Pre Built Pages ( name of the menu created already)
+ * **Widget Title** : WooCommerce Pages
+ * **Menu** : WooCommerce Pages ( name of the menu created already)
 * Column 2 -  Click on the **Add** button. It should popup **Add Element** button. Let us add **WP Custom Menu** widget under **Wordpress Widgets**. I have already created a menu (via **Appearance > Menus**).
-  * **Widget Title** : Computers & Laptops
-  * **Menu** : Computers & Laptops ( name of the menu created already)
+  * **Widget Title** : WooCommerce Shortcodes
+  * **Menu** : WooCommerce Shortcodes ( name of the menu created already)
 * Column 3 -  Click on the **Add** button. It should popup **Add Element** button. Let us add **WP Custom Menu** widget under **Wordpress Widgets**. I have already created a menu (via **Appearance > Menus**).
-  * **Widget Title** : Kitchen Appliances
-  * **Menu** : Kitchen Appliances ( name of the menu created already)
+  * **Widget Title** : Shop Sidebar Pages
+  * **Menu** : Shop Sidebar Pages ( name of the menu created already)
 * Column 4 -  Click on the **Add** button. It should popup **Add Element** button. Let us add **WP Custom Menu** widget under **Wordpress Widgets**. I have already created a menu (via **Appearance > Menus**).
-  * **Widget Title** : Large Appliances
-  * **Menu** : Large Appliances ( name of the menu created already)
+  * **Widget Title** : Shop Fullwidth Pages
+  * **Menu** : Shop Fullwidth Pages ( name of the menu created already)
 
 ### 3. How does the Grid look after populating ?
 

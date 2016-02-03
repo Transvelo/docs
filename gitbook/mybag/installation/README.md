@@ -1,6 +1,6 @@
 # Installation
 
-Installing the theme can be done two ways. You can upload the theme ZIP file using the built in WordPress theme upload, or copy the files through an FTP client.
+Installing the theme can be done in two ways. You can upload the theme ZIP file using the built in WordPress theme upload, or copy the files through an FTP client.
 
 1. [**Using WordPress Theme Upload**](using_wordpress_theme_upload.md)
 2. [**Uploading by FTP**](uploading_by_ftp.md)

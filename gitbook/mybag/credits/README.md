@@ -1,7 +1,7 @@
 
 # Credits
 
-* PSD Design by [Michael Lee](http://themeforest.net/user/leebrosus)
+* PSD Design by [bcube ](http://themeforest.net/user/bcube)
 * HTML code by [Akther Jabeen](http://transvelo.com/) & [Mohamed Anas](http://transvelo.com/)
 * [Wordpress](https://wordpress.org/) by WordPress.org.
 * [WooCommerce](http://www.woothemes.com/woocommerce/) by WooThemes
@@ -13,12 +13,10 @@
 * [Envato Toolkit](https://github.com/envato/envato-wordpress-toolkit/)
 * [Bootstrap](http://getbootstrap.com/) by Twitter
 * [Bootstrap Hover Dropdown](https://github.com/CWSpear/bootstrap-hover-dropdown) by Cameron Spear
-* [Jquery Custom Select](http://adam.co/lab/jquery/customselect/) by Adam Coulombe
 * [Jquery Easing](http://gsgd.co.uk/sandbox/jquery/easing/) by George McGinley Smith
-* [Pretty Photo](http://www.no-margin-for-errors.com/) by Stephan Carone
 * [Owl Carousel](http://http//owlgraphic.com/owlcarousel/) by OwlFonk
+* [Select2](https://select2.github.io/) by Kevin Brown
 * [WOW](http://mynameismatthieu.com/WOW/) by Matthieu Aussaguel
-* [Animate.css](http://daneden.me/animate) by Daniel Eden
 * [Font Awesome](http://fontawesome.io/) by Dave Gandy
 * [Yamm 3](http://geedmo.github.com/yamm3) by geedmo
 * [Echo HTML5](https://github.com/toddmotto/echo) Lazy Loading by Todd Motto

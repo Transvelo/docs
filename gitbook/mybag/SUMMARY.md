@@ -40,7 +40,6 @@
        * [Cart](setup/cart.md)
        * [Checkout](setup/checkout.md)
        * [My Account](setup/my_account.md)
-       * [Shop Categories](setup/shop_categories.md)
    * [Static Content](setup/static_content.md)
        * [Megamenu Item : Shop](setup/megamenu_item__shop.md)
 * [Theme Options Panel](theme_options_panel/README.md)

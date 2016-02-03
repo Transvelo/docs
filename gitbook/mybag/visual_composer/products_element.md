@@ -15,4 +15,4 @@ Allows you to add products to your page.
 
 ## Sample Output
 
-![](http://transvelo.github.io/docs/mybag/images/vc-blog-carousel-output.png)
+![](http://transvelo.github.io/docs/mybag/images/vc-mybag-product-element-output.png)

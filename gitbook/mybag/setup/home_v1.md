@@ -41,21 +41,21 @@ at ligula.</p>
 ### Row 3
 ---
 * It has one element
-* MyBag Blog Settings : Here i pasted a MyBag Blog Settings Page image.
+* **MyBag Blog Settings** : Here i pasted a MyBag Blog Settings Page image.
 
 ![](http://transvelo.github.io/docs/mybag/images/vc-mybag- blog-settings.png)
 
 ### Row 4
 ---
 * It has one element
-* Image Carousel Settings : Here i pasted a Image Carousel Settings Page image.
+* **Image Carousel Settings** : Here i pasted a Image Carousel Settings Page image.
 
 ![](http://transvelo.github.io/docs/mybag/images/vc-image- carousel-setting.png)
 
 ### Row 5
 ---
 * It has one element
-* Products Element Settings : Here i pasted a Products Element Setting Page image.
+* **Products Element Settings** : Here i pasted a Products Element Setting Page image.
 
 ![](http://transvelo.github.io/docs/mybag/images/vc-products-element-setting.png)
 

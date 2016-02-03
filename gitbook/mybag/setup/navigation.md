@@ -22,7 +22,7 @@ To create a new menu :
 3. Shop Menu
 4. Footer Quick Links
 
-### Navigation Menus and their location in Header
+### Navigation Menu and their location in Header
 
 ![](http://transvelo.github.io/docs/mybag/images/navigation-menu.png)
 
