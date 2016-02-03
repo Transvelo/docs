@@ -34,7 +34,7 @@
 
 
         
-    <div class="book" data-level="5.1.3.5" data-basepath=".." data-revision="1451975780976">
+    <div class="book" data-level="5.1.3.5" data-basepath=".." data-revision="1454497476278">
     
 
 <div class="book-summary">
@@ -727,22 +727,6 @@
             
         </li>
     
-        
-        <li class="chapter " data-level="5.8.6" data-path="setup/shop_categories.html">
-            
-                
-                    <a href="../setup/shop_categories.html">
-                        <i class="fa fa-check"></i>
-                        
-                            <b>5.8.6.</b>
-                        
-                         Shop Categories
-                    </a>
-                
-            
-            
-        </li>
-    
 
             </ul>
             
@@ -1148,9 +1132,61 @@
                 <div class="page-inner">
                 
                 
-                    <section class="normal" id="section-gitbook_26">
+                    <section class="normal" id="section-gitbook_28">
                     
                         <h1 id="configuring-footer-style-5">Configuring Footer Style 5</h1>
+<p><strong>MyBag</strong>&#39;s footer has 2 rows.</p>
+<ul>
+<li>The first row is called <strong>Footer Top Widgets</strong>.</li>
+<li>The second row is called <strong>Bottom Bar</strong>.</li>
+</ul>
+<p>Here is the Footer&#39;s anatomy:</p>
+<p><img src="http://transvelo.github.io/docs/mybag/images/footer-style-5.png" alt=""></p>
+<h2 id="footer-top-widgets">Footer Top Widgets</h2>
+<p>The <strong>Footer Top Widgets</strong> is the top most row in the footer. It is a widgetized area and can be populated from <strong>Appearance &gt; Widgets &gt; Footer Top Widgets</strong>.</p>
+<ul>
+<li>It has an element which is Text Block element.</li>
+<li><strong>Text Block</strong> : The content of the text block:</li>
+</ul>
+<pre><code>&lt;div class=&quot;textwidget&quot;&gt;
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-md-4&quot;&gt;
+            &lt;div class=&quot;newsletter-info&quot;&gt;
+                &lt;p class=&quot;title&quot;&gt;Stay Connected to MyBag&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-md-8&quot;&gt;
+            [mc4wp_form id=&quot;1591&quot;]
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</code></pre><p><img src="http://transvelo.github.io/docs/mybag/images/footer-5-widget-setting.png" alt=""></p>
+<h2 id="bottom-bar">Bottom Bar</h2>
+<p>The <strong>Bottom Bar</strong> has three sections.</p>
+<h3 id="footer-widgets">Footer Widgets:</h3>
+<p>The <strong>Footer Widgets</strong> is a widgetized area and can be populated from <strong>Appearance &gt; Widgets &gt; Footer Widgets</strong>.</p>
+<ul>
+<li>It has an element which is Text Block element.</li>
+<li><strong>Text Block</strong> : The content of the text block:</li>
+</ul>
+<pre><code>&lt;div class=&quot;textwidget&quot;&gt;
+    &lt;ul class=&quot;footer-links clearfix list-unstyled&quot;&gt;
+        &lt;li&gt;
+            &lt;a href=&quot;#&quot;&gt;Disclaimer&lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;a href=&quot;#&quot;&gt;Terms and Conditions&lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;a href=&quot;#&quot;&gt;Privacy Policy&lt;/a&gt;
+        &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+</code></pre><h3 id="footer-logo">Footer Logo:</h3>
+<p>This is the same as the website logo and can be set from <strong>MyBag &gt; Footer &gt; Use Header Logo</strong>.</p>
+<h3 id="footer-payment-logo">Footer Payment Logo:</h3>
+<p>Displays all the payment methods available to the user. There is no default and each logo needs to be uploaded to media library. The recommended resolution for payment logos is <strong>70x60 pixels</strong></p>
+<p><img src="http://transvelo.github.io/docs/mybag/images/theme-options-footer.png" alt=""></p>
 
                     
                     </section>
