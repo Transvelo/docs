@@ -34,7 +34,7 @@
 
 
         
-    <div class="book" data-level="5.1.3.4" data-basepath=".." data-revision="1451975780976">
+    <div class="book" data-level="5.1.3.4" data-basepath=".." data-revision="1454497476278">
     
 
 <div class="book-summary">
@@ -727,22 +727,6 @@
             
         </li>
     
-        
-        <li class="chapter " data-level="5.8.6" data-path="setup/shop_categories.html">
-            
-                
-                    <a href="../setup/shop_categories.html">
-                        <i class="fa fa-check"></i>
-                        
-                            <b>5.8.6.</b>
-                        
-                         Shop Categories
-                    </a>
-                
-            
-            
-        </li>
-    
 
             </ul>
             
@@ -1151,40 +1135,67 @@
                     <section class="normal" id="section-gitbook_25">
                     
                         <h1 id="configuring-footer-style-4">Configuring Footer Style 4</h1>
-<p><strong>MyBag</strong>&#39;s footer has 2 rows.</p>
+<p><strong>MyBag</strong>&#39;s footer has 3 rows.</p>
 <ul>
-<li>The first row is called <strong>Footer Widgets</strong>.</li>
-<li>The second row is called <strong>Bottom Bar</strong>.</li>
+<li>The first row is called <strong>Footer Top Widgets</strong>.</li>
+<li>The second row is called <strong>Footer Widgets</strong>.</li>
+<li>The third row is called <strong>Bottom Bar</strong>.</li>
 </ul>
 <p>Here is the Footer&#39;s anatomy:</p>
-<p><img src="http://transvelo.github.io/docs/mybag/images/footer-style-3.png" alt=""></p>
+<p><img src="http://transvelo.github.io/docs/mybag/images/footer-style-4.png" alt=""></p>
+<h2 id="footer-top-widgets">Footer Top Widgets</h2>
+<p>The <strong>Footer Top  Widgets</strong> is the top most row in the footer. It is a widgetized area and can be populated from <strong>Appearance &gt; Widgets &gt; Footer Top Widgets</strong>.</p>
+<p>In the preview it has 5 widgets. Technically it is possible to have more than or less than 5 widgets and the width will be automatically adjust to be equally shared by the number of widgets.</p>
+<p>By default the footer widgets is populated with 5 widgets and they are :</p>
+<ol>
+<li><p><strong>Custom Menu</strong> Widget - configured to display <strong>Handbags Menu</strong>.</p>
+</li>
+<li><p><strong>Custom Menu</strong> Widget - configured to display <strong>Bags Menu</strong>.</p>
+</li>
+<li><p><strong>Custom Menu</strong> Widget - configured to display <strong>Wallets Menu</strong>.</p>
+</li>
+<li><p><strong>Custom Menu</strong> Widget - configured to display <strong>About Us Menu</strong>.</p>
+</li>
+<li><strong>Custom Menu</strong> Widget - configured to display <strong>Support Menu</strong>.</li>
+</ol>
+<p><img src="http://transvelo.github.io/docs/mybag/images/footer4-top-widget-setting.png" alt=""></p>
 <h2 id="footer-widgets">Footer Widgets</h2>
-<p>The <strong>Footer Widgets</strong> is the top most row in the footer. It is a widgetized area and can be populated from <strong>Appearance &gt; Widgets &gt; Footer Widgets</strong>.</p>
-<p>In the preview it has 4 widgets. Technically it is possible to have more than or less than 4 widgets and the width will be automatically adjust to be equally shared by the number of widgets.</p>
-<p>By default the footer widgets is populated with 4 widgets and they are :</p>
-<ol>
-<li><p>The <strong>First Widget</strong> has two sections and these 2 sections can be configured via <strong>MyBag &gt; Footer</strong>.</p>
+<p>The <strong>Footer Widgets</strong> is the second row in the footer. It is a widgetized area and can be populated from <strong>Appearance &gt; Widgets &gt; Footer Widgets</strong>.</p>
+<p>It has a row with two columns</p>
+<h3 id="column-1">Column 1:</h3>
 <ul>
-<li><p><strong>Logo</strong> - This is the same as the website logo and can be set from <strong>MyBag &gt; Footer &gt; Use Header Logo</strong>.</p>
-</li>
-<li><p><strong>Footer Contact Info</strong> - The default value is <em>&quot;
-Nam libero tempore, cum soluta nobis est ses eligendi optio cumque cum soluta nobis est ses eligendi optio cumque.&quot;</em> and can be changed from <strong>MyBag &gt; Footer &gt; Footer Contact Info</strong>.</p>
-</li>
+<li>It has an element which is Text Block element.</li>
+<li><strong>Text Block</strong> : The content of the text block:<pre><code>&lt;div class=&quot;textwidget&quot;&gt;
+  &lt;div class=&quot;newsletter-info&quot;&gt;
+      &lt;p class=&quot;title&quot;&gt;Sign up and get 30% off&lt;/p&gt;
+      &lt;p class=&quot;tagline&quot;&gt;Be the first to know about the latest fashion new and get exclusive offers&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</code></pre></li>
 </ul>
-</li>
-<li><p><strong>Custom Menu</strong> Widget - configured to display <strong>Customer Care Menu</strong></p>
-</li>
-<li><p><strong>MyBag Recent Posts</strong> Widget - configured to display <strong>Recent Blog Post</strong></p>
-</li>
-<li><p><strong>MailChimp Sign-Up Form</strong> Widget - configured to display <strong>Newsletter Form</strong>
-<img src="http://transvelo.github.io/docs/mybag/images/footer-3-widget-setting.png" alt=""></p>
-</li>
-</ol>
+<h3 id="column-2">Column 2:</h3>
+<ul>
+<li>It has an element which is MailChimp Form.</li>
+</ul>
+<p><strong>MailChimp Sign-Up Form</strong> Widget - configured to display <strong>Newsletter Form</strong></p>
+<p><img src="http://transvelo.github.io/docs/mybag/images/footer4-widget-setting.png" alt=""></p>
 <h2 id="bottom-bar">Bottom Bar</h2>
-<p>The <strong>Bottom Bar</strong> has copyright information and can be configured via <strong>MyBag &gt; Footer</strong>.</p>
-<ol>
-<li><strong>Copyright Information</strong> - the default is &quot;<em>&copy; 2015 <a href="http://demo2.transvelo.in/mybag/">MyBag</a></em>&quot;</li>
-</ol>
+<p>The <strong>Bottom Bar</strong> has two rows.</p>
+<h3 id="row-1">Row 1</h3>
+<p>1.<strong>Text Widget</strong> - : The content of the text block:</p>
+<pre><code>&lt;ul class=&quot;contact-info&quot;&gt;
+    &lt;li&gt;
+        &lt;a href=&quot;#&quot;&gt;hello@mybag.com&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;a href=&quot;#&quot;&gt;61709&lt;/a&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+</code></pre><p>2.<strong>Logo</strong> - This is the same as the website logo and can be set from <strong>MyBag &gt; Footer &gt; Use Header Logo</strong>.</p>
+<p>3.<strong>Social Icons</strong> - Links to Social media profiles. It can be set from <strong>MyBag &gt; Social Media</strong><br/><img src="http://transvelo.github.io/docs/mybag/images/theme-options-social-media.png" alt=""></p>
+<h3 id="row-2">Row 2</h3>
+<p>1.<strong>Footer Quick Links</strong> - Footer Menu which is hooked in Footer Quick Link nav menu location.</p>
+<p>2.<strong>Copyright Information</strong> - the default is &quot;<em>&copy; 2016 <a href="http://demo2.transvelo.in/mybag/">MyBag</a></em>&quot;</p>
 <p><img src="http://transvelo.github.io/docs/mybag/images/theme-options-footer.png" alt=""></p>
 
                     
