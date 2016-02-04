@@ -27,6 +27,8 @@ By default the footer widgets is populated with 5 widgets and they are :
 4. **Custom Menu** Widget - configured to display **About Us Menu**.
 5. **Custom Menu** Widget - configured to display **Support Menu**.
 
+Here is the screenshot for Footer Top Widget setting
+
 ![](http://transvelo.github.io/docs/mybag/images/footer4-top-widget-setting.png)
 
 ## Footer Widgets

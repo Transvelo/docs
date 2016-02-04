@@ -246,10 +246,10 @@ About Us Page of MyBag is built using **Visual Composer**.It has 10 rows. The **
 
 Here is the screenshot for Icon Settings
 
-![](http://transvelo.github.io/mybag/docs/images/icon-setting.png)
+![](http://transvelo.github.io/docs/mybag/images/icon-setting.png)
 
 
 **Note**: In Row 2,Row 4, Row 6, Row 8 setting enable Stretch row and content (no paddings). Here i pasted the screenshot for your reference.
 
-![](http://transvelo.github.io/mybag/docs/images/full-width-row-setting.png)
+![](http://transvelo.github.io/docs/mybag/images/full-width-row-setting.png)
 

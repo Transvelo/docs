@@ -145,4 +145,4 @@ It has three columns in the ratio 1/3 + 1/3 + 1/3
 
 Here is the screenshot for Icon Settings
 
-![](http://transvelo.github.io/mybag/docs/images/icon-setting.png)
+![](http://transvelo.github.io/docs/mybag/images/icon-setting.png)

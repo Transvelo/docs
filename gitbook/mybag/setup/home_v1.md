@@ -43,7 +43,7 @@ at ligula.</p>
 * It has one element
 * **MyBag Blog Settings** : Here i pasted a MyBag Blog Settings Page image.
 
-![](http://transvelo.github.io/docs/mybag/images/vc-mybag- blog-settings.png)
+![](http://transvelo.github.io/docs/mybag/images/vc-mybag-blog-setting.png)
 
 ### Row 4
 ---

@@ -11,6 +11,7 @@
 #### Shop/Catalog Pages
 
 * Set a Shop/Catalog Pages Layout.
+* Select Product Style.
 * Set the Number of Product Columns for displaying products in shop page.
 * Set the number of products to be displayed per page.
 

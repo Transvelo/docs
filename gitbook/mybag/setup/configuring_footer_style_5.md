@@ -30,6 +30,7 @@ The **Footer Top Widgets** is the top most row in the footer. It is a widgetized
     </div>
 </div>
 ```
+Here is the screenshot for Footer Top Widget setting
 
 ![](http://transvelo.github.io/docs/mybag/images/footer-5-widget-setting.png)
 

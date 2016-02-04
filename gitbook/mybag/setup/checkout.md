@@ -8,4 +8,4 @@ Checkout page is created automatically on activating the **Woocommerce** plugin.
 4. Check on **Hide Title** under **MyBag Page Attributes** Meta box.
 5. Click on **Publish**.
 
-![](http://transvelo.github.io/unicase/docs/images/page-checkout.png)
+![](http://transvelo.github.io/docs/mybag/images/page-checkout.png)

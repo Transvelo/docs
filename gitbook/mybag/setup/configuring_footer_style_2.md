@@ -55,6 +55,7 @@ By default the footer widgets is populated with 5 widgets and they are :
 <p class="opening-hours"><span class="key">Monday-Sunday</span><span class="value">10:00 - 19:00</span></p>
 <p class="opening-hours"><span class="key">Sunday &amp; Holidays</span><span class="value">12:00 - 17:00</span></p>
 ```
+Here is the screenshot for Footer Top Widget setting
 
 ![](http://transvelo.github.io/docs/mybag/images/footer-2-widget-setting.png)
 

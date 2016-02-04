@@ -12,7 +12,7 @@
 
 ## Product Comparison Page Editor
 
-![](http://transvelo.github.io/unicase/docs/images/page-product-comparison.png)
+![](http://transvelo.github.io/docs/mybag/images/page-product-comparison.png)
 
 
 

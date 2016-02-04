@@ -11,6 +11,22 @@ In **MyBag** theme, the Shop Page can be displayed in 3 available layouts which 
 
 You can select the layout of the shop from **MyBag > Shop Tab > Shop/Catalog Pages > Shop/Catalog Pages Layout**.
 
+## Product Style
+
+**MyBag** is bundle with two different product styles.
+1. **Style 1** : Here is the screenshot for Product Style 1.
+
+![](http://transvelo.github.io/docs/mybag/images/product-style-1.png)
+
+2. **Style 2** : Here is the screenshot for Product Style 2.
+
+
+![](http://transvelo.github.io/docs/mybag/images/product-style-2.png)
+
+
+
+**Note**: **Style 2 **is suitable only for Full Width in three column layout.
+
 ## Content Section
 
 The Content Section of the Shop Page displays either Products or Categories or both depending on the choice given in **Shop Page Display** option under **WooCommerce > Settings > Products**.
