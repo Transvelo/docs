@@ -38,7 +38,7 @@ Here is the screenshot for Footer Top Widget setting
 
 The **Bottom Bar** has three sections.
 
-### Footer Widgets:
+#### 1. Footer Widgets:
 
 The **Footer Widgets** is a widgetized area and can be populated from **Appearance > Widgets > Footer Widgets**.
 
@@ -60,11 +60,11 @@ The **Footer Widgets** is a widgetized area and can be populated from **Appearan
     </ul>
 </div>
 ```
-### Footer Logo:
+#### 2. Footer Logo:
 
 This is the same as the website logo and can be set from **MyBag > Footer > Use Header Logo**.
 
-### Footer Payment Logo:
+#### 3. Footer Payment Logo:
 Displays all the payment methods available to the user. There is no default and each logo needs to be uploaded to media library. The recommended resolution for payment logos is **70x60 pixels**
 
 ![](http://transvelo.github.io/docs/mybag/images/theme-options-footer.png)

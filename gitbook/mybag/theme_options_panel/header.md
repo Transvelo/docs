@@ -4,7 +4,7 @@
 
 * Upload Your Logo Image.
 * Enable / Disable Home Page Slider.
-* If you enable Home Page Slider then Choose Slider.
+* Choose Slider to display on Home Page.
 
 ![](http://transvelo.github.io/docs/mybag/images/theme-options-header.png)
 

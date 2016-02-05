@@ -14,4 +14,8 @@
 5. Click on **Save Menu**.
 6. After you have saved the menu, hook the menu to the available **Primary Menu** Nav menu locations.
 
+Here is the screenshot for Header Menu Setting
+
+![](http://transvelo.github.io/docs/mybag/images/menu-setting.png)
+
 

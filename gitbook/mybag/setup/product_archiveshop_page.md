@@ -24,8 +24,7 @@ You can select the layout of the shop from **MyBag > Shop Tab > Shop/Catalog Pag
 ![](http://transvelo.github.io/docs/mybag/images/product-style-2.png)
 
 
-
-**Note**: **Style 2 **is suitable only for Full Width in three column layout.
+<div class="alert alert-info">**Info** : **Style 2 **is suitable only for Full Width in three column layout.</div>
 
 ## Content Section
 
