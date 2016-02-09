@@ -22,7 +22,6 @@ Allows you to add a banner image and an overlay text. It also allows you to anim
 | ** Color ** | Color Picker | Text color of Banner. | none
 | ** Banner Link ** | Text | URL for the Banner to be Linked. | none
 | ** On Click ** | Select | Select the Banner to be opened in the Same Page or in the New Page| Open in Same Page
-| ** Animation on banner hover ** | Select | Set the Animation Effect on Banner Hover. | bounce
 | ** Caption Extra Class ** | Text | Add your extra classes here for the caption.. | none
 | ** Extra Class ** | Text | Additional classes that may be applied to the banner. | none
 
