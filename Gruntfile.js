@@ -11,6 +11,7 @@ module.exports = function( grunt ) {
 			bethlehem: 'gh-pages/bethlehem/',
 			mediacenter: 'gh-pages/mediacenter/',
 			mybag: 'gh-pages/mybag/',
+			playhouse: 'gh-pages/playhouse/',
 			sportexx: 'gh-pages/sportexx/',
 			unicase: 'gh-pages/unicase/',
 		},
@@ -30,6 +31,11 @@ module.exports = function( grunt ) {
 			mybag: {
 				files: [
 					{ expand: true, cwd: 'gitbook/mybag/_book/', src: ['**','!.*','!.*/**','.htaccess','!Gruntfile.js','!README.md','!package.json','!node_modules/**','!.DS_Store','!npm-debug.log'], dest : 'gh-pages/mybag/' }
+				],
+			},
+			playhouse: {
+				files: [
+					{ expand: true, cwd: 'gitbook/playhouse/_book/', src: ['**','!.*','!.*/**','.htaccess','!Gruntfile.js','!README.md','!package.json','!node_modules/**','!.DS_Store','!npm-debug.log'], dest : 'gh-pages/playhouse/' }
 				],
 			},
 			sportexx: {
@@ -64,6 +70,10 @@ module.exports = function( grunt ) {
 				input: 'gitbook/mybag',
 				github: 'Transvelo/mybag'
 			},
+			playhouse: {
+				input: 'gitbook/playhouse',
+				github: 'Transvelo/playhouse'
+			},
 			sportexx: {
 				input: 'gitbook/sportexx',
 				github: 'Transvelo/sportexx'
@@ -97,6 +107,10 @@ module.exports = function( grunt ) {
 
 	grunt.registerTask( 'mybag', [
 		'gitbook:mybag', 'clean:mybag', 'copy:mybag'
+	]);
+
+	grunt.registerTask( 'playhouse', [
+		'gitbook:playhouse', 'clean:playhouse', 'copy:playhouse'
 	]);
 
 	grunt.registerTask( 'sportexx', [
