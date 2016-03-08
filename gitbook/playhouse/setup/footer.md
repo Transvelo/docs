@@ -8,7 +8,7 @@ Here is the Footer's anatomy:
 
 ![](http://transvelo.github.io/docs/playhouse/images/footer-anatomy.png)
 
-## Footer Widget
+## Footer Widgets
 
 The **footer widgets** is the top most row in the footer. It is a widgetized area and can be populated from **Appearance > Widgets > Footer Widgets**.
 
