@@ -1,12 +1,12 @@
 # Megamenu Dropdown
 
-**MyBag** supports Megamenu Dropdown, with the help of two plugins that comes bundled with the theme namely :  **Visual Composer** plugin and **MyBag Extensions** plugin.
+**Electro** supports Megamenu Dropdown, with the help of two plugins that comes bundled with the theme namely :  **Visual Composer** plugin and **Electro Extensions** plugin.
 
 ## Building a megamenu dropdown item
 
 ### 1. Static Block Post Type
 
-A megamenu item in **MyBag** theme is a **Static Block**. This **Static Block** is available on activating **MyBag Extensions** Plugin.
+A megamenu item in **Electro** theme is a **Static Block**. This **Static Block** is available on activating **Electro Extensions** Plugin.
 
 ![](http://transvelo.github.io/docs/mybag/images/admin-static-content.png)
 

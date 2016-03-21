@@ -22,7 +22,7 @@
        * [Megamenu Dropdown](setup/megamenu_dropdown.md)
        * [Advanced Megamenu Dropdown](setup/advanced_megamenu_dropdown.md)
    * [Pre-Built Pages](setup/pre-built_pages.md)
-       * [Contact Page](setup/contact.md)
+       * [About Page](setup/contact.md)
        * [FAQ Page](setup/faq.md)
        * [Terms and Conditions Page](setup/terms_and_conditions_page.md)
        * [Track your Order](setup/track_your_order.md)
