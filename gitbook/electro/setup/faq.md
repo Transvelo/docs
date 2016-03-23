@@ -1,8 +1,8 @@
 # FAQ Page
 
-Frequently Asked Questions **(FAQ)** of  MyBag is built using **Visual Composer**.It has 4 rows. The **Visual Composer** Backend editor of the page look like this
+Frequently Asked Questions **(FAQ)** of  Electro is built using **Visual Composer**.It has 5 rows. The **Visual Composer** Backend editor of the page look like this
 
-![](http://transvelo.github.io/docs/mybag/images/faq.png)
+![](http://transvelo.github.io/docs/electro/images/faq.png)
 
 ### Row 1
 ---
@@ -10,7 +10,7 @@ Frequently Asked Questions **(FAQ)** of  MyBag is built using **Visual Composer*
 
 Here is the screenshot for Custom Heading
 
-![](http://transvelo.github.io/docs/mybag/images/faq-custom-heading-setting.png)
+![](http://transvelo.github.io/docs/electro/images/faq-custom-heading-setting.png)
 
 ### Row 2
 ---
@@ -19,10 +19,10 @@ Here is the screenshot for Custom Heading
 * **Text Block** : The content of the text block:
 
 ```
-<h3 class="faq-title">What Shipping Methods Are Available?</h3>
+<h3 class="faq-title" style="text-align: left;">What Shipping Methods Are Available?</h3>
 <div class="text-content">
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sapien lorem, consectetur et turpis id, blandit interdum metus. Morbi sed ligula id elit mollis efficitur ut nec ligula. Proin erat magna, pellentesque at elementum at, eleifend a tortor.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sapien lorem, consectetur et turpis id, blandit interdum metus. Morbi sed ligula id elit mollis efficitur ut nec ligula. Proin erat magna, pellentesque at elementum at, eleifend a tortor.
 
 </div>
 ```
@@ -44,9 +44,13 @@ Integer ex turpis, venenatis vitae nibh vel, vestibulum maximus quam. Ut pretium
 
 ### Row 4
 ---
+**Custom Heading** - Click on **Add** button and add **Custom Heading**  under **All**.
+
+### Row 5
+---
 * Click on **Add** button and add **Accordion** under **All**.
 * The single column has one **FAQ** element for one single question.
 * Clone the **FAQ** element as much as the questions you have.
 * Here is a sample **FAQ Element Settings **.
 
-![](http://transvelo.github.io/docs/mybag/images/faq-setting.png)
+![](http://transvelo.github.io/docs/electro/images/faq-setting.png)

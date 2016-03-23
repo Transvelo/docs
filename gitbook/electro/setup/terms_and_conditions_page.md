@@ -1,8 +1,8 @@
 # Terms and Conditions Page
 
-Terms and Conditions Page of MyBag is built using **Visual Composer**.It has one row. The **Visual Composer** Backend editor of the page look like this
+Terms and Conditions Page of Electro is built using **Visual Composer**.It has one row. The **Visual Composer** Backend editor of the page look like this
 
-![](http://transvelo.github.io/docs/mybag/images/terms-and-conditions.png)
+![](http://transvelo.github.io/docs/electro/images/terms-and-conditions.png)
 
 ### Row 1
 ---
@@ -12,27 +12,33 @@ It has one element.
 <br/><br/>
 
 ```
-<h1>TERMS &amp; CONDITIONS</h1>
-<p class="tag-line">Last Update December 28, 2015</p>
+<section class="section inner-bottom-xs">
+<h2>Intellectual Propertly</h2>
+<ol>
+	<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis diam erat. Duis velit lectus, posuere a blandit sit amet, tempor at lorem. Donec ultricies, lorem sed ultrices interdum.</li>
+	<li>Leo metus luctus sem, vel vulputate diam ipsum sed lorem. Donec tempor arcu nisl, et molestie massa scelerisque ut. Nunc at rutrum leo. Mauris metus mauris, tristique quis sapien eu, rutrum vulputate enim.</li>
+	<li>Mauris tempus erat laoreet turpis lobortis, eu tincidunt erat fermentum.</li>
+	<li>Aliquam non tincidunt urna. Integer tincidunt nec nisl vitae ullamcorper. Proin sed ultrices erat. Praesent varius ultrices massa at faucibus.</li>
+	<li>Aenean dignissim, orci sed faucibus pharetra, dui mi dignissim tortor, sit amet condimentum mi ligula sit amet augue.</li>
+	<li>Pellentesque vitae eros eget enim mollis placerat.</li>
+</ol>
+</section><section class="section inner-bottom-xs">
+<h2>Termination</h2>
+<ol>
+	<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis diam erat. Duis velit lectus, posuere a blandit sit amet, tempor at lorem. Donec ultricies, lorem sed ultrices interdum.</li>
+	<li>Leo metus luctus sem, vel vulputate diam ipsum sed lorem. Donec tempor arcu nisl, et molestie massa scelerisque ut. Nunc at rutrum leo. Mauris metus mauris, tristique quis sapien eu, rutrum vulputate enim.</li>
+	<li>Mauris tempus erat laoreet turpis lobortis, eu tincidunt erat fermentum.</li>
+	<li>Aliquam non tincidunt urna. Integer tincidunt nec nisl vitae ullamcorper. Proin sed ultrices erat. Praesent varius ultrices massa at faucibus.</li>
+	<li>Aenean dignissim, orci sed faucibus pharetra, dui mi dignissim tortor, sit amet condimentum mi ligula sit amet augue.</li>
+	<li>Pellentesque vitae eros eget enim mollis placerat.</li>
+</ol>
+</section><section class="section inner-bottom-xs">
+<h2>Changes To This Agreement</h2>
+We reserve the right, at our sole discretion, to modify or replace these Terms and Conditions by posting the updated terms on the Site. Your continued use of the Site after any such changes constitutes your acceptance of the new Terms and Conditions.
 
-<h4>Intellectual Propertly</h4>
-<ol>
-	<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sapien lorem, consectetur et turpis id, blandit interdum metus. Morbi sed ligula id elit mollis efficitur ut nec ligula. Proin erat magna, pellentesque at elementum at, eleifend a tortor.</li>
-	<li>Etiam diam elit, hendrerit eu tempor sit amet, cursus eu nisi. Cras eget lacus et quam interdum pellentesque sed a magna. Duis sagittis neque sit amet mauris malesuada, non finibus augue accumsan. Ut et justo odio.</li>
-	<li>Ut tempor nisi et tortor porta, a imperdiet odio congue. Sed a justo malesuada, accumsan justo non, interdum elit. Nunc sapien justo, porta sit amet est sed, luctus ultrices leo. Duis vestibulum semper vehicula.</li>
-	<li>Suspendisse volutpat placerat pharetra. Aenean ac elit nulla. Cras placerat tempus tellus, vitae semper lorem lobortis eget.</li>
-	<li>Nunc et sodales nunc. Ut dolor sem, pretium id posuere vel, venenatis a justo. Aliquam enim ligula, elementum ac tortor eu, venenatis tristique urna. Sed finibus sapien eu leo fermentum, sollicitudin pellentesque urna sodales. Nam commodo lectus ut arcu placerat fermentum. Fusce sed urna ultrices, pulvinar magna rutrum, feugiat eros. In vulputate risus ac placerat pharetra.</li>
-</ol>
-<h4>Termination</h4>
-<ol>
-	<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sapien lorem, consectetur et turpis id, blandit interdum metus. Morbi sed ligula id elit mollis efficitur ut nec ligula. Proin erat magna, pellentesque at elementum at, eleifend a tortor.</li>
-	<li>Etiam diam elit, hendrerit eu tempor sit amet, cursus eu nisi. Cras eget lacus et quam interdum pellentesque sed a magna. Duis sagittis neque sit amet mauris malesuada, non finibus augue accumsan. Ut et justo odio.</li>
-	<li>Ut tempor nisi et tortor porta, a imperdiet odio congue. Sed a justo malesuada, accumsan justo non, interdum elit. Nunc sapien justo, porta sit amet est sed, luctus ultrices leo. Duis vestibulum semper vehicula.</li>
-	<li>Suspendisse volutpat placerat pharetra. Aenean ac elit nulla. Cras placerat tempus tellus, vitae semper lorem lobortis eget.</li>
-	<li>Nunc et sodales nunc. Ut dolor sem, pretium id posuere vel, venenatis a justo. Aliquam enim ligula, elementum ac tortor eu, venenatis tristique urna. Sed finibus sapien eu leo fermentum, sollicitudin pellentesque urna sodales. Nam commodo lectus ut arcu placerat fermentum. Fusce sed urna ultrices, pulvinar magna rutrum, feugiat eros. In vulputate risus ac placerat pharetra.</li>
-</ol>
-<h4>Changes To This Agreement</h4>
-Integer ex turpis, venenatis vitae nibh vel, vestibulum maximus quam. Ut pretium orci ac vestibulum porttitor. Fusce tempus diam quis justo porttitor gravida. Suspendisse lacus nulla, lacinia in blandit non, vulputate vitae tortor. Vivamus auctor, neque vitae condimentum posuere, ex ligula laoreet felis, vel vulputate quam leo quis magna. Aliquam mattis ultrices finibus. Morbi a nibh ut leo gravida dignissim. Etiam tempus felis et bibendum rhoncus. In justo lacus, lobortis at gravida a, pharetra vitae neque. Quisque facilisis scelerisque justo, a auctor est euismod in.
-<h4>contact us</h4>
-If you have any questions about this Agreement, please contact us filling this <a href="#">contact form.</a>
+</section><section class="section intellectual-property">
+<h2>Contact Us</h2>
+If you have any questions about this Agreement, please contact us filling this <a href="#"><strong>contact form</strong></a>
+
+</section>
 ```

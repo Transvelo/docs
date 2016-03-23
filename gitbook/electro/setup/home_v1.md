@@ -1,11 +1,19 @@
 # Home
 
-Home Page of MyBag is built using **Visual Composer**.It has 5 rows. The **Visual Composer** Backend editor of the page look like this
+Home Page of Electro is built using **Visual Composer**.It has 5 rows. The **Visual Composer** Backend editor of the page look like this
 
-![](http://transvelo.github.io/docs/mybag/images/vc-home-setting.png)
+![](http://transvelo.github.io/docs/electro/images/vc-home-setting.png)
 
 ## Content Section
 
+1. Navigate to **Home v1** page and make sure **Homepage v1** is choosen under **Page Attributes > Template**.
+2. Click on **Publish**.
+3. After Publish, Home v1 options will appear in the meta box area.
+
+    Here is the screenshot for your reference
+    ![](http://transvelo.github.io/docs/electro/images/h    ome-v1-option.png)
+
+4. 
 ### Row 1
 ---
 * It has two columns in the ratio of 1/2 + 1/2.
