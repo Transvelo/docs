@@ -9,6 +9,7 @@ module.exports = function( grunt ) {
 		clean: {
 			files: '.grunt',
 			bethlehem: 'gh-pages/bethlehem/',
+			electro: 'gh-pages/electro/',
 			mediacenter: 'gh-pages/mediacenter/',
 			mybag: 'gh-pages/mybag/',
 			playhouse: 'gh-pages/playhouse/',
@@ -21,6 +22,11 @@ module.exports = function( grunt ) {
 			bethlehem: {
 				files: [
 					{ expand: true, cwd: 'gitbook/bethlehem/_book/', src: ['**','!.*','!.*/**','.htaccess','!Gruntfile.js','!README.md','!package.json','!node_modules/**','!.DS_Store','!npm-debug.log'], dest : 'gh-pages/bethlehem/' }
+				],
+			},
+			electro: {
+				files: [
+					{ expand: true, cwd: 'gitbook/electro/_book/', src: ['**','!.*','!.*/**','.htaccess','!Gruntfile.js','!README.md','!package.json','!node_modules/**','!.DS_Store','!npm-debug.log'], dest : 'gh-pages/electro/' }
 				],
 			},
 			mediacenter: {
@@ -62,6 +68,10 @@ module.exports = function( grunt ) {
 				input: 'gitbook/bethlehem',
 				github: 'Transvelo/bethlehem'
 			},
+			electro: {
+				input: 'gitbook/electro',
+				github: 'Transvelo/electro'
+			},
 			mediacenter: {
 				input: 'gitbook/mediacenter',
 				github: 'Transvelo/mediacenter'
@@ -99,6 +109,10 @@ module.exports = function( grunt ) {
 
 	grunt.registerTask( 'bethlehem', [
 		'gitbook:bethlehem', 'clean:bethlehem', 'copy:bethlehem'
+	]);
+
+	grunt.registerTask( 'electro', [
+		'gitbook:electro', 'clean:electro', 'copy:electro'
 	]);
 
 	grunt.registerTask( 'mediacenter', [
