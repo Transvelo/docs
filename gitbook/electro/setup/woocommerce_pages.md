@@ -12,6 +12,6 @@ Upon installation of the **WooCommerce** plugin, it creates the following new pa
 In addition to the above pages there are few other WooCommerce pages that **MyBag** supports. They are:
 
 1. [**Wishlist**](wishlist.md)
-2. [**Product Comparison**](product_comparison.md)
+2. [**Compare**](product_comparison.md)
 
 

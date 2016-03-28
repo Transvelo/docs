@@ -1,6 +1,6 @@
 # Home
 
-Home Page of Electro is built using **Visual Composer**.It has 5 rows. The **Visual Composer** Backend editor of the page look like this
+Home Page of Electro is built using **Visual Composer** with 7 rows. The **Visual Composer** Backend editor of the page look like this
 
 ![](http://transvelo.github.io/docs/electro/images/vc-home-setting.png)
 
@@ -8,63 +8,75 @@ Home Page of Electro is built using **Visual Composer**.It has 5 rows. The **Vis
 
 1. Navigate to **Home v1** page and make sure **Homepage v1** is choosen under **Page Attributes > Template**.
 2. Click on **Publish**.
-3. After Publish, Home v1 options will appear in the meta box area.
+3. After Publish, **Home v1** options will appear in the meta box area. Here you can edit the default content or upload your own image.
 
     Here is the screenshot for your reference
     ![](http://transvelo.github.io/docs/electro/images/h    ome-v1-option.png)
 
-4. 
+4. **Home v1** option comes with three different options which makes for the benefit of the user to change as they wish.
+    * Animation : Electro Elements can be animated when they appear on viewport. More than 25+ CSS3 animation effects are available which includes :
+
+1. Bounce
+2. Flash
+3. Pulse
+4. RubberBand
+5. Shake
+6. Swing
+7. Tada
+8. Wobble
+9. Jello
+
+    * Priority : Used to specify the order in which the functions associated with a particular action are executed. Lower numbers correspond with earlier execution, and functions with the same priority are executed in the order in which they were added to the action. Default value: 10 and the user can add lower or higher value to change the order.
+
+    * Enabled : In default all the Electro Element blocks are enabled, User can uncheck to disable the particular Electro Element block.
+
 ### Row 1
 ---
-* It has two columns in the ratio of 1/2 + 1/2.
+* It has Slider element.
+* **Slider Setting** : Here is the screenshot for Slider setting
 
-#### Column 1: Column 1 has three elements.
-* Row 1 : Click on **Add** button and add **Single Image** under **Content**.
-* Row 2 : Click on **Add** button and add **Icon** under **Content**.
-* Row 3 : Click on **Add** button and add **Custom Heading** under **Content**.
-
-
-#### Column 2: Column 2 has two columns in ratio of 1/2 + 1/2.
-
-  *  Column 1 has two rows with **Icons** and **Custom Heading** elements.
-  *  Column 2 has one row with **single image** element.
-
-
-Column 2 also has **Image Carousel** element.Here i pasted the image carousel setting
-
-![](http://transvelo.github.io/docs/mybag/images/image-carousel-setting.png)
+![](http://transvelo.github.io/docs/electro/images/home-v1-slider-setting.png)
 
 ### Row 2
 ---
-* It has one **Text Block** element. Edit the text block and add this code :<br/><br/>
+* It has Ads Block element.
+* **Ads Block Settings** : Here is the screenshot for Ads Block setting
 
-```
-<h6 style="text-align: center;">100% HANDMADE DESIGN</h6>
-<p style="text-align: center;">Quisque pretium nulla nec risus laoreet, eu vestibulum magna pellentesque. Nullam ornare pulvinar consequat. Vestibulum suscipit purus a quam egestas, ac congue risus feugiat. Aenean sagittis ultricies tincidunt. Nam ante nibh, euismod id cursus sit amet, ornare
-at ligula.</p>
-<p style="text-align: center;"><a href="http://demo2.transvelo.in/mybag/wp-content/uploads/2015/11/batch.png"><img class="size-full wp-image-125 aligncenter" src="http://demo2.transvelo.in/mybag/wp-content/uploads/2015/11/batch.png" alt="batch" width="170" height="169" /></a></p>
+![](http://transvelo.github.io/docs/electro/images/home-v1-ads-setting.png)
 
-```
 
 ### Row 3
 ---
-* It has one element
-* **MyBag Blog Settings** : Here i pasted a MyBag Blog Settings Page image.
+* It has Deal and Tabs Block element.
+* **Deal and Tabs Block Settings** : Here i pasted a Deal and Tabs Block Settings Page image.
 
 ![](http://transvelo.github.io/docs/mybag/images/vc-mybag-blog-setting.png)
 
 ### Row 4
 ---
-* It has one element
-* **Image Carousel Settings** : Here i pasted a Image Carousel Settings Page image.
+* It has 2-1-2 Products Block element.
+* **2-1-2- Products Block Setting** : Here i pasted a 2-1-2- Products Block Settings Page image.
 
 ![](http://transvelo.github.io/docs/mybag/images/vc-image- carousel-setting.png)
 
 ### Row 5
 ---
-* It has one element
-* **Products Element Settings** : Here i pasted a Products Element Setting Page image.
+* It has Product Cards Carousel element
+* **Product Cards Carousel Settings** : Here i pasted a Product Cards Carousel Setting Page image.
 
 ![](http://transvelo.github.io/docs/mybag/images/vc-products-element-setting.png)
 
+### Row 6
+---
+* It has Banner element
+* **Banner Settings** : Here i pasted a Banner Setting Page image.
+
+![](http://transvelo.github.io/docs/mybag/images/vc-products-element-setting.png)
+
+### Row 7
+---
+* It has Product Carousel
+* **Product Carousel Settings** : Here i pasted a Product Carousel Setting Page image.
+
+![](http://transvelo.github.io/docs/mybag/images/vc-products-element-setting.png)
 

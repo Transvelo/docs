@@ -1,19 +1,20 @@
-# Home v2
+# Home v3
 
-Home v2 of Electro is built using **Visual Composer**.It has 7 rows. The **Visual Composer** Backend editor of the page look like this
+Home v3 of Electro is built using **Visual Composer**.It has 7 rows. The **Visual Composer** Backend editor of the page look like this
 
-![](http://transvelo.github.io/docs/electro/images/home-v2-setting.png)
+![](http://transvelo.github.io/docs/electro/images/home-v3-setting.png)
 
 ## Content Section
 
-1. Navigate to **Home v2** page and make sure **Homepage v2** is choosen under **Page Attributes > Template**.
+1. Navigate to **Home v3** page and make sure **Homepage v3** is choosen under **Page Attributes > Template**.
 2. Click on **Publish**.
-3. After Publish, **Home v2** options will appear in the meta box area. Here you can edit the default content and image.
+3. After Publish, **Home v3** options will appear in the meta box area. Here you can edit the default content and image.
 
     Here is the screenshot for your reference
     ![](http://transvelo.github.io/docs/electro/images/home-v2-option.png)
 
-4. Home v2 has three options which makes for the benefit of the user to change.
+4. **Home v3** has three different options which makes for the benefit of the user to change as they wish.
+
     * Animation : Electro Elements can be animated when they appear on viewport. More than 25+ CSS3 animation effects are available which includes :
 
 1. Bounce
@@ -39,44 +40,51 @@ Home v2 of Electro is built using **Visual Composer**.It has 7 rows. The **Visua
 
 ### Row 2
 ---
-* It has Ads Block element.
-* **Ads Block Settings** : Here is the screenshot for Ads Block setting
+* It has Features List Block.
+* **Features List Block Settings** : Here is the screenshot for Features List Block setting
 
 ![](http://transvelo.github.io/docs/electro/images/home-v1-ads-setting.png)
 
 
 ### Row 3
 ---
-* It has Tabs Carousel element.
-* **Tabs Carousel Settings** : Here i pasted a Tabs Carousel Settings Page image.
+* It has Ads Block.
+* **Ads Block Settings** : Here i pasted a Ads Block Settings Page image.
 
 ![](http://transvelo.github.io/docs/mybag/images/vc-mybag-blog-setting.png)
 
 ### Row 4
 ---
-* It has Deals carousel element.
-* **Deals carousel Setting** : Here i pasted a Deals carousel Settings Page image.
+* It has Tabs carousel Block.
+* **Tabs carousel Block Setting** : Here i pasted a Tabs carousel Block Page image.
 
 ![](http://transvelo.github.io/docs/mybag/images/vc-image- carousel-setting.png)
 
 ### Row 5
 ---
-* It has Product Cards Carousel element
-* **Product Cards Carousel Settings** : Here i pasted a Product Cards Carousel Setting Page image.
+* It has Products Carousel with Image Block.
+* **Products Carousel with Image Block Settings** : Here i pasted a Products Carousel with Image Block Setting Page image.
 
 ![](http://transvelo.github.io/docs/mybag/images/vc-products-element-setting.png)
 
 ### Row 6
 ---
-* It has Banner element
-* **Banner Settings** : Here i pasted a Banner Setting Page image.
+* It has Product Cards Carousel
+* **Product Cards Carousel Settings** : Here i pasted a Product Cards Carousel Setting Page image.
 
 ![](http://transvelo.github.io/docs/mybag/images/vc-products-element-setting.png)
 
 ### Row 7
 ---
-* It has Product Carousel
-* **Product Carousel Settings** : Here i pasted a Product Carousel Setting Page image.
+* It has 6-1 Products Block
+* **6-1 Products Block Settings** : Here i pasted a 6-1 Products Block Setting Page image.
+
+![](http://transvelo.github.io/docs/mybag/images/vc-products-element-setting.png)
+
+### Row 8
+---
+* It has Categories List Block
+* **Categories List Block Settings** : Here i pasted a Categories List Block Setting Page image.
 
 ![](http://transvelo.github.io/docs/mybag/images/vc-products-element-setting.png)
 
