@@ -2,29 +2,23 @@
 
 ## Shop Options
 
-
 #### General
 
 * Enable / Disable the Catalog Mode.
-* Set Product Comparison Page as Product Comparison.
+* Choose a Product Attribute that will be used as Brands.
+* Set Shop Comparison Page as Compare.
+* Choose a Static Block that will be the Jumbotron element for Shop Page.
 
 #### Shop/Catalog Pages
 
-* Set a Shop/Catalog Pages Layout.
-* Select Product Style.
+* Select the layout for the Shop Listing.
 * Set the Number of Product Columns for displaying products in shop page.
 * Set the number of products to be displayed per page.
 
-#### Product Item Settings
-
-* Set a Animation for Product Item.
-* Enable / Disable Animation Delay.
-* Enable / Disable Thumbnail Lazy loading.
-
 #### Single Product Page
-* Single Product Page is designed with three styles, choose the style as you wish.
+* Select the layout for the Single Product.
 
 
-![](http://transvelo.github.io/docs/mybag/images/theme-options-shop.png)
+![](http://transvelo.github.io/docs/electro/images/theme-options-shop.png)
 
 

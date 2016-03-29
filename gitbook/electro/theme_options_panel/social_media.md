@@ -7,7 +7,7 @@
 * Type your Pinterest profile URL here.
 * Type your LinkedIn profile URL here.
 * Type your Google+ profile URL here.
-* Type your RSS Feed URL here.
+* Type your VKontakte profile URL here.
 * Type your Tumblr URL here.
 * Type your Instagram profile URL here.
 * Type your Youtube profile URL here.
@@ -15,7 +15,7 @@
 * Type your Dribble profile URL here.
 * Type your Stumble Upon profile URL here.
 * Type your Sound Cloud profile URL here.
-* Type your Vine profile URL here.
+* Enable / Disable RSS Feed Icon.
 
-![](http://transvelo.github.io/docs/mybag/images/theme-options-social-media.png)
+![](http://transvelo.github.io/docs/electro/images/theme-options-social-media.png)
 

@@ -2,9 +2,7 @@
 
 ## General Options
 
-* Use text for logo instead of image.
-* Enable / Disable Automatic Page Loader.
-* Enable / Disable Scroll-to-Top option.
+* Choose the Layout Style.
 
-![](http://transvelo.github.io/docs/mybag/images/theme-options-general.png)
+![](http://transvelo.github.io/docs/electro/images/theme-options-general.png)
 

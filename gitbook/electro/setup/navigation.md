@@ -28,22 +28,10 @@ To create a new menu :
 
 ### Navigation Menu and their location in Header
 
-![](http://transvelo.github.io/docs/mybag/images/navigation-menu.png)
+![](http://transvelo.github.io/docs/electro/images/navigation-menu.png)
 
-### Dropdown Trigger & Animation
+![](http://transvelo.github.io/docs/electro/images/navigation-menu2.png)
 
-Dropdown menu can be triggered by either : **Click** or **Hover** action. Once the dropdown menu is triggered, it can be shown with or without an animation. There are more than 25 animation effects available for dropdown trigger animation including :
-
-1. BounceIn
-2. FadeIn
-3. FlipIn
-4. LightSpeedIn
-5. RotateIn
-6. RoleIn
-7. ZoomIn
-
-![](http://transvelo.github.io/docs/mybag/images/navigation-dropdown-trigger-animation.png)
-
-
+![](http://transvelo.github.io/docs/electro/images/navigation-menu3.png)
 
 

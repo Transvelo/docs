@@ -3,12 +3,10 @@
 ## Blog Options
 
 
-* Select the layout style for the Blog Page.
-* Select the Blog Page View for the Blog Listing.
-* Enable / Disable Placeholder Images.
-* Enable / Disable Post Content.
-* Set a Force Excerpt for your Blog to Show only excerpt instead of blog content in archive pages.
-* Select the layout style for the Blog Single Page.
+* Select the view for the Blog Listing.
+* Select the layout for the Blog Listing.
+* Enable / Disable Placeholder Image.
+* Select the layout for the Single Post.
 
-![](http://transvelo.github.io/docs/mybag/images/theme-options-blog.png)
+![](http://transvelo.github.io/docs/electro/images/theme-options-blog.png)
 

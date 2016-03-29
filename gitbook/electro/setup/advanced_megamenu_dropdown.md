@@ -5,11 +5,11 @@ We built our simple Megamenu in previous section. We are now going to build a li
 ## Revisiting Test Megamenu Item Static Block
 
 * Navigate to **Static Content > Static Blocks**.
-* It should display the **"Megamenu Item : Shop"** that we created from previous section.
+* It should display the **"Pages Megamenu Item"** that we created from previous section.
 * Click on edit and you should see an existing text block.
 * Delete the text edit block by hovering over the block and clicking on the button which has the trash icon.
 
-![](http://transvelo.github.io/docs/mybag/images/edit-test-megamenu-item.png)
+![](http://transvelo.github.io/docs/electro/images/edit-test-megamenu-item.png)
 
 ## A complex Megamenu Item
 
@@ -19,7 +19,7 @@ We built our simple Megamenu in previous section. We are now going to build a li
 * On the top-right of each row, you will find a grid icon, next to the move icon.
 * Click on the grid icon and it will expand to various grid option available.
 * We will select a predefined grid which is 1/4 + 1/4 + 1/4 + 1/4.
-* Once you click on the predefined grid layout it will look like this :<br/>![](http://transvelo.github.io/docs/mybag/images/vc-four-col-grid-on-selection.png)
+* Once you click on the predefined grid layout it will look like this :<br/>![](http://transvelo.github.io/docs/electro/images/vc-four-col-grid-on-selection.png)
 
 
 
@@ -29,29 +29,25 @@ We built our simple Megamenu in previous section. We are now going to build a li
 
 #### Row 1 has 4 columns.
 * Column 1 - Click on the **Add** button. It should popup **Add Element** button. Let us add **WP Custom Menu** widget under **Wordpress Widgets**. I have already created a menu (via **Appearance > Menus**).
- * **Widget Title** : WooCommerce Pages
- * **Menu** : WooCommerce Pages ( name of the menu created already)
+ * **Widget Title** :
+ * **Menu** : Pages Menu #1 ( name of the menu created already)
 * Column 2 -  Click on the **Add** button. It should popup **Add Element** button. Let us add **WP Custom Menu** widget under **Wordpress Widgets**. I have already created a menu (via **Appearance > Menus**).
-  * **Widget Title** : WooCommerce Shortcodes
-  * **Menu** : WooCommerce Shortcodes ( name of the menu created already)
+ * **Widget Title** :
+ * **Menu** : Pages Menu #2 ( name of the menu created already)
 * Column 3 -  Click on the **Add** button. It should popup **Add Element** button. Let us add **WP Custom Menu** widget under **Wordpress Widgets**. I have already created a menu (via **Appearance > Menus**).
-  * **Widget Title** : Shop Sidebar Pages
-  * **Menu** : Shop Sidebar Pages ( name of the menu created already)
+ * **Widget Title** :
+ * **Menu** : Pages Menu #3 ( name of the menu created already)
 * Column 4 -  Click on the **Add** button. It should popup **Add Element** button. Let us add **WP Custom Menu** widget under **Wordpress Widgets**. I have already created a menu (via **Appearance > Menus**).
-  * **Widget Title** : Shop Fullwidth Pages
-  * **Menu** : Shop Fullwidth Pages ( name of the menu created already)
+ * **Widget Title** :
+ * **Menu** : Pages Menu #4 ( name of the menu created already)
 
 ### 3. How does the Grid look after populating ?
 
-![](http://transvelo.github.io/docs/mybag/images/vc-megamenu-backend-editor.png)
+![](http://transvelo.github.io/docs/electro/images/vc-megamenu-backend-editor.png)
 
 Click on **Publish** button and view the output.
 
-### 4. The Output
-
-![](http://transvelo.github.io/docs/mybag/images/vc-megamenu-advanced.png)
-
-### 5. Making the megamenu dropdown full-width
+### 4. Making the megamenu dropdown full-width
 
 The megamenu now looks advanced and neat. What if we want the megamenu to be full width ? It is easy.
 
@@ -61,10 +57,22 @@ The megamenu now looks advanced and neat. What if we want the megamenu to be ful
 4. If the **CSS Classes** field is not visible. Click on **Screen Options** on the top-right corner of the screen and check on **CSS Classess** under **Show advanced menu properties**.
 4. Click on **Save Menu**.
 
-![](http://transvelo.github.io/docs/mybag/images/yamm-fw.png)
+![](http://transvelo.github.io/docs/electro/images/yamm-fw.png)
 
-### 6. Megamenu Full-width
+### 5. Megamenu Full-width
 
-![](http://transvelo.github.io/docs/mybag/images/yamm-fw-output.png)
+![](http://transvelo.github.io/docs/electro/images/yamm-fw-output.png)
 
+### 6. To make the Menu Item Highlight or Bold
 
+1. Go back to **Appearance > Menus **.
+2. Click on the caret on the top-right of menu item that contains the megamenu subitem to expand it.
+3. In the **CSS Classes** text box, enter `highlight`. This will make the menu item as BOLD.
+4. If the **CSS Classes** field is not visible. Click on **Screen Options** on the top-right corner of the screen and check on **CSS Classess** under **Show advanced menu properties**.
+4. Click on **Save Menu**.
+
+![](http://transvelo.github.io/docs/electro/images/highlight-menu.png)
+
+### 7. The Output of the Highlight Menu
+
+![](http://transvelo.github.io/docs/electro/images/highlight-menu-output.png)

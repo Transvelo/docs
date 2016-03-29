@@ -3,10 +3,11 @@
 ## Header Options
 
 * Upload Your Logo Image.
-* Enable / Disable Home Page Slider.
-* Choose Slider to display on Home Page.
+* Select the Header Style..
+* Update Support Number.
+* Update Email Address
 
-![](http://transvelo.github.io/docs/mybag/images/theme-options-header.png)
+![](http://transvelo.github.io/docs/electro/images/theme-options-header.png)
 
 
 
