@@ -2,7 +2,7 @@
 
 **Electro**'s footer has 4 rows with 2 widget areas separated by a **Footer Newsletter Section**.
 
-* The 2 widget areas are **Footer Widgets** and **Footer Bottom Widgets**.  You can drag and drop your widgets from Appearances > Widgets. However **if there are no widgets present in this areas, it would load the default widgets**.
+* The 2 widget areas are **Footer Widgets** and **Footer Bottom Widgets**.  You can drag and drop your widgets from Appearances > Widgets. However **if there were no widgets present in this areas, it would load the default widgets**.
 
 * The last row of the footer is called **Copyright Bar** which has **Copyright Information** on left and **payment logo** on right.
 
@@ -32,7 +32,7 @@ The **Footer Contact Information** is just below the **Footer widgets** and is s
 * **Footer Contact Text** - The default value is *"Got Questions ? Call us 24/7!"* and can be changed from **Electro > Footer > Footer Contact Block > Call us text**.
 * **Footer Contact Number** - The default value is *"(800) 8001-8588, (0600) 874 548"* and can be changed from **Electro > Footer > Footer Contact Block > Call us number**.
 * **Footer Contact Info Address** - The default value is "*17 Princess Road, London, Greater London NW1 8JR, UK 1-888-8MEDIA (1-888-892-9953)*" and can be changed from **Electro > Footer > Footer Contact Block > Footer Address**.
-* **Footer Social Icons** - Links to Social media profiles. It can be set from **Electro > Footer > Footer Contact Block > Show Footer Social Icons**<br/>![](http://transvelo.github.io/docs/electro/images/theme-options-social-media.png)
+* **Footer Social Icons** - Links to Social media profiles. It can be set from **Electro > Footer > Footer Contact Block > Show Footer Social Icons**<br/>![](http://transvelo.github.io/docs/electro/images/theme-options-social-media..png)
 * Edit the information as required and click on **Save Changes** in **Electro** page.
 
 ## Footer Bottom Widget Area

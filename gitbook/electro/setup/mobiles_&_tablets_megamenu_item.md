@@ -1,9 +1,9 @@
 # Mobiles & Tablets Megamenu Item
 
 1. Navigate to Static Content > Add New.
-2. Give it a title, lets say "Mobiles & Tablets Megamenu Item". The title is not used anywhere in displaying the menu.
+2. Give it a title, lets say "**Mobiles & Tablets Megamenu Item**". The title is not used anywhere in displaying the menu.
 3. Click on Backend Editor. It will display Visual Composer Backend Editor. We will use this back end editor to build our Mobiles & Tablets Megamenu Item.
-4. Mobiles & Tablets Megamenu Item has 2 rows.
+4. **Mobiles & Tablets Megamenu** Item has 2 rows.
 
 
 ## Row 1

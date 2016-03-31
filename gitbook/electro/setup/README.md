@@ -7,7 +7,7 @@ After you've successfully uploaded and activated **Electro** theme, it is time t
 The first step after activating the theme is to take care of General configuration settings which are :
 
 1. Adding your own **Logo** to your website.
-2. Configuring the menus that go in the **Primary Menu**.
+2. Configuring the menus that go in the **Primary Nav**.
 3. Configuring the information that is displayed in the **footer**.
 
 [**Click here**](general.md) to know more about general setup in detail.

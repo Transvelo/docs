@@ -13,8 +13,12 @@ Once you had downloaded the package from ThemeForest, you can find the dummy dat
 ## Importing Dummy Sliders
 * Navigate to **Revolution Slider** and click on import Sliders.
 * From the package, navigate to **assets > dummy-data**.
-* Import this zip file
- **home-page-slider.zip**.
+* Import these zip files
+
+    **Home-v1-slider.zip**,
+    **Home-v2-slider.zip**,
+    **Home-v2-boxed-slider.zip** and
+    **Home-v3-slider.zip**, one after another.
 
 ## Setting up the Pages
 
@@ -23,6 +27,6 @@ Once you had downloaded the package from ThemeForest, you can find the dummy dat
 * For **Front Page** choose **Home** and for **Blog Page** choose **Blog**.
 * Now Navigate to **WooCommerce > Settings** and click on **Product** tab.
 * Choose **Shop** page for **Product Archive/Shop Page** option.
-* Navigate to **MyBag > Shop ** Tab, scroll down to **Product Comparison** page.
-* Choose **Product Comparison** page and click on **Save Changes**.
+* Navigate to **Electro > Shop ** Tab, scroll down to **Shop Comparison** page.
+* Choose **Compare** page and click on **Save Changes**.
 

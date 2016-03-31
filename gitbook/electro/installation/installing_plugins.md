@@ -19,12 +19,14 @@ The following is the list of plugins in alphabetical order that are recommended 
 * ** Electro Extensions ** - This is a custom plugin built by Transvelo. Keeping in mind the plugin territory recommendations by ThemeForest we had implemented custom shortcodes and taxonomies functionalities into a separate plugin. This plugin also contains the Visual Composer extensions added by us.
 
 * **[WooCommerce](https://wordpress.org/plugins/woocommerce/)** — WooCommerce is a powerful, extendable eCommerce plugin that helps you sell anything. Beautifully.
+* **[WooCommerce Quantity Increment](https://wordpress.org/plugins/woocommerce-quantity-increment/)** — Allows you to add quantity button.
 
 * **[WPBakery Visual Composer](http://codecanyon.net/item/visual-composer-page-builder-for-wordpress/242431)** - This is a drag and drop frontend and backend page builder plugin that will save you tons of time working on the site content. This is a premium plugin and comes bundled with your theme.
 
 * **[YITH WooCommerce Compare](https://wordpress.org/plugins/yith-woocommerce-compare/)** - Allows you to add Product Comparison functionality to your shop.
 
 * **[YITH WooCommerce Wishlist](https://wordpress.org/plugins/yith-woocommerce-wishlist/)** — Allows you to add Wishlist functionality to your shop.
+
 
 ## Installation
 

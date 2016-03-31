@@ -17,7 +17,7 @@ Electro – is a clean and functional theme with vertical menu, perfect for your
 * **3 Different Headers**
 * **Responsive Megamenu**
 * **Vertical Menu**
-* **6 WooCommerce Pages**
+* **5 WooCommerce Pages**
 * **Boxed** and **Stretched** Layouts
 * Support for **post formats** and **post thumbnails**
 
@@ -32,10 +32,9 @@ Electro – is a clean and functional theme with vertical menu, perfect for your
 * Easily change look and feel
 * Lots of Shortcodes and custom Visual Composer Elements to work with
 * Upload your Logo
-* Choose behavior and animation of navigation menu
 * **Translation Ready** - comes with .pot file which can be easily translated using a poEditor.
 * **WPML Ready** - can be easily translated
 * Integrated with **Google Fonts**
 * Integrated with **Font Awesome** icons
-* Ability to include **Custom CSS** and **Custom Javascript** code
+* Ability to include **Custom CSS**
 

@@ -17,6 +17,7 @@
 
 #### Single Product Page
 * Select the layout for the Single Product.
+* Select the style for Full Width layout.
 
 
 ![](http://transvelo.github.io/docs/electro/images/theme-options-shop.png)

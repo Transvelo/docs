@@ -14,8 +14,8 @@ Allows you to add product tabs on your page.
 | **Tab #2 Content** | Select |  Select Tab #2 content | Onsale Products
 | **Tab #3 title** | Text |  Enter Tab #3 title. | Top Rated Product
 | **Tab #3 Content** | Select |  Select Tab #3 content | Top Rated Products
-| **Enter Product Items** | Text | Enter the number of product items to be displayed |
-| **Enter Product Columns** | Text | Enter the number of product columns to be displayed . |
+| **Enter Product Items** | Text | Enter the number of product items to be displayed | none
+| **Enter Product Columns** | Text | Enter the number of product columns to be displayed . | none
 
 ## Sample Output
 

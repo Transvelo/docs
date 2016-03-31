@@ -1,9 +1,9 @@
 # Car, Motorbike & Industrial
 
 1. Navigate to Static Content > Add New.
-2. Give it a title, lets say "Car, Motorbike & Industrial" item. The title is not used anywhere in displaying the menu.
+2. Give it a title, lets say "**Car, Motorbike & Industrial**" item. The title is not used anywhere in displaying the menu.
 3. Click on Backend Editor. It will display Visual Composer Backend Editor. We will use this back end editor to build our Car, Motorbike & Industrial.
-4. Car, Motorbike & Industrial has 2 rows.
+4. **Car, Motorbike & Industrial** has 2 rows.
 
 
 ## Row 1

@@ -32,7 +32,7 @@
 #### Footer Credit Block
 
 * Update Footer Credit.
-* Update Footer Credit Icons.
+* Upload Payment Icon.
 
 #### Footer Bottom Widgets
 

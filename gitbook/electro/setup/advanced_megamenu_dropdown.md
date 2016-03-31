@@ -47,7 +47,7 @@ We built our simple Megamenu in previous section. We are now going to build a li
 
 Click on **Publish** button and view the output.
 
-### 4. Making the megamenu dropdown full-width
+### 4. Making the megamenu dropdown as full-width
 
 The megamenu now looks advanced and neat. What if we want the megamenu to be full width ? It is easy.
 
@@ -63,7 +63,7 @@ The megamenu now looks advanced and neat. What if we want the megamenu to be ful
 
 ![](http://transvelo.github.io/docs/electro/images/yamm-fw-output.png)
 
-### 6. To make the Menu Item Highlight or Bold
+### 6. To make the Menu Item as Highlight or Bold
 
 1. Go back to **Appearance > Menus **.
 2. Click on the caret on the top-right of menu item that contains the megamenu subitem to expand it.

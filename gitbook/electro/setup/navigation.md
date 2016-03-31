@@ -13,7 +13,7 @@ To create a new menu :
 
 <div class="alert alert-info">**Deep Diving** : Read more about Wordpress Menus at [Wordpress Menu User Guide](http://codex.wordpress.org/WordPress_Menu_User_Guide).</div>
 
-## Menus in Electro
+## Theme Locations in Electro
 
 **Electro** has eight navigation menu locations. They are :
 

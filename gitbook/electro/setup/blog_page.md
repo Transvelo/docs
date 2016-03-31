@@ -28,11 +28,14 @@ You can select blog page layout form **Electro > Blog > Blog Page Layout**.
 
 ### Blog Page View
 
-Blog Page has 3 different views Grid, List and Normal. You can select the view for the Blog Page as you wish.
+Blog Page has 3 different views **Grid**, **List** and **Normal**. You can select the view for the Blog Page as you wish.
 
 ### Enable Placeholder Image
 
 Enable/Disable Placeholder image.
+
+### Layout for Single Post
+Select the layout for Single Post Page.
 
 ## Sidebar
 

@@ -2,7 +2,7 @@
 
 Home Page of Electro is built using **Visual Composer** with 7 rows. The **Visual Composer** Backend editor of the page look like this
 
-![](http://transvelo.github.io/docs/electro/images/vc-home-setting.png)
+![](http://transvelo.github.io/docs/electro/images/home-v1-setting.png)
 
 ## Content Section
 
@@ -11,20 +11,20 @@ Home Page of Electro is built using **Visual Composer** with 7 rows. The **Visua
 3. After Publish, **Home v1** options will appear in the meta box area. Here you can edit the default content or upload your own image.
 
     Here is the screenshot for your reference
-    ![](http://transvelo.github.io/docs/electro/images/h    ome-v1-option.png)
+    ![](http://transvelo.github.io/docs/electro/images/home-v1-option.png)
 
-4. **Home v1** option comes with three different options which makes for the benefit of the user to change as they wish.
+4. **Home v1** option comes with three different options which makes for the benefit of the user to change.
     * Animation : Electro Elements can be animated when they appear on viewport. More than 25+ CSS3 animation effects are available which includes :
 
-1. Bounce
-2. Flash
-3. Pulse
-4. RubberBand
-5. Shake
-6. Swing
-7. Tada
-8. Wobble
-9. Jello
+    1. Bounce
+    2. Flash
+    3. Pulse
+    4. RubberBand
+    5. Shake
+    6. Swing
+    7. Tada
+    8. Wobble
+    9. Jello
 
     * Priority : Used to specify the order in which the functions associated with a particular action are executed. Lower numbers correspond with earlier execution, and functions with the same priority are executed in the order in which they were added to the action. Default value: 10 and the user can add lower or higher value to change the order.
 
@@ -50,33 +50,33 @@ Home Page of Electro is built using **Visual Composer** with 7 rows. The **Visua
 * It has Deal and Tabs Block element.
 * **Deal and Tabs Block Settings** : Here i pasted a Deal and Tabs Block Settings Page image.
 
-![](http://transvelo.github.io/docs/mybag/images/vc-mybag-blog-setting.png)
+![](http://transvelo.github.io/docs/electro/images/home1-deals-setting.png)
 
 ### Row 4
 ---
 * It has 2-1-2 Products Block element.
 * **2-1-2- Products Block Setting** : Here i pasted a 2-1-2- Products Block Settings Page image.
 
-![](http://transvelo.github.io/docs/mybag/images/vc-image- carousel-setting.png)
+![](http://transvelo.github.io/docs/electro/images/home1-2-1-2-product-setting.png)
 
 ### Row 5
 ---
 * It has Product Cards Carousel element
 * **Product Cards Carousel Settings** : Here i pasted a Product Cards Carousel Setting Page image.
 
-![](http://transvelo.github.io/docs/mybag/images/vc-products-element-setting.png)
+![](http://transvelo.github.io/docs/electro/images/home1-products-cards-carousel-setting.png)
 
 ### Row 6
 ---
 * It has Banner element
 * **Banner Settings** : Here i pasted a Banner Setting Page image.
 
-![](http://transvelo.github.io/docs/mybag/images/vc-products-element-setting.png)
+![](http://transvelo.github.io/docs/electro/images/home1-banner-setting.png)
 
 ### Row 7
 ---
 * It has Product Carousel
 * **Product Carousel Settings** : Here i pasted a Product Carousel Setting Page image.
 
-![](http://transvelo.github.io/docs/mybag/images/vc-products-element-setting.png)
+![](http://transvelo.github.io/docs/electro/images/home1-products-carousel-setting.png)
 

@@ -30,4 +30,4 @@ Allows you to add product cards carousel on your page.
 
 ## Sample Output
 
-![](http://transvelo.github.io/docs/electro/images/vc-electro-products-cards-carousel-output.png)
+![](http://transvelo.github.io/docs/electro/images/vc-electro-products-cards1-carousel-output.png)

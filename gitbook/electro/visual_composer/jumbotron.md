@@ -8,9 +8,9 @@ Allows you to add jumbotron on your page.
 
 | Field | Type | Description | Default
 | -- | -- | -- | -- |
-| **Title** | Text |  Enter title. |
-| **Description** | Text |  Enter the description. |
-| **Background Image** | Upload |  Upload background image. |
-| **Image** | Upload | Upload image.|
+| **Title** | Text |  Enter title. |none
+| **Description** | Text |  Enter the description. |none
+| **Background Image** | Upload |  Upload background image. |none
+| **Image** | Upload | Upload image.|none
 
 

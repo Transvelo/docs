@@ -17,21 +17,21 @@
 
 Visual Composer is drag and drop frontend and backend page builder plugin that will save you tons of time working on the site content. You will be able to take full control over your WordPress site, build any layout you can imagine – no programming knowledge required. Moreover, now you can choose either work on a backend or move your page building process to frontend and instantly see changes you make.
 
-It has **40+ predefined elements** that you can add to your pages. Electro Theme has added 11 exclusive Electro Elements to the Visual Composer and has also extended the functionality of existing Visual Composer Elements.
+It has **40+ predefined elements** that you can add to your pages. Electro Theme has added 12 exclusive Electro Elements to the Visual Composer and has also extended the functionality of existing Visual Composer Elements.
 
 ### Page Templates
 
 Electro has 9 Page templates and they are :
 
 1. **Default Template** - The default template is a full-width page. It does not has sidebar and it is contained within a container
-2. **Blog Fullwidth Template** - This template is contained within a container and it extends the blog page from left to right end of the screen. This template does not has a sidebar.
-3. **Blog v1 Template** - This template is used to display the blog page in **Normal** view with suitable sidebar layout.
-4. **Blog v2 Template** - This template is used to display the blog page in **Grid** view with suitable sidebar layout.
-5. **Blog v3 Template** - This template is used to display the blog page in **List** view with suitable sidebar layout.
+2. **Blog Fullwidth Template** - This template is contained within a container and it extends the blog page from left to right end of the screen. This template does not have a sidebar.
+3. **Blog v1 Template** - This template is used to display the blog page in **Normal** view with Left or Right sidebar layout.
+4. **Blog v2 Template** - This template is used to display the blog page in **Grid** view with Left or Right sidebar layout.
+5. **Blog v3 Template** - This template is used to display the blog page in **List** view with Left or Right sidebar layout.
 6. **Centered Fullwidth Template** - This template helps the page to display the content in center of the screen.
-7. **Homepage v1 Template** - This template dislay **Home v1** page.
-8. **Homepage v2 Template** - This template dislay **Home v2** page.
-9. **Homepage v3 Template** - This template dislay **Home v3 **page.
+7. **Homepage v1 Template** - This template will dislay **Home v1** page.
+8. **Homepage v2 Template** - This template will dislay **Home v2** page.
+9. **Homepage v3 Template** - This template will dislay **Home v3 **page.
 
 ### Electro Page Attributes Meta Box
 

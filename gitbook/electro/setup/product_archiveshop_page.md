@@ -33,41 +33,38 @@ Once we have chosen the shop layout, we'll have the number of product items disp
 
 You can set the number of items displayed from **Electro > Shop > Shop/Catalog Pages > Number of Products Per Page**.
 
-#### Animating the Product Items
-
-Product items can be animated when the appear on viewport. More than 25+ CSS3 animation effects are available which includes :
-
-1. BounceIn
-2. FadeIn
-3. FlipIn
-4. LightSpeedIn
-5. RotateIn
-6. RoleIn
-7. ZoomIn
-
-You can set whether you want to animate the product item from **Electro > Shop > Product Item Settings > Product Item Animation **.
 
 ### Layout Setting for Single Product Page
 
 In **Electro** theme, the Single Product Page can be displayed in 3 different layouts, you can choose the layout as you like in Single Product layout option.
 
+### Style Setting for Full Width Single Product Page
+In **Electro** theme, full width single product page comes with 2 different styles they are Normal and Extended .
+
+The ouput of Normal style for Single Product Page
+![](http://transvelo.github.io/docs/electro/images/normal-style.png)
+
+The ouput of Extended style for Single Product Page
+![](http://transvelo.github.io/docs/electro/images/extended-style.png)
 ## Sidebar Section
 
 ### Shop Sidebar
 
 This widgetized area contains all the widgets used for layered navigation. In the default preview we have used :
 
-1. **Electro Product Filter** Widget : To filter products.
-2. **Text** Widget : Text widget for Banner.
-3. **WooCommerce Products** Widget : Widget for Latest Products.
+1. **Electro Product Categories** Widget : Widget for Product Categories
+2. **Electro Product Filter** Widget : To filter products.
+3. **Text** Widget : Text widget for Banner Image.
+4. **WooCommerce Products** Widget : Widget for Latest Products.
 
 ![](http://transvelo.github.io/docs/electro/images/shop-sidebar-widget.png)
 
 ### Product Filters Sidebar
 
 1. **WooCommerce Layered Nav** Widget : Active Filters.
-2. **WooCommerce Layered Nav** Widget : To filter products by Color.
-3. **WooCommerce Price Filter** Widget : To filter products by price.
+2. **WooCommerce Layered Nav** Widget : To filter products by Brands.
+3. **WooCommerce Layered Nav** Widget : To filter products by Colors.
+4. **WooCommerce Price Filter** Widget : To filter products by price.
 
 
 ![](http://transvelo.github.io/docs/electro/images/product-filter-widget.png)
