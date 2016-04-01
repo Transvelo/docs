@@ -39,5 +39,5 @@
 * For Footer Bottom Widget, navigate to Appearance > Widgets > Footer Bottom Widgets here Drag and drop the widgets in Widget Area. In default, Widget Area loads the default widget so it should be empty.
 
 
-![](http://transvelo.github.io/docs/elctro/images/theme-options-footer.png)
+![](http://transvelo.github.io/docs/electro/images/theme-options-footer.png)
 
