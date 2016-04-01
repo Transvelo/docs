@@ -33,6 +33,8 @@
 	<li><a href="#">Tyre Accessories</a></li>
 </ul>
 ```
+## Output of Car, Motorbike & Industrial Megamenu Menu
 
+  ![](http://transvelo.github.io/docs/electro/images/static-content5.png)
 
 

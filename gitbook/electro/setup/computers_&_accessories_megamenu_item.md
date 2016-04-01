@@ -32,5 +32,8 @@
 </ul>
 ```
 
+## Output of Computers & Accessories Menu
+
+  ![](http://transvelo.github.io/docs/electro/images/static-content10.png)
 
 

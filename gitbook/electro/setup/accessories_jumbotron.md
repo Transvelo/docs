@@ -16,4 +16,6 @@
 
   ![](http://transvelo.github.io/docs/electro/images/electro-products-carousel-setting.png)
 
+## Output of Accessories Jumbotron Menu
 
+  ![](http://transvelo.github.io/docs/electro/images/static-content4.png)

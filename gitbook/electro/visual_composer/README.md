@@ -7,7 +7,7 @@
 There are 12 additional elements that are made available via **Electro Extensions** plugin.They are :
 
 1. [Jumbotron](jumbotron.md)
-2. [Products Tabs](products_tabs.md)
+2. [Products Tabs](products_tabs].md)
 3. [Products Carousel Tabs](products_carousel_tabs.md)
 4. [Electro Products Cards Carousel](electro_products_cards_carousel.md)
 5. [Electro Products Carousel](electro_products_carousel.md)

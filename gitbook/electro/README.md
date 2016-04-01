@@ -1,4 +1,4 @@
-![](http://transvelo.github.io/docs/electro/images/logo.png)
+![](http://transvelo.github.io/docs/electro/images/logo-doc.png)
 
 Theme Documentation
 =======

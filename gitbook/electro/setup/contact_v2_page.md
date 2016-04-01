@@ -58,9 +58,9 @@ neque odio ultricies tellus, eu porttitor nisl ipsum eu massa.
 * Here is the screenshot of Google Maps Setting page.
 
 ![](http://transvelo.github.io/docs/electro/images/google-map-setting.png)
+
 **Text Block** : The content of the text block setting
 
-*
 ```
 <h2 class="contact-page-title">Our Address</h2>
 17 Princess Road London, Greater London NW1 8JR, UK

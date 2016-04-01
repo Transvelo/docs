@@ -26,12 +26,17 @@ To create a new menu :
 7. All Departments Menu
 8. Blog menu
 
-### Navigation Menu and their location in Header
+### Navigation Menus and their locations in Header
+
+1. **Top Bar Left, Top Bar Right, Primary nav and Department Menu Locations**
 
 ![](http://transvelo.github.io/docs/electro/images/navigation-menu.png)
 
+2.**All Department Menu and Secondary Nav Locations**
+
 ![](http://transvelo.github.io/docs/electro/images/navigation-menu2.png)
 
+3.**Blog Menu Location**
 ![](http://transvelo.github.io/docs/electro/images/navigation-menu3.png)
 
 

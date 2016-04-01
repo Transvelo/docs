@@ -82,7 +82,7 @@ Home v2 of Electro is built using **Visual Composer**.It has 7 rows with sidebar
 
 ## Sidebar Section
 
-To configure sidebar for **Home v2**, navigate to Appearance > Widgets > Home Sidebar here drag and drop the following widgets
+To configure sidebar for **Home v2**, navigate to **Appearance** > **Widgets** > **Home Sidebar** here drag and drop the following widgets
 
 1. **Text** Widget : Text widget for Banner Image.
 2. **WooCommerce Products** Widget : Widget for Latest Products.
