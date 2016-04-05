@@ -33,7 +33,7 @@ Once we have chosen the shop layout, we'll have the number of product items disp
 
 You can set the number of items displayed from **Electro > Shop > Shop/Catalog Pages > Number of Products Per Page**.
 
-
+## Single Product Page
 ### Layout Setting for Single Product Page
 
 In **Electro** theme, the Single Product Page can be displayed in 3 different layouts, you can choose the layout as you like in Single Product layout option.
@@ -41,11 +41,27 @@ In **Electro** theme, the Single Product Page can be displayed in 3 different la
 ### Style Setting for Full Width Single Product Page
 In **Electro** theme, full width single product page comes with 2 different styles they are Normal and Extended .
 
-The ouput of Normal style for Single Product Page
+**The ouput of Normal style of Single Product Page**
 ![](http://transvelo.github.io/docs/electro/images/normal-style.png)
 
-The ouput of Extended style for Single Product Page
+**The ouput of Extended style of Single Product Page**
 ![](http://transvelo.github.io/docs/electro/images/extended-style.png)
+
+### Add Custom Tabs in Single Product Page
+Apart from default WooCoommerce Tabs, we add an extra tabs like **Accessories** and **Specifications** which create for the benefit of the user to show more information about their products.
+
+1. **Accessories Tab**:
+Here i pasted the setting for Accessories Tab
+![](http://transvelo.github.io/docs/electro/images/accessories-tab-setting.png)
+
+**The Output of Accessories Tab**![](http://transvelo.github.io/docs/electro/images/accessories-tab-output.png)
+
+2. **Specifications Tab**: Like **Additional Information** Tab, it will also display weight, dimensions or attributes.
+Here i pasted the setting for Specifications Tab
+![](http://transvelo.github.io/docs/electro/images/specifications-tab-setting.png)
+
+**The Output of Specifications Tab**![](http://transvelo.github.io/docs/electro/images/specifications-tab-output.png)
+
 ## Sidebar Section
 
 ### Shop Sidebar
