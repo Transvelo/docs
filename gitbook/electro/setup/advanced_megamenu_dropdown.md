@@ -80,7 +80,7 @@ The megamenu now looks advanced and neat. What if we want the megamenu to be ful
 
 1. Go back to **Appearance > Menus **.
 2. Click on the caret on the top-right of menu item that contains the megamenu subitem to expand it.
-3. In the **CSS Classes** text box, enter `highlight`. This will make the menu item as BOLD.
+3. In the **CSS Classes** text box, enter `highlight`. This will make the subitem extend to 3 half-width of the container.
 4. If the **CSS Classes** field is not visible. Click on **Screen Options** on the top-right corner of the screen and check on **CSS Classess** under **Show advanced menu properties**.
 4. Click on **Save Menu**.
 

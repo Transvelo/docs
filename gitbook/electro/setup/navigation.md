@@ -27,28 +27,28 @@ To create a new menu :
 8. Blog menu
 
 ### Menu's and their locations
-* Top Bar Left Menu
+* **Top Bar Left Menu**
 
 ![](http://transvelo.github.io/docs/electro/images/top-bar-left-hook.png)
 
-*  Top Bar Right Menu
+*  **Top Bar Right Menu**
 
 
 ![](http://transvelo.github.io/docs/electro/images/top-bar-right-hook.png)
-* All Department Menu
+* **All Department Menu**
 
 ![](http://transvelo.github.io/docs/electro/images/all-department-menu-hook.png)
-* Navbar Primary
+* **Navbar Primary**
 
 ![](http://transvelo.github.io/docs/electro/images/navbar-primary-hook.png)
-* Secondary Nav
+* **Secondary Nav**
 
 ![](http://transvelo.github.io/docs/electro/images/secondary-nav-hook.png)
 
-* Vertical Menu
+* **Vertical Menu**
 
 ![](http://transvelo.github.io/docs/electro/images/vertical-menu-hook.png)
-* Main Menu
+* **Main Menu**
 
 ![](http://transvelo.github.io/docs/electro/images/main-menu-hook.png)
 
