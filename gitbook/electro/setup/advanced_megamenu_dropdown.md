@@ -63,7 +63,20 @@ The megamenu now looks advanced and neat. What if we want the megamenu to be ful
 
 ![](http://transvelo.github.io/docs/electro/images/yamm-fw-output.png)
 
-### 6. To make the Menu Item as Highlight or Bold
+### 6. Making the megamenu dropdown as 3 Half-width
+
+1. Go back to **Appearance > Menus **.
+2. Click on the caret on the top-right of menu item that contains the megamenu subitem to expand it.
+3. In the **CSS Classes** text box, enter `yamm-tfw`. This will make the menu item as BOLD.
+4. If the **CSS Classes** field is not visible. Click on **Screen Options** on the top-right corner of the screen and check on **CSS Classess** under **Show advanced menu properties**.
+4. Click on **Save Menu**.
+
+![](http://transvelo.github.io/docs/electro/images/yamm-tfw.png)
+### 7. Megamenu 3 Half-width
+
+![](http://transvelo.github.io/docs/electro/images/megamenu-3-half-width.png)
+
+### 8. To make the Menu Item as Highlight or Bold
 
 1. Go back to **Appearance > Menus **.
 2. Click on the caret on the top-right of menu item that contains the megamenu subitem to expand it.
@@ -73,6 +86,7 @@ The megamenu now looks advanced and neat. What if we want the megamenu to be ful
 
 ![](http://transvelo.github.io/docs/electro/images/highlight-menu.png)
 
-### 7. The Output of the Highlight Menu
+### 9. The Output of the Highlight Menu
 
 ![](http://transvelo.github.io/docs/electro/images/highlight-menu-output.png)
+
