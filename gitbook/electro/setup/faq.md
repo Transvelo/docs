@@ -48,7 +48,7 @@ Integer ex turpis, venenatis vitae nibh vel, vestibulum maximus quam. Ut pretium
 
 ### Row 5
 ---
-* Click on **Add** button and add **Accordion** under **All**.
+* Click on **Add** button and add **FAQ** under **All**.
 * The single column has one **FAQ** element for one single question.
 * Clone the **FAQ** element as much as the questions you have.
 * Here is a sample **FAQ Element Settings **.

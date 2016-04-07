@@ -1,6 +1,6 @@
 # Pre-Built Pages
 
-**Electro** has 9 pre-built pages that help you in getting your website started faster. They are :
+**Electro** has 10 pre-built pages that help you in getting your website started faster. They are :
 
 1. About Page
 2. Contact v1 Page
@@ -11,7 +11,7 @@
 7. Home v3
 8. Terms and Conditions
 9. Track your Order
-
+10.Store Directory
 
 
 

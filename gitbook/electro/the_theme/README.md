@@ -18,6 +18,7 @@ Electro – is a clean and functional theme with vertical menu, perfect for your
 * **Responsive Megamenu**
 * **Vertical Menu**
 * **5 WooCommerce Pages**
+* **10 Pre Built Pages**
 * **Boxed** and **Stretched** Layouts
 * Support for **post formats** and **post thumbnails**
 

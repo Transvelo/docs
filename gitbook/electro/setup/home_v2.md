@@ -14,7 +14,7 @@ Home v2 of Electro is built using **Visual Composer**.It has 7 rows with sidebar
     ![](http://transvelo.github.io/docs/electro/images/home-v2-option.png)
 
 4. Home v2 has three options which makes for the benefit of the user to change.
-    * Animation : Electro Elements can be animated when they appear on viewport. More than 25+ CSS3 animation effects are available which includes :
+    * **Animation** : Electro Elements can be animated when they appear on viewport. More than 25+ CSS3 animation effects are available which includes :
 
     1. Bounce
     2. Flash
@@ -26,9 +26,9 @@ Home v2 of Electro is built using **Visual Composer**.It has 7 rows with sidebar
     8. Wobble
     9. Jello
 
-    * Priority : Used to specify the order in which the functions associated with a particular action are executed. Lower numbers correspond with earlier execution, and functions with the same priority are executed in the order in which they were added to the action. Default value: 10 and the user can add lower or higher value to change the order.
+    * **Priority** : Used to specify the order in which the functions associated with a particular action are executed. Lower numbers correspond with earlier execution, and functions with the same priority are executed in the order in which they were added to the action. Default value: 10 and the user can add lower or higher value to change the order.
 
-    * Enabled : In default all the Electro Element blocks are enabled, User can uncheck to disable the particular Electro Element block.
+    * **Enabled** : In default all the Electro Element blocks are enabled, User can uncheck to disable the particular Electro Element block.
 
 ### Row 1
 ---
