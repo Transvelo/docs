@@ -67,4 +67,15 @@ The megamenu now looks advanced and neat. What if we want the megamenu to be ful
 
 ![](http://transvelo.github.io/docs/mybag/images/yamm-fw-output.png)
 
+### 7. Split the megamenu dropdown in Left and Right Column
+
+To place the logo at the center and split the menus, please follow the steps given below :
+
+1. Go back to **Appearance > Menus **.
+2. Click on the caret on the top-right of menu item that contains the megamenu subitem to expand it.
+3. In the **CSS Classes** text box, enter `split-right`. This will make the megamenu to split into left nav and right nav.
+4. If the **CSS Classes** field is not visible. Click on **Screen Options** on the top-right corner of the screen and check on **CSS Classess** under **Show advanced menu properties**.
+4. Click on **Save Menu**.
+![](http://transvelo.github.io/docs/mybag/images/split-right-setting.png)
+
 
