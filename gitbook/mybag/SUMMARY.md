@@ -32,6 +32,7 @@
        * [Terms and Conditions Page](setup/terms_and_conditions_page.md)
        * [Track your Order](setup/track_your_order.md)
        * [Home](setup/home_v1.md)
+       * [Home v2](setup/home_v2)
        * [About Us](setup/about_us.md)
        * [History](setup/history.md)
    * [WooCommerce Pages](setup/woocommerce_pages.md)
