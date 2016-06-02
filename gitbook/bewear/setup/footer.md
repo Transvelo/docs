@@ -28,7 +28,7 @@
 ![](http://transvelo.github.io/docs/bewear/images/choose-header-style.png)
 
 
-**Bewear**'s footer style-2  has 2 rows
+**Bewear**'s footer style-2  has 3 rows
 
 Here is the Footer's anatomy:
 
@@ -38,49 +38,61 @@ Here is the Footer's anatomy:
 
 The **footer widgets** is the top most row in the footer. It is a widgetized area and can be populated from **Appearance > Widgets > Footer 1**.
 
+By default the footer 1, footer 2, footer 3 and footer 4 widget area is populated with 4 widgets and they are :
 
-By default the footer 1 widget area is populated with 3 instances of 2 widgets and they are :
-
-1. **WooCommerce Products** Widget - configured to display **Featured Products**
-2. **WooCommerce Products** Widget - configured to display **On Sale Products**
-3. **WooCommerce Top Rated Products** Widget.
+1. **Custom Menu** Widget - configured to display **Custom Menu**
+2. **Custom Menu** Widget - configured to display **Custom Menu**
+3. **Custom Menu** Widget - configured to display **Custom Menu**
+4. **Custom Menu** Widget - configured to display **Custom Menu**
 
 ![](http://transvelo.github.io/docs/electro/images/footer-widget-area.png)
 
+## Footer Site Info
+
+This section has :
+
+* **Footer Credit** - Footer Credit can be set from **Bewear > Footer > Footer Credit Block > Footer Credit**.
+* **Footer Links** - Footer Links can be set from **Appearance > Menu > Footer Quick Links Menu**.
+* **Footer Social Links** - Footer Social Links can be enable or disable from **Bewear > Footer > Footer Contact Block > Show Footer Social Icons**.
+* Edit the information as required and click on **Save Changes** in **Bewear** page.
+
+**Bewear**'s footer style-1  has 2 rows
+
+Here is the Footer's anatomy:
+
+![](http://transvelo.github.io/docs/bewear/images/footer-anatomy.png)
+
 ## Footer Contact Information
 
-The **Footer Contact Information** is just below the **Footer widgets** and is separated by **Footer Newsletter Form**. This section has :
-
-* **Logo** - Footer Logo can be set from **Electro > Footer > Footer Contact Block > Your Logo**.
-* **Footer Contact Text** - The default value is *"Got Questions ? Call us 24/7!"* and can be changed from **Electro > Footer > Footer Contact Block > Call us text**.
-* **Footer Contact Number** - The default value is *"(800) 8001-8588, (0600) 874 548"* and can be changed from **Electro > Footer > Footer Contact Block > Call us number**.
-* **Footer Contact Info Address** - The default value is "*17 Princess Road, London, Greater London NW1 8JR, UK 1-888-8MEDIA (1-888-892-9953)*" and can be changed from **Electro > Footer > Footer Contact Block > Footer Address**.
-* **Footer Social Icons** - Links to Social media profiles. It can be set from **Electro > Footer > Footer Contact Block > Show Footer Social Icons**<br/>![](http://transvelo.github.io/docs/electro/images/theme-options-social-media..png)
-* Edit the information as required and click on **Save Changes** in **Electro** page.
+The **Footer Contact Information** 
+* **Logo** - This is the same as the website logo and can be set from **MC Options > General Tab**.
+* **Footer Contact Info Text** - The default value is *"Feel free to contact us via phone,email or just send us mail."* and can be changed from **MC Options > Footer Tab**.
+* **Footer Contact Info Address** - The default value is "*17 Princess Road, London, Greater London NW1 8JR, UK 1-888-8MEDIA (1-888-892-9953)*" and can be changed from **MC Options > Footer Tab**<br/>![](http://transvelo.github.io/docs/mediacenter/images/footer-contact-information.png)
+* **Get in Touch** - Links to Social media profiles. It can be set from **MC Options > Social Media**<br/>![](http://transvelo.github.io/docs/mediacenter/images/theme-options-social-media.png)
+* Edit the information as required and click on **Save Changes** in **MC Options** page.
 
 ## Footer Bottom Widget Area
 
 The **Footer Bottom Widget Area** is adjacent to **Footer Contact Information** section. It is a widgetized area and it can contain any number of widgets. It can be populated from **Appearance > Widgets > Footer Bottom Widget Area**.
 
-In the preview it has 3 widgets. Technically it is possible to have more than or less than 3 widgets.
+In the preview it has 4 widgets. Technically it is possible to have more than or less than 4 widgets.
 
-By default the footer bottom widget area is populated with 3 instances of 3 widgets and they are :
+By default the footer bottom widget area is populated with 4 instances of 4 widgets and they are :
 
 1. **WooCommerce Categories** Widgets - configured to display **Find It Fast** section
 2. **WP Meta** Widget - configured to display **Meta** Information links.
-3. **WP Pages** Widget - configured to display **Pages** menu links.
+2. **WP Pages** Widget - configured to display **Pages** menu links.
+3. **WP Text/HTML** Widget - configured to display **Information** section.
 
 <div class="alert alert-warning alert-block">
-**Pro Tip:** Each widget in **footer bottom widget area** has a margin-right of **75px** ( CSS Rule : **.footer-bottom-widgets .columns + .columns**). Adjust the margin-right value to accomodate more widgets.
+**Pro Tip:** Each widget in **footer bottom widget area** has a margin-right of **60px** ( CSS Rule : **#footer .footer-bottom-widget-area .columns**). Adjust the margin-right value to accomodate more widgets.
 </div>
 
-![](http://transvelo.github.io/docs/electro/images/footer-bottom-widgets.png)
+## Footer Site Info
 
-## Copyright Bar
+This section has :
 
-The **Copyright Bar** can be configured via **Electro > Footer > Footer Credit Block**.
-
-1. **Footer Credit** - the default is "*&copy; &lt;a href="&lt;website-url&gt;"&gt;electro&lt;/a&gt; - All Rights Reserved.*"
-2. **Payment Logos** - Displays all the payment methods available to the user. There is no default and each logo needs to be uploaded to media library. The recommended resolution for payment logos is **40x29 pixels**
-
-![](http://transvelo.github.io/docs/electro/images/theme-options-copyright-bar.png)
+* **Footer Credit** - Footer Credit can be set from **Bewear > Footer > Footer Credit Block > Footer Credit**.
+* **Footer Links** - Footer Links can be set from **Appearance > Menu > Footer Quick Links Menu**.
+* **Footer Social Links** - Footer Social Links can be enable or disable from **Bewear > Footer > Footer Contact Block > Show Footer Social Icons**.
+* Edit the information as required and click on **Save Changes** in **Bewear** page.

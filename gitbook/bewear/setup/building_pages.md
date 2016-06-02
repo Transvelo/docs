@@ -7,21 +7,21 @@
 1. Navigate to **Pages > Add New **.
 2. In the **Page Attributes**, select on of the available templates in the dropdown.
 3. Start adding content in the text editor or use the "**Back-End editor**" to build pages using the built-in drag and drop visual composer.
-4. Use **Electro Page Attributes** metabox if required.
+4. Use **ewear Page Attributes** metabox if required.
 
 <div class="alert alert-info">**Deep Diving** : Since creating and editing pages requires basic WordPress knowledge, we won’t cover it in detail. If you’re new to WordPress, you may find the following resource valuable: [Creating and Editing Pages](http://blip.tv/wptuts/05_creating-and-editing-pages-5452398).</div>
 
 ### Visual Composer
 
-![](http://transvelo.github.io/docs/electro/images/vc-backend-editor.png)
+![](http://transvelo.github.io/docs/bewear/images/vc-backend-editor.png)
 
 Visual Composer is drag and drop frontend and backend page builder plugin that will save you tons of time working on the site content. You will be able to take full control over your WordPress site, build any layout you can imagine – no programming knowledge required. Moreover, now you can choose either work on a backend or move your page building process to frontend and instantly see changes you make.
 
-It has **40+ predefined elements** that you can add to your pages. Electro Theme has added 12 exclusive Electro Elements to the Visual Composer and has also extended the functionality of existing Visual Composer Elements.
+It has **40+ predefined elements** that you can add to your pages. Electro Theme has added 12 exclusive Bewear Elements to the Visual Composer and has also extended the functionality of existing Visual Composer Elements.
 
 ### Page Templates
 
-Electro has 9 Page templates and they are :
+Bewear has 9 Page templates and they are :
 
 1. **Default Template** - The default template is a full-width page. It does not has sidebar and it is contained within a container
 2. **Blog Fullwidth Template** - This template is contained within a container and it extends the blog page from left to right end of the screen. This template does not have a sidebar.

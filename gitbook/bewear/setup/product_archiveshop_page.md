@@ -4,20 +4,16 @@ A Product Archive/Shop page is a **WooCommerce** page used to display the produc
 
 ## Available Layouts
 
-In **Electro** theme, the Shop Page can be displayed in 3 available layouts which are :
+In **Bewear** theme, the Shop Page can be displayed in 3 available layouts which are :
 1. **Left Sidebar** - This is the default layout of Shop page in our theme. It has a content section occupying 75% of the screen and a widgetized sidebar section to its left occupying 25% of the screen.
 2. **Right Sidebar** - This layout is same as the Left Sidebar layout except that the sidebar section is in the right side of the screen.
 3. **Full-width** - This layout does not contain any sidebars. The entire screen has the content section.
 
-You can select the layout of the shop from **Electro > Shop > Shop/Catalog Pages > Shop Page Layout**.
+You can select the layout of the shop from **Bewear > Shop > Shop/Catalog Pages > Shop Page Layout**.
 
 ## Content Section
 
 The Content Section of the Shop Page displays either Products or Categories or both depending on the choice given in **Shop Page Display** option under **WooCommerce > Settings > Products**.
-
-### Displaying Product Categories
-
-Product Categories/ Subcategories are displayed according to the layout in grids. It will display the **Product Category image** and **Product Category Title**. We recommend displaying only Products in Product Archive/Shop Pages.
 
 ### Displaying Product Items
 
@@ -25,42 +21,28 @@ Product Categories/ Subcategories are displayed according to the layout in grids
 
 In Product Archive/Shop Page, product items can be displayed by choosing number of columns for displaying products in shop and catalog pages.
 
-You can select the Product Columns under **Electro > Shop > Shop/Catalog Pages > No of Product Columns**.
+You can select the Product Columns under **Bewear > Shop > Shop/Catalog Pages > No of Product Columns**.
 
 #### Number of Product Items displayed per Page
 
 Once we have chosen the shop layout, we'll have the number of product items displayed per row. The number of product items per page is recommended to be a multiple of the number of product items displayed per row.
 
-You can set the number of items displayed from **Electro > Shop > Shop/Catalog Pages > Number of Products Per Page**.
+You can set the number of items displayed from **Bewear > Shop > Shop/Catalog Pages > Number of Products Per Page**.
 
 ## Single Product Page
 ### Layout Setting for Single Product Page
 
-In **Electro** theme, the Single Product Page can be displayed in 3 different layouts, you can choose the layout as you like in Single Product layout option.
+In **Bewear** theme, the Single Product Page can be displayed in 3 different layouts, you can choose the layout as you like in Single Product layout option.
 
 ### Style Setting for Full Width Single Product Page
-In **Electro** theme, full width single product page comes with 2 different styles they are Normal and Extended .
+In **Bewear** theme, full width single product page comes with 2 different styles they are Simple and Extended .
 
-**The ouput of Normal style of Single Product Page**
-![](http://transvelo.github.io/docs/electro/images/normal-style.png)
+**The ouput of Simple style of Single Product Page**
+![](http://transvelo.github.io/docs/bewear/images/normal-style.png)
 
 **The ouput of Extended style of Single Product Page**
-![](http://transvelo.github.io/docs/electro/images/extended-style.png)
+![](http://transvelo.github.io/docs/bewear/images/extended-style.png)
 
-### Add Custom Tabs in Single Product Page
-Apart from default WooCoommerce Tabs, we add an extra tabs like **Accessories** and **Specifications** which create for the benefit of the user to show more information about their products.
-
-1. **Accessories Tab**:
-Here i pasted the setting for Accessories Tab
-![](http://transvelo.github.io/docs/electro/images/accessories-tab-setting.png)
-
-**The Output of Accessories Tab**![](http://transvelo.github.io/docs/electro/images/accessories-tab-output.png)
-
-2. **Specifications Tab**: Like **Additional Information** Tab, it will also display weight, dimensions or attributes.
-Here i pasted the setting for Specifications Tab
-![](http://transvelo.github.io/docs/electro/images/specifications-tab-setting.png)
-
-**The Output of Specifications Tab**![](http://transvelo.github.io/docs/electro/images/specifications-tab-output.png)
 
 ## Sidebar Section
 
