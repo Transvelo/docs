@@ -4,6 +4,21 @@ Home v2 of Electro is built using **Visual Composer**.It has 7 rows. The **Visua
 
 ![](http://transvelo.github.io/docs/electro/images/vc-home-v2.png)
 
+## The Code
+
+Please switch your editor to classic mode and paste the code given here :
+
+```
+[vc_row][vc_column][rev_slider_vc alias="home-v2-slider"][/vc_column][/vc_row][vc_row][vc_column width="1/2"][electro_ad_block image="2998" ad_text="Catch Big <strong>Deals </strong> of the cameras" action_text="Shop now" action_link="#"][/vc_column][vc_column width="1/2"][electro_ad_block image="2998" ad_text="Tablets,
+Smartphones
+and More" action_text="From <sup>$</sup>74<sup>44</sup>" action_link="#"][/vc_column][/vc_row][vc_row][vc_column][electro_products_carousel_tabs tab_content_1="featured_products" tab_content_2="sale_products" tab_content_3="top_rated_products" tab_title_1="Featured" tab_title_2="On Sale " tab_title_3="Top Rated" product_items="20" product_columns="3"][/vc_column][/vc_row][vc_row][vc_column][electro_vc_products_onsale_carousel show_savings="true" show_custom_nav="true" is_touchdrag="true" title="Deals of the Week" limit="2" nav_next="Previous Deal" nav_prev="Next Deal"][/vc_column][/vc_row][vc_row][vc_column][electro_vc_products_cards_carousel show_nav="true" show_top_text="true" show_categories="true" title="Bestellers" rows="2" columns="2" cat_limit="3"][/vc_column][/vc_row][vc_row][vc_column][vc_single_image image="2998" img_size="full"][/vc_column][/vc_row][vc_row][vc_column][electro_vc_products_carousel shortcode_tag="products" show_custom_nav="true" is_nav="true" is_dots="true" is_touchdrag="true" title="Laptops & Computers" limit="20" columns="4" items="4"][/vc_column][/vc_row]
+```
+
+After pasting the code, you can simply switch to *Backend Editor* to view the screen just like in the screenshot above.
+
+## The Details
+
+
 ### Row 1
 ---
 * Revolution Slider Setting : Here i pasted a Revolution Slider Setting Page image.
