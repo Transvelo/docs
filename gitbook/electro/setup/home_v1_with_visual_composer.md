@@ -28,7 +28,7 @@ After pasting the code, you can simply switch to *Backend Editor* to view the sc
 * All the columns has Ads Block setting .
 * Here i pasted a sample of Ads Block setting.
 
-![](http://transvelo.github.io/docs/electro/images/vc-home-v1-ads-block.png)
+![](http://transvelo.github.io/docs/electro/images/vc-home-v2-ads-block.png)
 
 ### Row 3
 ---
