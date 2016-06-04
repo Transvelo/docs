@@ -26,7 +26,6 @@ Bethlehem is a clean, modern, flexible Church theme designed and coded specifica
 * **3 Home Pages**
 * **3 WooCommerce Pages**
 * **Working Contact Form**
-* **Isotope Galleries ($25 value)**
 * Support for **post formats** and **post thumbnails**
 * Well Documented for Easy Editing
 
