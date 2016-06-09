@@ -18,6 +18,7 @@
 
 #### Footer Contact Block
 
+* Enable / Disable Footer Contact Block.
 * Enable / Disable Footer Logo.
 * Upload your Footer Logo Image.
 * Enable / Disable Footer Call Up Section.
@@ -25,14 +26,21 @@
 * Update Footer Call us icon.
 * Update Footer Call us number.
 * Enable / Disable Footer Address.
-* Update Footer Address Title.
+* If enable Footer Address,update Footer Address Title.
 * Update Footer Address.
 * Enable / Disable Footer Social Icons.
 
+#### Footer Bottom Widgets
+
+* Enable / Disable Footer Bottom Widgets.
+* Update Spacing between columns in Footer Widgets.
+* Enable / Disable  Auto-width footer bottom widget columns.
+
 #### Footer Credit Block
 
+* Enable / Disable Footer Credit Block.
 * Update Footer Credit.
-* Upload Payment Icon.
+* Upload Payment Icons.
 
 #### Footer Bottom Widgets
 

@@ -32,7 +32,7 @@ The **Footer Contact Information** is just below the **Footer widgets** and is s
 * **Footer Contact Text** - The default value is *"Got Questions ? Call us 24/7!"* and can be changed from **Electro > Footer > Footer Contact Block > Call us text**.
 * **Footer Contact Number** - The default value is *"(800) 8001-8588, (0600) 874 548"* and can be changed from **Electro > Footer > Footer Contact Block > Call us number**.
 * **Footer Contact Info Address** - The default value is "*17 Princess Road, London, Greater London NW1 8JR, UK 1-888-8MEDIA (1-888-892-9953)*" and can be changed from **Electro > Footer > Footer Contact Block > Footer Address**.
-* **Footer Social Icons** - Links to Social media profiles. It can be set from **Electro > Footer > Footer Contact Block > Show Footer Social Icons**<br/>![](http://transvelo.github.io/docs/electro/images/theme-options-social-media..png)
+* **Footer Social Icons** - Links to Social media profiles. It can be set from **Electro > Footer > Footer Contact Block > Show Footer Social Icons**<br/>![](http://transvelo.github.io/docs/electro/images/theme-options-social-media.png)
 * Edit the information as required and click on **Save Changes** in **Electro** page.
 
 ## Footer Bottom Widget Area
@@ -48,7 +48,7 @@ By default the footer bottom widget area is populated with 3 instances of 3 widg
 3. **WP Pages** Widget - configured to display **Pages** menu links.
 
 <div class="alert alert-warning alert-block">
-**Pro Tip:** Each widget in **footer bottom widget area** has a margin-right of **75px** ( CSS Rule : **.footer-bottom-widgets .columns + .columns**). Adjust the margin-right value to accomodate more widgets.
+**Pro Tip:** Each widget in **footer bottom widget area** has a margin-left of **5.357em** ( CSS Rule : **.footer-bottom-widgets .columns + .columns**). Adjust the margin-left value to accomodate more widgets.
 </div>
 
 ![](http://transvelo.github.io/docs/electro/images/footer-bottom-widgets.png)
