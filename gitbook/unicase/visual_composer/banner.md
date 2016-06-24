@@ -4,7 +4,9 @@
 
 Allows you to add a banner image and an overlay text. It also allows you to animate the banner on hover action.
 
-![](http://transvelo.github.io/docs/unicase/images/vc-banner-setting.png)
+![](http://transvelo.github.io/docs/unicase/images/vc-banner-setting-1.png)
+
+![](http://transvelo.github.io/docs/unicase/images/vc-banner-setting-2.png)
 
 
 ## Settings
