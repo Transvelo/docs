@@ -1,69 +1,62 @@
-# About Page
 
-About Page of Electro is built using **Visual Composer**.It has 4 rows. The **Visual Composer** Backend editor of the page look like this
+# About
 
-![](http://transvelo.github.io/docs/electro/images/about.png)
+About Page of Bewear is built using **Visual Composer** with 4 rows. The **Visual Composer** Backend editor of the page look like this
+
+![](http://transvelo.github.io/docs/bewear/images/about-page-setting.png)
+
+## Content Section
+
+1. Navigate to **About** page and make sure **Aboutpage** is choosen under **Page Attributes > Template**.
+2. Click on **Publish**.
+3. After Publish, **About** options will appear in the meta box area. Here you can edit the default content or upload your own image.
+
+    Here is the screenshot for your reference
+    ![](http://transvelo.github.io/docs/bewear/images/about-option.png)
+
+4. **About** option comes with three different options which makes for the benefit of the user to change.
+    * **Animation** : Bewear Elements can be animated when they appear on viewport. More than 25+ CSS3 animation effects are available which includes :
+
+    1. Bounce
+    2. Flash
+    3. Pulse
+    4. RubberBand
+    5. Shake
+    6. Swing
+    7. Tada
+    8. Wobble
+    9. Jello
+
+    * **Priority** : Used to specify the order in which the functions associated with a particular action are executed. Lower numbers correspond with earlier execution, and functions with the same priority are executed in the order in which they were added to the action. Default value: 10 and the user can add lower or higher value to change the order.
+
+    * **Enabled** : In default all the Bewear Element blocks are enabled, User can uncheck to disable the particular Bewear Element block.
 
 ### Row 1
 ---
+* It has Features element.
+* **Features Setting** : Here is the screenshot for Features setting
 
-* Row 1 has featured image.
-* Set the featured image under featured image panel.
-* Upload or find an image in your Media Library and click Set featured image to use it.
+![](http://transvelo.github.io/docs/bewear/images/about-feature-setting.png)
 
 ### Row 2
 ---
-* Row 2 has three columns in the ratio 1/3 + 1/3 + 1/3.
-* All three columns are combined with **single image** element and **text block** element.
+* It has Banner element.
+* **Banner Settings** : Here is the screenshot for Banner setting
 
-**Single Image Element** : Click on **Add** button and add **Single Image**  under **All**.
+![](http://transvelo.github.io/docs/bewear/images/about-process-setting.png)
 
-Here i pasted the single image setting
-![](http://transvelo.github.io/docs/electro/images/single-image-setting.png)
-
-* **Text Block** : The content of the text block:
-
-```
-<h2 class="align-top">What we really do?</h2>
-Donec libero dolor, tincidunt id laoreet vitae,
-ullamcorper eu tortor. Maecenas pellentesque,
-dui vitae iaculis mattis, tortor nisi faucibus magna,
-vitae ultrices lacus purus vitae metus.
-```
 
 ### Row 3
 ---
-* Row 3 has six columns in the ration 1/6 + 1/6 + 1/6 + 1/6 + 1/6 + 1/6.
-* All the six columns has team memeber element.
-* **Team Memeber** element : Click on **Add** button and add **Electro Team Memeber**  under **Electro Elements**.
+* It has Our Team element.
+* **Our Team Settings** : Here i pasted a Our Team Settings Page image.
 
-Here i pasted the team member setting image
-![](http://transvelo.github.io/docs/electro/images/team-member-setting.png)
+![](http://transvelo.github.io/docs/bewear/images/about-team-setting.png)
 
 ### Row 4
 ---
+* It has Brand element.
+* **Brand Setting** : Here i pasted a Brand Settings Page image.
 
-* Row 4 has 2 columns in the ration 7/12 + 5/12.
-
-#### Column 1(7/12)
-
-* It has two rows with two columns in the ration 1/2 + 1/2.
-* All the columns has text block element.
-* **Text Block** : The content of the text block:
-
-```
-<h3 class="highlight">What we really do?</h3>
-Donec libero dolor, tincidunt id laoreet vitae, ullamcorper eu tortor. Maecenas pellentesque, dui vitae iaculis mattis, tortor nisi faucibus magna, vitae ultrices lacus purus vitae metus. Ut nec odio facilisis, ultricies nunc eget, fringilla orci.
-```
-
-#### Column 2(5/12)
-
-* Click on **Add** button and add **Accordion** under **All**.
-* The single column has one **FAQ** element for one single question.
-* Clone the **FAQ** element as much as the questions you have.
-* Here is a sample **About Accordion Element Settings **.
-
-![](http://transvelo.github.io/docs/electro/images/about-us-accordion-setting.png)
-
-
+![](http://transvelo.github.io/docs/bewear/images/about-brand-setting.png)
 

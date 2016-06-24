@@ -1,8 +1,8 @@
 # Home
 
-Home Page of Electro is built using **Visual Composer** with 7 rows. The **Visual Composer** Backend editor of the page look like this
+Home Page of Bewear is built using **Visual Composer** with 6 rows. The **Visual Composer** Backend editor of the page look like this
 
-![](http://transvelo.github.io/docs/electro/images/home-v1-setting.png)
+![](http://transvelo.github.io/docs/bewear/images/home-v1-setting.png)
 
 ## Content Section
 
@@ -11,10 +11,10 @@ Home Page of Electro is built using **Visual Composer** with 7 rows. The **Visua
 3. After Publish, **Home v1** options will appear in the meta box area. Here you can edit the default content or upload your own image.
 
     Here is the screenshot for your reference
-    ![](http://transvelo.github.io/docs/electro/images/home-v1-option.png)
+    ![](http://transvelo.github.io/docs/bewear/images/home-v1-option.png)
 
 4. **Home v1** option comes with three different options which makes for the benefit of the user to change.
-    * **Animation** : Electro Elements can be animated when they appear on viewport. More than 25+ CSS3 animation effects are available which includes :
+    * **Animation** : Bewear Elements can be animated when they appear on viewport. More than 25+ CSS3 animation effects are available which includes :
 
     1. Bounce
     2. Flash
@@ -28,55 +28,50 @@ Home Page of Electro is built using **Visual Composer** with 7 rows. The **Visua
 
     * **Priority** : Used to specify the order in which the functions associated with a particular action are executed. Lower numbers correspond with earlier execution, and functions with the same priority are executed in the order in which they were added to the action. Default value: 10 and the user can add lower or higher value to change the order.
 
-    * **Enabled** : In default all the Electro Element blocks are enabled, User can uncheck to disable the particular Electro Element block.
+    * **Enabled** : In default all the Bewear Element blocks are enabled, User can uncheck to disable the particular Bewear Element block.
 
 ### Row 1
 ---
 * It has Slider element.
 * **Slider Setting** : Here is the screenshot for Slider setting
 
-![](http://transvelo.github.io/docs/electro/images/home-v1-slider-setting.png)
+![](http://transvelo.github.io/docs/bewear/images/home-v1-slider-setting.png)
 
 ### Row 2
 ---
-* It has Ads Block element.
-* **Ads Block Settings** : Here is the screenshot for Ads Block setting
+* It has Lookbook Carousel element.
+* **Lookbook Carousel Settings** : Here is the screenshot for Lookbook Carousel setting
 
-![](http://transvelo.github.io/docs/electro/images/home-v1-ads-setting.png)
+![](http://transvelo.github.io/docs/bewear/images/home-v1-lookbook-carousel.png)
 
 
 ### Row 3
 ---
-* It has Deal and Tabs Block element.
-* **Deal and Tabs Block Settings** : Here i pasted a Deal and Tabs Block Settings Page image.
+* It has Brands Carousel element.
+* **Brands Carousel Settings** : Here i pasted a Brands Carousel Page image.
 
-![](http://transvelo.github.io/docs/electro/images/home1-deals-setting.png)
+![](http://transvelo.github.io/docs/bewear/images/home-v1-brands-carousel.png)
 
 ### Row 4
 ---
-* It has 2-1-2 Products Block element.
-* **2-1-2- Products Block Setting** : Here i pasted a 2-1-2- Products Block Settings Page image.
+* It has Numbered Products element.
+* **Numbered Products Block Setting** : Here i pasted a Numbered Products Block Settings Page image.
 
-![](http://transvelo.github.io/docs/electro/images/home1-2-1-2-product-setting.png)
+![](http://transvelo.github.io/docs/bewear/images/home-v1-numbered-products.png)
 
 ### Row 5
 ---
-* It has Product Cards Carousel element
-* **Product Cards Carousel Settings** : Here i pasted a Product Cards Carousel Setting Page image.
+* It has Product and Posts element
+* **Product and Posts Block Settings** : Here i pasted a Product and Posts Block Setting Page image.
 
-![](http://transvelo.github.io/docs/electro/images/home1-products-cards-carousel-setting.png)
+![](http://transvelo.github.io/docs/bewear/images/home-v1-product-post-setting.png)
 
 ### Row 6
 ---
-* It has Banner element
-* **Banner Settings** : Here i pasted a Banner Setting Page image.
+* It has Features List element
+* **Features List Settings** : Here i pasted a Features List Setting Page image.
 
-![](http://transvelo.github.io/docs/electro/images/home1-banner-setting.png)
+![](http://transvelo.github.io/docs/bewear/images/home-v1-feature-list.png)
 
-### Row 7
----
-* It has Product Carousel
-* **Product Carousel Settings** : Here i pasted a Product Carousel Setting Page image.
 
-![](http://transvelo.github.io/docs/electro/images/home1-products-carousel-setting.png)
 

@@ -1,17 +1,17 @@
 # Pre-Built Pages
 
-**Electro** has 10 pre-built pages that help you in getting your website started faster. They are :
+**Bewear** has 8 pre-built pages that help you in getting your website started faster. They are :
 
 1. About Page
 2. Contact v1 Page
 3. Contact v2 Page
-4. FAQ
 5. Home v1
 6. Home v2
-7. Home v3
-8. Terms and Conditions
-9. Track your Order
-10.Store Directory
+7. Lookbook
+8. Lookbook Singlelook
+
+
+
 
 
 
