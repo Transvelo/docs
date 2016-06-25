@@ -26,6 +26,6 @@
 3. You will find **Header Style** option with **Header v1** and  **Header v2** as two choices presented as dropdown.
 4. Choose the dropdown that represents the style of your choice and click on **Save Changes**.
 
-![](http://transvelo.github.io/docs/bewear/images/choose-header-style.png)
+![](http://transvelo.github.io/docs/bewear/images/theme-options-header.png)
 
 

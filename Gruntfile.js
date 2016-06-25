@@ -9,6 +9,7 @@ module.exports = function( grunt ) {
 		clean: {
 			files: '.grunt',
 			bethlehem: 'gh-pages/bethlehem/',
+			bewear: 'gh-pages/bewear/',
 			electro: 'gh-pages/electro/',
 			mediacenter: 'gh-pages/mediacenter/',
 			mybag: 'gh-pages/mybag/',
@@ -22,6 +23,11 @@ module.exports = function( grunt ) {
 			bethlehem: {
 				files: [
 					{ expand: true, cwd: 'gitbook/bethlehem/_book/', src: ['**','!.*','!.*/**','.htaccess','!Gruntfile.js','!README.md','!package.json','!node_modules/**','!.DS_Store','!npm-debug.log'], dest : 'gh-pages/bethlehem/' }
+				],
+			},
+			bewear: {
+				files: [
+					{ expand: true, cwd: 'gitbook/bewear/_book/', src: ['**','!.*','!.*/**','.htaccess','!Gruntfile.js','!README.md','!package.json','!node_modules/**','!.DS_Store','!npm-debug.log'], dest : 'gh-pages/bewear/' }
 				],
 			},
 			electro: {
@@ -68,6 +74,10 @@ module.exports = function( grunt ) {
 				input: 'gitbook/bethlehem',
 				github: 'Transvelo/bethlehem'
 			},
+			bewear: {
+				input: 'gitbook/bewear',
+				github: 'Transvelo/bewear'
+			},
 			electro: {
 				input: 'gitbook/electro',
 				github: 'Transvelo/electro'
@@ -109,6 +119,10 @@ module.exports = function( grunt ) {
 
 	grunt.registerTask( 'bethlehem', [
 		'gitbook:bethlehem', 'clean:bethlehem', 'copy:bethlehem'
+	]);
+
+	grunt.registerTask( 'bewear', [
+		'gitbook:bewear', 'clean:bewear', 'copy:bewear'
 	]);
 
 	grunt.registerTask( 'electro', [

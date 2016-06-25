@@ -32,7 +32,7 @@ You can set the number of items displayed from **Bewear > Shop > Shop/Catalog Pa
 ## Single Product Page
 ### Layout Setting for Single Product Page
 
-In **Bewear** theme, the Single Product Page can be displayed in 3 different layouts, you can choose the layout as you like in Single Product layout option.
+In **Bewear** theme, the Single Product Page can be displayed in 2 different layouts, you can choose the layout as you like in Single Product layout option.
 
 ### Style Setting for Full Width Single Product Page
 In **Bewear** theme, full width single product page comes with 2 different styles they are Simple and Extended .
@@ -50,19 +50,12 @@ In **Bewear** theme, full width single product page comes with 2 different style
 
 This widgetized area contains all the widgets used for layered navigation. In the default preview we have used :
 
-1. **Electro Product Categories** Widget : Widget for Product Categories
-2. **Electro Product Filter** Widget : To filter products.
-3. **Text** Widget : Text widget for Banner Image.
-4. **WooCommerce Products** Widget : Widget for Latest Products.
+1. **WooCommerce Product Categories** Widget : Widget for Product Categories
+2. **WooCommerce Layered Nav** Widget : To filter products.
+3. **WooCommerce Layered Nav** Widget : Text widget for Banner Image.
+4. **WooCommerce Layered Nav** Widget : Widget for Latest Products.
+5. **WooCommerce Price Filter** Widget : Widget for Latest Products.
+6. **WooCommerce Layered Nav Filters** Widget : Widget for Latest Products.
 
-![](http://transvelo.github.io/docs/electro/images/shop-sidebar-widget.png)
+![](http://transvelo.github.io/docs/bewear/images/shop-sidebar-widget.png)
 
-### Product Filters Sidebar
-
-1. **WooCommerce Layered Nav** Widget : Active Filters.
-2. **WooCommerce Layered Nav** Widget : To filter products by Brands.
-3. **WooCommerce Layered Nav** Widget : To filter products by Colors.
-4. **WooCommerce Price Filter** Widget : To filter products by price.
-
-
-![](http://transvelo.github.io/docs/electro/images/product-filter-widget.png)

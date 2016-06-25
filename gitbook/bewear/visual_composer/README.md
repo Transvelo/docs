@@ -18,7 +18,7 @@ There are 13 additional elements that are made available via **Bewear Extensions
 10.[Product and Posts](product_and_posts.md)
 11.[Product Tabs](Product_tabs.md)
 12.[Bewear Terms](Bewear_terms.md)
-12.[Tiled Gallery](tiled_gallery.md)
+13.[Tiled Gallery](tiled_gallery.md)
 
 ![](http://transvelo.github.io/docs/bewear/images/visual-composer-bewear-elements.png)
 

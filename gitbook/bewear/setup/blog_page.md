@@ -10,7 +10,7 @@ By default Wordpress displays blog posts in front page but Bewear theme uses a s
 4. Click on **A static Page** option for **Front page displays**.
 5. In the **Posts page** dropdown, choose the page you just created in step 2.
 
-![](http://transvelo.github.io/docs/electro/images/reading-settings.png)
+![](http://transvelo.github.io/docs/bewear/images/reading-settings.png)
 
 ## Blog Post
 
@@ -26,14 +26,6 @@ Bewear allows you to display your Blog posts in 3 different layouts.
 
 You can select blog page layout form **Bewear > Blog > Blog Page Layout**.
 
-### Blog Page View
-
-Blog Page has 3 different views **Grid**, **List** and **Normal**. You can select the view for the Blog Page as you wish.
-
-### Enable Placeholder Image
-
-Enable/Disable Placeholder image.
-
 ### Layout for Single Post
 Select the layout for Single Post Page.
 
@@ -41,6 +33,6 @@ Select the layout for Single Post Page.
 
 If a sidebar layout is chosen, then the sidebar is populated with widgets. The name of the sidebar area is **Sidebar**.
 
-![](http://transvelo.github.io/docs/electro/images/blog-sidebar.png)
+![](http://transvelo.github.io/docs/bewear/images/blog-sidebar.png)
 
 

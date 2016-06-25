@@ -4,21 +4,21 @@ Here is a quick look about the theme and its features.
 
 ## General Features
 
-Bewear – is a clean and functional theme with vertical menu, perfect for your Electronic eCommerce store project.
+Bewear – is a clean and functional theme with Lookbook / Collection style to inspire your clients with your products.
 
 * **Easy Installation** and **Setup**
 * **Free Updates** and **one to one support**
 * Comes with importable Dummy Data
-* Built on **Bootstrap 4**
+* Built on **Bootstrap 3**
 * **Cross-Browser** compatible ( Chrome/Firefox/IE9+/Safari)
 * **SASS** Files included
 * **Clean code** providing high level of customization using filters and actions.
 * Can be **Optimized** easily for high speed performance.
 * **2 Different Headers**
+* **2 Different Footers**
 * **Responsive Megamenu**
-* **5 WooCommerce Pages**
-* **10 Pre Built Pages**
-* **Boxed** and **Stretched** Layouts
+* **4 WooCommerce Pages**
+* **7 Pre Built Pages**
 * Support for **post formats** and **post thumbnails**
 
 ### Customization Options
@@ -31,7 +31,6 @@ Bewear – is a clean and functional theme with vertical menu, perfect for your 
 * **Visual Attributes** bundled
 * Easily change look and feel
 * Lots of Shortcodes and custom Visual Composer Elements to work with
-* Upload your Logo
 * **Translation Ready** - comes with .pot file which can be easily translated using a poEditor.
 * **WPML Ready** - can be easily translated
 * Integrated with **Google Fonts**

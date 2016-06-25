@@ -26,7 +26,11 @@ Here you can use attribute for Colors with terms like : Black, Blue, Green, Red,
 
 ![](http://transvelo.github.io/docs/bewear/images/color-attribute.png)
 
+## Configuring Size Attributes to your product
 
+Here you can use attribute for Colors with terms like : L, M, S, XL, XXl, XXXl etc.,
+
+![](http://transvelo.github.io/docs/bewear/images/size-attribute.png)
 
 
 

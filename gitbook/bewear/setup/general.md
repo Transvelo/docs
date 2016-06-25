@@ -14,7 +14,6 @@ We'll create the contents of the Blog and Home page later.
 
 ## Other General Setup
 
-1. [**Logo and Favicon**](logo_and_favicon.md)
 2. [**Header**](header.md)
 3. [**Footer**](footer.md)
 

@@ -16,14 +16,13 @@ The following is the list of plugins in alphabetical order that are recommended 
 
 * **[Slider Revolution](http://codecanyon.net/item/slider-revolution-responsive-wordpress-plugin/2751380/)** - Allows you to create a responsive(mobile friendly) or fullwidth slider with must-see-effects and meanwhile keep or build your SEO optimization. This is a premium plugin and comes bundled with your theme.
 
-* ** Electro Extensions ** - This is a custom plugin built by Transvelo. Keeping in mind the plugin territory recommendations by ThemeForest we had implemented custom shortcodes and taxonomies functionalities into a separate plugin. This plugin also contains the Visual Composer extensions added by us.
+* ** Bewear Extensions ** - This is a custom plugin built by Transvelo. Keeping in mind the plugin territory recommendations by ThemeForest we had implemented custom shortcodes and taxonomies functionalities into a separate plugin. This plugin also contains the Visual Composer extensions added by us.
 
 * **[WooCommerce](https://wordpress.org/plugins/woocommerce/)** — WooCommerce is a powerful, extendable eCommerce plugin that helps you sell anything. Beautifully.
-* **[WooCommerce Quantity Increment](https://wordpress.org/plugins/woocommerce-quantity-increment/)** — Allows you to add quantity button.
+
+* **[QueryLoop Visual Attributes](http://demo.queryloop.com/visual-attributes/)** — Visual Attributes is a WooCommerce extension that replaces the standard dropdowns for attributes in variable products with images, icons or color swatches.
 
 * **[WPBakery Visual Composer](http://codecanyon.net/item/visual-composer-page-builder-for-wordpress/242431)** - This is a drag and drop frontend and backend page builder plugin that will save you tons of time working on the site content. This is a premium plugin and comes bundled with your theme.
-
-* **[YITH WooCommerce Compare](https://wordpress.org/plugins/yith-woocommerce-compare/)** - Allows you to add Product Comparison functionality to your shop.
 
 * **[YITH WooCommerce Wishlist](https://wordpress.org/plugins/yith-woocommerce-wishlist/)** — Allows you to add Wishlist functionality to your shop.
 
