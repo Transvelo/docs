@@ -7,7 +7,6 @@ Allows you to add brands on your page.
 
 | Field | Type | Description | Default
 | -- | -- | -- | -- |
-
 | **Order by** | Text |  Set the order of the brand to be Displayed | name
 | **Order** | Text | Set the Brands in Ascending or Descending Order. | ASC
 | **Limit** | Text | Set the number of brands to be displayed. | 10

@@ -7,7 +7,6 @@ Allows you to add features list on your page.
 
 | Field | Type | Description | Default
 | -- | -- | -- | -- |
-
 | **Icon 1** | Text |  Enter the feature icon | bw bw-truck
 | **Text 1** | Text | Enter the feature text | Free Shipping
 | **Icon 2** | Text |  Enter the feature icon | bw bw-promotion
