@@ -4,7 +4,7 @@ Here is a quick look about the theme and its features.
 
 ## General Features
 
-Bewear – is a clean and functional theme with Lookbook / Collection style to inspire your clients with your products.
+Bewear – is a clean and modern theme with Lookbook / Collection style to inspire your clients with your products.
 
 * **Easy Installation** and **Setup**
 * **Free Updates** and **one to one support**

@@ -16,7 +16,7 @@
 
 ![](http://transvelo.github.io/docs/bewear/images/footer-style-2.png)
 
-### Choosing a Footer Style
+#### Choosing a Footer Style
 
 **Footer v2** is chosen by default footer. To change the footer style :
 
@@ -28,7 +28,7 @@
 ![](http://transvelo.github.io/docs/bewear/images/choose-footer-style.png)
 
 
-**Bewear**'s Footer v1  has 3 rows
+### **Bewear**'s Footer v1  has 3 rows
 
 Here is the Footer's anatomy:
 
@@ -49,7 +49,7 @@ By default the Footer 1, Footer 2, Footer 3 and Footer 4 widget area is populate
 
 ## Footer Logo
 
-* **Footer Logo** - Footer Logo can be set from **Bewear > Footer > Footer Widgets > Footer Image
+* **Footer Logo** - Footer Logo can be set from **Bewear > Footer > Footer Widgets > Footer Image**
 
 ## Footer Site Info
 
@@ -60,7 +60,7 @@ This section has :
 * **Footer Social Links** - Footer Social Links can be enable or disable from **Bewear > Footer > Footer Contact Block > Show Footer Social Icons**.
 * Edit the information as required and click on **Save Changes** in **Bewear** page.
 
-**Bewear**'s Footer v2  has 2 rows
+### **Bewear**'s Footer v2  has 2 rows
 
 Here is the Footer's anatomy:
 
@@ -73,7 +73,7 @@ The **Footer Contact Information**
 * **Footer Contact Info Address 1** - The default value is *"<address><strong>Madrid</strong><br/>1st de la Chopera, 582<br/>28124 Madrid<br/>Tel. 91 421 42 22 | info@domain.com</address>."* and can be changed from **Bewear > Footer > Footer Contact Block**.
 * **Footer Contact Info Address 2** - The default value is "*<address><strong>Valencia</strong><br/>Barcelona, 582-845<br/>08464 Valencia<br/>Tel. 93 947 51 53 | info@domain.net</address>*" and can be changed from **Bewear > Footer > Footer Contact Block**.
 * **Get in Touch** - Links to Social media profiles. It can be set from **Bewear > Social Media**<br/>![](http://transvelo.github.io/docs/bewear/images/theme-options-social-media.png) and can be enable or disable this option form **Bewear > Footer > Footer Contact Block > Show Footer Social Icons**.
-* Edit the information as required and click on **Save Changes** in **Bewear* page.
+* Edit the information as required and click on **Save Changes** in **Bewear** page.
 
 ## Footer Widgets
 

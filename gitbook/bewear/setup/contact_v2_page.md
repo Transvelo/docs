@@ -1,4 +1,4 @@
-# Contact v1 Page
+# Contact v2 Page
 
 Contact v2 Page of Bewear is built using **Visual Composer** with 4 rows. The **Visual Composer** Backend editor of the page look like this
 
