@@ -8,7 +8,7 @@ There are 13 additional elements that are made available via **Bewear Extensions
 
 1. [Ad Block](ad_block.md)
 2. [Brands](brands.md)
-3. [Brands Carousel](brands-carousel.md)
+3. [Brands Carousel](brands_carousel.md)
 4. [Features List](features_list.md)
 5. [Jumbotron](jumbotron.md)
 6. [Lookbook Carousel](lookbook_carousel.md)
@@ -16,8 +16,8 @@ There are 13 additional elements that are made available via **Bewear Extensions
 8. [Newsletter](newsletter.md)
 9. [Numbered Products](numbered_products.md)
 10.[Product and Posts](product_and_posts.md)
-11.[Product Tabs](Product_tabs.md)
-12.[Bewear Terms](Bewear_terms.md)
+11.[Product Tabs](product_tabs.md)
+12.[Bewear Terms](bewear_terms.md)
 13.[Tiled Gallery](tiled_gallery.md)
 
 ![](http://transvelo.github.io/docs/bewear/images/visual-composer-bewear-elements.png)
