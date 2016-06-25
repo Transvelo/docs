@@ -5,7 +5,7 @@
         
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=11; IE=10; IE=9; IE=8; IE=7; IE=EDGE" />
-        <title>Visual Composer | Theme Documentation</title>
+        <title>Home v1 with Visual Composer | Theme Documentation</title>
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="">
         <meta name="generator" content="GitBook 1.5.0">
@@ -19,10 +19,10 @@
         
     
     
-    <link rel="next" href="../visual_composer/ad_block.html" />
+    <link rel="next" href="../setup/home_v2.html" />
     
     
-    <link rel="prev" href="../theme_options_panel/custom_code.html" />
+    <link rel="prev" href="../setup/home_v1.html" />
     
 
         
@@ -34,7 +34,7 @@
 
 
         
-    <div class="book" data-level="7" data-basepath=".." data-revision="1466848931388">
+    <div class="book" data-level="5.7.5" data-basepath=".." data-revision="1466848931388">
     
 
 <div class="book-summary">
@@ -476,7 +476,7 @@
         </li>
     
         
-        <li class="chapter " data-level="5.7.5" data-path="setup/home_v1_with_visual_composer.html">
+        <li class="chapter active" data-level="5.7.5" data-path="setup/home_v1_with_visual_composer.html">
             
                 
                     <a href="../setup/home_v1_with_visual_composer.html">
@@ -888,7 +888,7 @@
         </li>
     
         
-        <li class="chapter active" data-level="7" data-path="visual_composer/README.html">
+        <li class="chapter " data-level="7" data-path="visual_composer/README.html">
             
                 
                     <a href="../visual_composer/README.html">
@@ -1238,40 +1238,51 @@
                 <div class="page-inner">
                 
                 
-                    <section class="normal" id="section-gitbook_86">
+                    <section class="normal" id="section-gitbook_45">
                     
-                        <h1 id="visual-composer">Visual Composer</h1>
-<p><strong>Visual Composer</strong> is a premium drag drop plugin that comes bundled with the theme. It provides 40+ elements that can be easily added to your page. In addition to extending functionalities of existing elements, <strong>Bewear</strong> theme has added 13 additional elements. With this set of elements, you will be able to create unlimited varities of pages.</p>
-<h2 id="bewear-elements">Bewear Elements</h2>
-<p>There are 13 additional elements that are made available via <strong>Bewear Extensions</strong> plugin.They are :</p>
-<ol>
-<li><a href="ad_block.html">Ad Block</a></li>
-<li><a href="brands.html">Brands</a></li>
-<li><a href="brands-carousel.html">Brands Carousel</a></li>
-<li><a href="features_list.html">Features List</a></li>
-<li><a href="jumbotron.html">Jumbotron</a></li>
-<li><a href="lookbook_carousel.html">Lookbook Carousel</a></li>
-<li><a href="lookbook_carousel_with_products.html">Lookbook Carousel with Products</a></li>
-<li><a href="newsletter.html">Newsletter</a></li>
-<li><a href="numbered_products.html">Numbered Products</a>
-10.<a href="product_and_posts.html">Product and Posts</a>
-11.<a href="Product_tabs.html">Product Tabs</a>
-12.<a href="Bewear_terms.html">Bewear Terms</a>
-13.<a href="tiled_gallery.html">Tiled Gallery</a></li>
-</ol>
-<p><img src="http://transvelo.github.io/docs/bewear/images/visual-composer-bewear-elements.png" alt=""></p>
-<div class="alert alert-info"><strong>Deep Diving</strong> : Learn more about using <strong>Visual Composer</strong> from here : <a href="http://vc.wpbakery.com/video-academy/" target="_blank">http://vc.wpbakery.com/video-academy/</a> </div>
-
-<h2 id="how-to-update-visual-composer">How to update Visual Composer?</h2>
-<h3 id="how-to-get-the-latest-version-of-the-plugin">How to get the latest version of the plugin?</h3>
-<p>The <strong> <em>Visual Composer</em> </strong> plugin comes bundled with the theme. We&#39;ll always make sure to include the latest version in the main theme package so you can update yours.</p>
-<p>Head on to ThemeForest and download the latest theme package. You&#39;ll find it in the Downloads section, where all your downloads are. Inside the package, navigate to <strong>Assets &gt; PremiumPlugins &gt; js_composer.zip</strong></p>
-<h3 id="how-to-update-the-plugin">How to update the plugin?</h3>
-<ol>
-<li>In you WordPress admin dashboard, navigate to the Plugins section.</li>
-<li>De-activate and delete the current version of Visual Composer.</li>
-<li>For uploading, use the js_composer.zip file, which you can find in the main theme package downloaded from ThemeForest, inside <strong>Assets &gt; PremiumPlugins &gt; js_composer.zip</strong> folder.</li>
-</ol>
+                        <h1 id="home-v1-with-visual-composer">Home v1 with Visual Composer</h1>
+<p>Home v1 of Bewear is built using <strong>Visual Composer</strong>.It has 5 rows. The <strong>Visual Composer</strong> Backend editor of the page look like this</p>
+<p><img src="http://transvelo.github.io/docs/bewear/images/vc-home-v1.png" alt=""></p>
+<h2 id="the-code">The Code</h2>
+<p>Please switch your editor to classic mode and paste the code given here :</p>
+<pre><code>[vc_row][vc_column][bewear_lookbook_carousel_with_products lookbook_choice=&quot;random&quot; limit=&quot;10&quot;][/vc_column][/vc_row][vc_row][vc_column][bewear_brands_carousel hide_empty=&quot;true&quot; orderby=&quot;name&quot; order=&quot;ASC&quot; limit=&quot;10&quot;][/vc_column][/vc_row][vc_row][vc_column][bewear_numbered_products title=&quot;Arrivals this month&quot; number=&quot;284&quot; limit=&quot;8&quot; columns=&quot;4&quot; button_text=&quot;View more products&quot; button_link=&quot;#&quot;][/vc_column][/vc_row][vc_row][vc_column][bewear_product_and_posts product_title=&quot;Pick of the month&quot; post_title=&quot;Latest from the blog&quot;][/vc_column][/vc_row][vc_row][vc_column][bewear_features_list icon_1=&quot;bw bw-truck&quot; text_1=&quot;Free Shipping&quot; icon_2=&quot;bw bw-promotion&quot; text_2=&quot;Promotions&quot; icon_3=&quot;bw bw-heart&quot; text_3=&quot;Customer Service 24/7&quot; icon_4=&quot;bw bw-money-saving&quot; text_4=&quot;No Additional Fees&quot;][/vc_column][/vc_row]
+</code></pre><p>After pasting the code, you can simply switch to <em>Backend Editor</em> to view the screen just like in the screenshot above.</p>
+<h2 id="the-details">The Details</h2>
+<h3 id="row-1">Row 1</h3>
+<hr>
+<ul>
+<li>It has <strong>Lookbook Carousel with Products</strong> Block setting</li>
+<li><strong>Lookbook Carousel with Products</strong> : Here i pasted a Lookbook Carousel with Products setting Page image.</li>
+</ul>
+<p><img src="http://transvelo.github.io/docs/bewear/images/vc-lookbook-carousel-products-setting.png" alt=""></p>
+<h3 id="row-2">Row 2</h3>
+<hr>
+<ul>
+<li>It has <strong>Brand Carousel</strong> Block setting</li>
+<li><strong>Brand Carousel</strong> : Here i pasted a Brand Carousel setting Page image.</li>
+</ul>
+<p><img src="http://transvelo.github.io/docs/bewear/images/vc-brand-carousel-setting.png" alt=""></p>
+<h3 id="row-3">Row 3</h3>
+<hr>
+<ul>
+<li>It has <strong>Numbered products</strong> Block setting</li>
+<li><strong>Numbered products</strong> : Here i pasted a Numbered products setting Page image.</li>
+</ul>
+<p><img src="http://transvelo.github.io/docs/bewear/images/vc-numbered-products-setting.png" alt=""></p>
+<h3 id="row-4">Row 4</h3>
+<hr>
+<ul>
+<li>It has <strong>Product and Posts</strong> Block setting</li>
+<li><strong>Product and Posts</strong> : Here i pasted a Product and Posts setting Page image.</li>
+</ul>
+<p><img src="http://transvelo.github.io/docs/bewear/images/vc-product-post-setting.png" alt=""></p>
+<h3 id="row-5">Row 5</h3>
+<hr>
+<ul>
+<li>It has <strong>Features List</strong> Block setting</li>
+<li><strong>Features List</strong> : Here i pasted a Features List setting Page image.</li>
+</ul>
+<p><img src="http://transvelo.github.io/docs/bewear/images/vc-features-list-setting.png" alt=""></p>
 
                     
                     </section>
@@ -1282,10 +1293,10 @@
         </div>
 
         
-        <a href="../theme_options_panel/custom_code.html" class="navigation navigation-prev " aria-label="Previous page: Custom Code"><i class="fa fa-angle-left"></i></a>
+        <a href="../setup/home_v1.html" class="navigation navigation-prev " aria-label="Previous page: Home v1"><i class="fa fa-angle-left"></i></a>
         
         
-        <a href="../visual_composer/ad_block.html" class="navigation navigation-next " aria-label="Next page: Ad Block"><i class="fa fa-angle-right"></i></a>
+        <a href="../setup/home_v2.html" class="navigation navigation-next " aria-label="Next page: Home v2"><i class="fa fa-angle-right"></i></a>
         
     </div>
 </div>
