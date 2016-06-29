@@ -1,7 +1,7 @@
 
 # About
 
-About Page of Bewear is built using **Visual Composer** with 4 rows. The **Visual Composer** Backend editor of the page look like this
+About Page of Bewear is built using **Aboutpage Template** with 4 rows. The Backend editor of the page look like this
 
 ![](http://transvelo.github.io/docs/bewear/images/about-page-setting.png)
 

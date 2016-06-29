@@ -1,6 +1,6 @@
 # Contact v1 Page
 
-Contact v1 Page of Bewear is built using **Visual Composer** with 2 rows. The **Visual Composer** Backend editor of the page look like this
+Contact v1 Page of Bewear is built using **Contactpage v1 Template** with 2 rows. The Backend editor of the page look like this
 
 ![](http://transvelo.github.io/docs/bewear/images/contact-page-setting.png)
 

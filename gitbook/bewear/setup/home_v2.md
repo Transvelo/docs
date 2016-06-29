@@ -1,6 +1,6 @@
 # Home v2
 
-Home v2 Page of Bewear is built using **Visual Composer** with 5 rows. The **Visual Composer** Backend editor of the page look like this
+Home v2 Page of Bewear is built using **Homepage v2 Template** with 5 rows. The Backend editor of the page look like this
 
 ![](http://transvelo.github.io/docs/bewear/images/home-v2-setting.png)
 
