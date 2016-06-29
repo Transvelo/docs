@@ -24,6 +24,10 @@ The following is the list of plugins in alphabetical order that are recommended 
 
 * **[WPBakery Visual Composer](http://codecanyon.net/item/visual-composer-page-builder-for-wordpress/242431)** - This is a drag and drop frontend and backend page builder plugin that will save you tons of time working on the site content. This is a premium plugin and comes bundled with your theme.
 
+* **[Features](https://wordpress.org/plugins/features-by-woothemes/)** - Load in the features your product, company or services offers, and display them via a shortcode, widget or template tag on your website.
+
+* **[Our Team](https://wordpress.org/plugins/our-team-by-woothemes/)** - Load in your team members and display their profiles via a shortcode, widget or template tag on your website.
+
 * **[YITH WooCommerce Wishlist](https://wordpress.org/plugins/yith-woocommerce-wishlist/)** — Allows you to add Wishlist functionality to your shop.
 
 

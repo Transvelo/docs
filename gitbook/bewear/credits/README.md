@@ -14,6 +14,7 @@
 * [Envato Toolkit](https://github.com/envato/envato-wordpress-toolkit/)
 * [Bootstrap](http://getbootstrap.com/) by Twitter
 * [Bootstrap Hover Dropdown](https://github.com/CWSpear/bootstrap-hover-dropdown) by Cameron Spear
+* [Features](https://wordpress.org/plugins/features-by-woothemes/) by WooThemes
 * [Jquery Easing](http://gsgd.co.uk/sandbox/jquery/easing/) by George McGinley Smith
 * [Owl Carousel](http://http//owlgraphic.com/owlcarousel/) by OwlFonk
 * [WOW](http://mynameismatthieu.com/WOW/) by Matthieu Aussaguel
