@@ -5,7 +5,7 @@
         
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=11; IE=10; IE=9; IE=8; IE=7; IE=EDGE" />
-        <title>Wishlist | Theme Documentation</title>
+        <title>About page with Visual Composer | Theme Documentation</title>
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="">
         <meta name="generator" content="GitBook 1.5.0">
@@ -19,10 +19,10 @@
         
     
     
-    <link rel="next" href="../setup/cart.html" />
+    <link rel="next" href="../setup/contact_v1_page.html" />
     
     
-    <link rel="prev" href="../setup/woocommerce_pages.html" />
+    <link rel="prev" href="../setup/contact.html" />
     
 
         
@@ -34,7 +34,7 @@
 
 
         
-    <div class="book" data-level="5.8.1" data-basepath=".." data-revision="1467176868772">
+    <div class="book" data-level="5.7.2" data-basepath=".." data-revision="1467176868772">
     
 
 <div class="book-summary">
@@ -428,7 +428,7 @@
         </li>
     
         
-        <li class="chapter " data-level="5.7.2" data-path="setup/about_page_with_visual_composer.html">
+        <li class="chapter active" data-level="5.7.2" data-path="setup/about_page_with_visual_composer.html">
             
                 
                     <a href="../setup/about_page_with_visual_composer.html">
@@ -626,7 +626,7 @@
                 
     
         
-        <li class="chapter active" data-level="5.8.1" data-path="setup/wishlist.html">
+        <li class="chapter " data-level="5.8.1" data-path="setup/wishlist.html">
             
                 
                     <a href="../setup/wishlist.html">
@@ -1286,19 +1286,47 @@
                 <div class="page-inner">
                 
                 
-                    <section class="normal" id="section-gitbook_85">
+                    <section class="normal" id="section-gitbook_59">
                     
-                        <h1 id="wishlist">Wishlist</h1>
-<p>Wishlist page is created automatically on activating the <strong>YITH WooCommerce Wishlist</strong> plugin. If the page is not created, then</p>
-<ol>
-<li>Navigate to <strong>Pages &gt; Add New </strong>.</li>
-<li>Give it a name, say <strong>Wishlist</strong> and enter the shortcode <code>[yith_wcwl_wishlist]</code>.</li>
-<li>Make sure <strong>Default Template</strong> is chosen under <strong>Page Attributes &gt; Template</strong>.</li>
-<li>Check on <strong>Hide Page Header</strong> under <strong>Bewear Page Options</strong> Meta box.</li>
-<li>Click on <strong>Publish</strong>.</li>
-<li>Navigate to <strong>WooCommerce &gt; Settings &gt; Wishlist </strong> and make sure the page created in the above step is selected against the <strong>Wishlist Page</strong> option.</li>
-</ol>
-<p><img src="http://transvelo.github.io/docs/bewear/images/page-wishlist.png" alt=""></p>
+                        <h1 id="about-page-with-visual-composer">About page with Visual Composer</h1>
+<p>About Page of Bewear is built using <strong>Visual Composer</strong>.It has 4 rows. The <strong>Visual Composer</strong> Backend editor of the page look like this</p>
+<p><img src="http://transvelo.github.io/docs/bewear/images/vc-about-page-setting.png" alt=""></p>
+<h2 id="the-details">The Details</h2>
+<h3 id="row-1">Row 1</h3>
+<hr>
+<ul>
+<li>It has <strong>Text Block</strong> setting</li>
+<li><strong>Text Block</strong> : Content of Text Block</li>
+</ul>
+<pre><code>&lt;div class=&quot;feature-head&quot;&gt;
+&lt;h2 class=&quot;section-title&quot;&gt;Working with Fashion is Our Life&lt;/h2&gt;
+&lt;span class=&quot;section-subtitle&quot;&gt;We are a second-generation family business established in 1972&lt;/span&gt;
+
+&lt;/div&gt;
+[woothemes_features limit=&quot;3&quot; per_row=&quot;3&quot; size=&quot;370&quot;]
+</code></pre><h3 id="row-2">Row 2</h3>
+<hr>
+<ul>
+<li>It has <strong>Single Image</strong>  setting</li>
+<li><strong>Single Image</strong> : Upload Single Image</li>
+</ul>
+<p><img src="http://transvelo.github.io/docs/bewear/images/single-image-setting.png" alt=""></p>
+<h3 id="row-3">Row 3</h3>
+<hr>
+<ul>
+<li>It has three columns in the ratio 1/3 + 1/3 + 1/3</li>
+<li>All the columns has Text Block.</li>
+<li><strong>Text Block</strong> : Content of the Text Block</li>
+</ul>
+<pre><code>Sed vulputate elit vitae magna lacinia, vel bibendum neque faucibus. Aliquam sed volutpat turpis. Phasellus nisl arcu, pretium eu faucibus sed, aliquet in lacus. Pellentesque sed lacus et ipsum rutrum dignissim. Praesent ultrices posuere eros ac tristique.
+</code></pre><h3 id="row-4">Row 4</h3>
+<hr>
+<ul>
+<li>It has <strong>Text Block</strong> setting</li>
+<li><strong>Text Block</strong> : Content of the Text Block<pre><code>&lt;h2 class=&quot;section-title text-center&quot;&gt;Our Team&lt;/h2&gt;
+[woothemes_our_team limit=&quot;6&quot; per_row=&quot;6&quot;]
+</code></pre></li>
+</ul>
 
                     
                     </section>
@@ -1309,10 +1337,10 @@
         </div>
 
         
-        <a href="../setup/woocommerce_pages.html" class="navigation navigation-prev " aria-label="Previous page: WooCommerce Pages"><i class="fa fa-angle-left"></i></a>
+        <a href="../setup/contact.html" class="navigation navigation-prev " aria-label="Previous page: About Page"><i class="fa fa-angle-left"></i></a>
         
         
-        <a href="../setup/cart.html" class="navigation navigation-next " aria-label="Next page: Cart"><i class="fa fa-angle-right"></i></a>
+        <a href="../setup/contact_v1_page.html" class="navigation navigation-next " aria-label="Next page: Contact v1 Page"><i class="fa fa-angle-right"></i></a>
         
     </div>
 </div>

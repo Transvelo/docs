@@ -5,7 +5,7 @@
         
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=11; IE=10; IE=9; IE=8; IE=7; IE=EDGE" />
-        <title>Wishlist | Theme Documentation</title>
+        <title>Contact v1 with Visual Composer | Theme Documentation</title>
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="">
         <meta name="generator" content="GitBook 1.5.0">
@@ -19,10 +19,10 @@
         
     
     
-    <link rel="next" href="../setup/cart.html" />
+    <link rel="next" href="../setup/contact_v2_page.html" />
     
     
-    <link rel="prev" href="../setup/woocommerce_pages.html" />
+    <link rel="prev" href="../setup/contact_v1_page.html" />
     
 
         
@@ -34,7 +34,7 @@
 
 
         
-    <div class="book" data-level="5.8.1" data-basepath=".." data-revision="1467176868772">
+    <div class="book" data-level="5.7.4" data-basepath=".." data-revision="1467176868772">
     
 
 <div class="book-summary">
@@ -460,7 +460,7 @@
         </li>
     
         
-        <li class="chapter " data-level="5.7.4" data-path="setup/contact_v1_with_visual_composer.html">
+        <li class="chapter active" data-level="5.7.4" data-path="setup/contact_v1_with_visual_composer.html">
             
                 
                     <a href="../setup/contact_v1_with_visual_composer.html">
@@ -626,7 +626,7 @@
                 
     
         
-        <li class="chapter active" data-level="5.8.1" data-path="setup/wishlist.html">
+        <li class="chapter " data-level="5.8.1" data-path="setup/wishlist.html">
             
                 
                     <a href="../setup/wishlist.html">
@@ -1286,19 +1286,49 @@
                 <div class="page-inner">
                 
                 
-                    <section class="normal" id="section-gitbook_85">
+                    <section class="normal" id="section-gitbook_31">
                     
-                        <h1 id="wishlist">Wishlist</h1>
-<p>Wishlist page is created automatically on activating the <strong>YITH WooCommerce Wishlist</strong> plugin. If the page is not created, then</p>
-<ol>
-<li>Navigate to <strong>Pages &gt; Add New </strong>.</li>
-<li>Give it a name, say <strong>Wishlist</strong> and enter the shortcode <code>[yith_wcwl_wishlist]</code>.</li>
-<li>Make sure <strong>Default Template</strong> is chosen under <strong>Page Attributes &gt; Template</strong>.</li>
-<li>Check on <strong>Hide Page Header</strong> under <strong>Bewear Page Options</strong> Meta box.</li>
-<li>Click on <strong>Publish</strong>.</li>
-<li>Navigate to <strong>WooCommerce &gt; Settings &gt; Wishlist </strong> and make sure the page created in the above step is selected against the <strong>Wishlist Page</strong> option.</li>
-</ol>
-<p><img src="http://transvelo.github.io/docs/bewear/images/page-wishlist.png" alt=""></p>
+                        <h1 id="contact-v1-with-visual-composer">Contact v1 with Visual Composer</h1>
+<p>Contact v1 of Bewear is built using <strong>Visual Composer</strong>.It has 2 rows. The <strong>Visual Composer</strong> Backend editor of the page look like this</p>
+<p><img src="http://transvelo.github.io/docs/bewear/images/vc-contact-v1-page-setting.png" alt=""></p>
+<h2 id="the-details">The Details</h2>
+<h3 id="row-1">Row 1</h3>
+<hr>
+<ul>
+<li>It has <strong>Text Block</strong> setting</li>
+<li><strong>Text Block</strong> : Content of Text Block</li>
+</ul>
+<pre><code>&lt;div class=&quot;contact-form&quot;&gt;
+&lt;h2 class=&quot;section-title&quot;&gt;Contact Us&lt;/h2&gt;
+&lt;span class=&quot;section-subtitle&quot;&gt;What can we help you with? Please select a category&lt;/span&gt;
+[contact-form-7 title=&quot;Contact form 1&quot;]
+
+&lt;/div&gt;
+</code></pre><p><img src="http://transvelo.github.io/docs/bewear/images/vc-contact-form-v1-setting.png" alt=""></p>
+<h3 id="row-2">Row 2</h3>
+<hr>
+<ul>
+<li>It has <strong>Text Block</strong> setting</li>
+<li><strong>Text Block</strong> : Content of Text Block</li>
+</ul>
+<pre><code>&lt;div class=&quot;contact-address&quot;&gt;
+&lt;div class=&quot;address&quot;&gt;
+&lt;h2&gt;Bewear Co&lt;/h2&gt;
+&lt;div class=&quot;address-info&quot;&gt;&lt;address&gt;3100 West Cary Street Richmond, Virginia 23221&lt;/address&gt;&lt;address&gt;Phone +48 655 555 555&lt;/address&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;address&quot;&gt;
+&lt;div class=&quot;address-info&quot;&gt;&lt;address&gt;Store Hours:&lt;/address&gt;&lt;address&gt;Monday-Saturday 11:00-7:00&lt;/address&gt;&lt;address&gt;Sunday 11:00-6:00&lt;/address&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;address&quot;&gt;
+&lt;div class=&quot;address-info&quot;&gt;&lt;address&gt;Customer Service&lt;/address&gt;&lt;address&gt;Monday-Friday 9:00-5:00&lt;/address&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;address&quot;&gt;
+&lt;h2&gt;Studio and Workshop&lt;/h2&gt;
+&lt;div class=&quot;address-info&quot;&gt;&lt;address&gt;Bewear Studio&lt;/address&gt;&lt;address&gt;Piłsudskiego 53, 01-511&lt;/address&gt;&lt;address&gt;Warsaw, Poland&lt;/address&gt;&lt;address&gt;+48 777 888 555&lt;/address&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</code></pre><p><img src="http://transvelo.github.io/docs/bewear/images/vc-contact-address-v1-setting.png" alt=""></p>
+<p>```</p>
 
                     
                     </section>
@@ -1309,10 +1339,10 @@
         </div>
 
         
-        <a href="../setup/woocommerce_pages.html" class="navigation navigation-prev " aria-label="Previous page: WooCommerce Pages"><i class="fa fa-angle-left"></i></a>
+        <a href="../setup/contact_v1_page.html" class="navigation navigation-prev " aria-label="Previous page: Contact v1 Page"><i class="fa fa-angle-left"></i></a>
         
         
-        <a href="../setup/cart.html" class="navigation navigation-next " aria-label="Next page: Cart"><i class="fa fa-angle-right"></i></a>
+        <a href="../setup/contact_v2_page.html" class="navigation navigation-next " aria-label="Next page: Contact v2 Page"><i class="fa fa-angle-right"></i></a>
         
     </div>
 </div>
