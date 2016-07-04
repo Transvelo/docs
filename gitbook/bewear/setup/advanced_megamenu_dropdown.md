@@ -18,7 +18,7 @@ We built our simple Megamenu in previous section. We are now going to build a li
 * Our Complex Megamenu item will now have 4 columns.
 * On the top-right of each row, you will find a grid icon, next to the move icon.
 * Click on the grid icon and it will expand to various grid option available.
-* We will select a predefined grid which is 1/4 + 1/4 + 1/4 + 1/4.
+* We will select a predefined grid which is 1/2 + 1/2.
 * Once you click on the predefined grid layout it will look like this :<br/>![](http://transvelo.github.io/docs/bewear/images/vc-two-col-grid-on-selection.png)
 
 
