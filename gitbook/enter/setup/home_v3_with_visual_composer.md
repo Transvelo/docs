@@ -9,27 +9,27 @@ Home v3 of Enter is built using **King Composer**.It has 4 rows. The **King Comp
 
 ### Row 1
 ---
-* Banner Setting : Here i pasted a banner Setting Page image.
+* **Banner Setting** : Here i pasted a banner Setting Page image.
 
 ![](http://transvelo.github.io/docs/enter/images/kc-banner-setting.png)
 
 ### Row 2
 ---
-* Banner Setting : Here i pasted a banner Setting Page image.
+* **Banner Setting** : Here i pasted a banner Setting Page image.
 
 ![](http://transvelo.github.io/docs/enter/images/kc-banner-setting.png)
 
 ### Row 3
 ---
 * It has Products Carousel setting
-* Products Carousel : Here i pasted a Products Carousel setting Page image.
+* **Products Carousel** : Here i pasted a Products Carousel setting Page image.
 
 ![](http://transvelo.github.io/docs/enter/images/kc-products-carousel-setting.png)
 
 
 ### Row 4
 ---
-* Banner Setting : Here i pasted a banner Setting Page image.
+* **Banner Setting** : Here i pasted a banner Setting Page image.
 
 ![](http://transvelo.github.io/docs/enter/images/kc-banner-setting.png)
 

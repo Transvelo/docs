@@ -16,6 +16,10 @@ The following is the list of plugins in alphabetical order that are recommended 
 
 * **[Slider Revolution](http://codecanyon.net/item/slider-revolution-responsive-wordpress-plugin/2751380/)** - Allows you to create a responsive(mobile friendly) or fullwidth slider with must-see-effects and meanwhile keep or build your SEO optimization. This is a premium plugin and comes bundled with your theme.
 
+* **[Testimonials](https://wordpress.org/plugins/testimonials-by-woothemes/)** - Load in what your customers are saying about your business, and display the testimonials via a shortcode, widget or template tag on your website.
+
+* **[QueryLoop Visual Attributes](http://codecanyon.net/item/visual-attributes-woocommerce-variable-products/7981304)** - Visual Attributes is a WooCommerce extension that enhances variable products replacing the attribute dropdown with images, color swatches, text labels and icons
+
 * ** Enter Extensions ** - This is a custom plugin built by Transvelo. Keeping in mind the plugin territory recommendations by ThemeForest we had implemented custom shortcodes and taxonomies functionalities into a separate plugin. This plugin also contains the King Composer extensions added by us.
 
 * **[WooCommerce](https://wordpress.org/plugins/woocommerce/)** — WooCommerce is a powerful, extendable eCommerce plugin that helps you sell anything. Beautifully.

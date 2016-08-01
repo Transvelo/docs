@@ -53,11 +53,12 @@ By default the Footer 1, Footer 2, Footer 3 and Footer 4 widget area is populate
 4. **Enter Subscribe and Connect** Widget - configured to display **Newsletter** and **Social Icons**
 
 ![](http://transvelo.github.io/docs/enter/images/footer-widget-area1.png)
+
 ![](http://transvelo.github.io/docs/enter/images/footer-widget-area.png)
 
 ## Footer Site Info
 
-* **Footer Credit** - Footer Credit can be set from **Enter > Footer > Footer Credit.
+* **Footer Credit** - Footer Credit can be set from **Enter > Footer > Footer Credit**.
 ![](http://transvelo.github.io/docs/enter/images/footer-site-info.png)
 
 ### **Enter**'s Footer v2  has 3 rows
@@ -88,8 +89,9 @@ By default the Footer 1, Footer 2, Footer 3 and Footer 4 widget area is populate
 4. **Enter Subscribe and Connect** Widget - configured to display **Newsletter** and **Social Icons**
 
 ![](http://transvelo.github.io/docs/enter/images/footer-widget-area1.png)
+
 ![](http://transvelo.github.io/docs/enter/images/footer-widget-area.png)
 ## Footer Site Info
 
-* **Footer Credit** - Footer Credit can be set from **Enter > Footer > Footer Credit.
+* **Footer Credit** - Footer Credit can be set from **Enter > Footer > Footer Credit**.
 ![](http://transvelo.github.io/docs/enter/images/footer-site-info.png)

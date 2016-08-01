@@ -21,5 +21,5 @@ Once you download the package, unzip it and you will find it contains the follow
 * *licensing* - License information governing the usage of the theme.
 * *theme-files* - This folder contains the installable theme files.
    * **enter.zip** - The Installable Wordpress Theme
-   * **enter-child.zip** - The child theme for Electro WP Theme
+   * **enter-child.zip** - The child theme for Enter WP Theme
 * **changelog.txt** - Changelog for the theme.

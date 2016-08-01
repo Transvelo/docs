@@ -24,8 +24,8 @@ It has **40+ predefined elements** that you can add to your pages. Electro Theme
 Enter has 12 Page templates and they are :
 
 1. **Default Template** - The default template is a full-width page. It does not has sidebar and it is contained within a container
-2. **Aboutpage Template** - This template is used to display the About page
-3. **Contact page Template** - This template is used to display the Contact page.
+2. **Aboutpage Template** - This template is used to display the **About** page
+3. **Contact page Template** - This template is used to display the **Contact** page.
 4. **Homepage v1 Template** - This template will dislay **Home v1** page.
 5. **Homepage v2 Template** - This template will dislay **Home v2** page.
 6. **Homepage v3 Template** - This template will dislay **Home v3** page.

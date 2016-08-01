@@ -26,13 +26,13 @@
 
  Here is how it looks like for **Home** Page.
 
-![](http://transvelo.github.io/docs/enter/images/header-style-3.png)
+![](http://transvelo.github.io/docs/enter/images/header-style-4.png)
 
 ### Header Style 5
 
  Here is how it looks like for **Home** Page.
 
-![](http://transvelo.github.io/docs/enter/images/header-style-3.png)
+![](http://transvelo.github.io/docs/enter/images/header-style-5.png)
 
 ### Choosing a Header Style
 

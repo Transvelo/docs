@@ -1,14 +1,13 @@
 
 # Credits
 
-* PSD Design by [bcube ](http://themeforest.net/user/bcube)
+* PSD Design by [24beyond ](http://themeforest.net/user/24beyond)
 * HTML code by [Kader Ibrahim](http://transvelo.com/)
 * [Wordpress](https://wordpress.org/) by WordPress.org.
 * [WooCommerce](http://www.woothemes.com/woocommerce/) by WooThemes
 * [Slider Revolution](http://themepunch.com/revolution/) by ThemePunch
 * [Visual Composer](http://vc.wpbakery.com/) by WPBakery
 * [YITH WooCommerce Wishlist](https://wordpress.org/plugins/yith-woocommerce-wishlist/) by yithemes
-* [YITH WooCommerce Compare](https://wordpress.org/plugins/yith-woocommerce-compare/) by yithemes
 * [Contact Form 7](http://contactform7.com/) by Takayuki Miyoshi
 * [Envato Toolkit](https://github.com/envato/envato-wordpress-toolkit/)
 * [Bootstrap](http://getbootstrap.com/) by Twitter

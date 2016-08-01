@@ -1,6 +1,6 @@
 # About Page
 
-About Page of Enter is built using **Aboutpage Template**.It has 3 rows. The **Aboutpage Template* Backend editor of the page look like this
+About Page of Enter is built using **Aboutpage Template**.It has 3 rows. The **Aboutpage Template** Backend editor of the page look like this
 
 ![](http://transvelo.github.io/docs/enter/images/about-page.png)
 

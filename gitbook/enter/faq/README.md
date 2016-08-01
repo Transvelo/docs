@@ -2,12 +2,6 @@
 
 <div class="alert alert-info">**Info** : This section is incomplete. More questions will be added as we receive more questions from our customers</div>
 
-#### Where can i upload my Logo image ?
-
-* Navigate to **Enter** > **Header**.
-* Find **Your Logo** option here upload your logo image
-* Click on **Save Changes** to save your configuration.
-
 #### How to enable/disable Scroll to Top button ?
 
 * Navigate to **Enter** and **General** tab.
