@@ -11,7 +11,7 @@ Home v1 of Enter is built using **King Composer**.It has 5 rows. The **King Comp
 ---
 * **Revolution Slider Setting** : Here i pasted a Revolution Slider Setting Page image.
 
-![](http://transvelo.github.io/docs/enter/images/home-v1-slider-setting.png)
+![](http://transvelo.github.io/docs/enter/images/kc-slider-setting.png)
 
 ### Row 2
 ---

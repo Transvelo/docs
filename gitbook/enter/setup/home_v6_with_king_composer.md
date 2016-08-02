@@ -9,21 +9,22 @@ Home v6 of Enter is built using **King Composer**.It has 5 rows. The **King Comp
 
 ### Row 1
 ---
-* Revolution Slider Setting : Here i pasted a Revolution Slider Setting Page image.
+* **Revolution Slider Setting** : Here i pasted a Revolution Slider Setting Page image.
 
-![](http://transvelo.github.io/docs/enter/images/home6-slider-setting.png)
+![](http://transvelo.github.io/docs/enter/images/kc-slider-setting.png)
 
 ### Row 2
 ---
-* It has Ad Block.
-* Ad Block Setting: Here i pasted a sample of Ad Block setting.
+* It has 3 columns in the ratio 33% + 33% + 33%+ 33%.
+* All the three columns has Ads Block element.
+* **Ads Block** : Here i pasted a Ads Block Setting Page image.
 
 ![](http://transvelo.github.io/docs/enter/images/kc-ads-block-setting.png)
 
 ### Row 3
 ---
 * It has Products Carousel setting
-* Products Carousel : Here i pasted a Products Carousel setting Page image.
+* **Products Carousel** : Here i pasted a Products Carousel setting Page image.
 
 ![](http://transvelo.github.io/docs/enter/images/kc-products-carousel-setting.png)
 
@@ -31,7 +32,7 @@ Home v6 of Enter is built using **King Composer**.It has 5 rows. The **King Comp
 ### Row 4
 ---
 * It has Banner setting
-* Banner : Here i pasted a Banner setting Page image.
+* **Banner** : Here i pasted a Banner setting Page image.
 
 
 ![](http://transvelo.github.io/docs/enter/images/kc-banner-setting.png)
@@ -39,7 +40,7 @@ Home v6 of Enter is built using **King Composer**.It has 5 rows. The **King Comp
 ### Row 5
 ---
 * It has Products Carousel setting
-* Products Carousel : Here i pasted a Products Carousel setting Page image.
+* **Products Carousel** : Here i pasted a Products Carousel setting Page image.
 
 ![](http://transvelo.github.io/docs/enter/images/kc-products-carousel-setting.png)
 

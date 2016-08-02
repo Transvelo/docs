@@ -9,32 +9,32 @@ Home v4 of Enter is built using **King Composer**.It has 5 rows. The **King Comp
 
 ### Row 1
 ---
-* Revolution Slider Setting : Here i pasted a Revolution Slider Setting Page image.
+* **Revolution Slider Setting** : Here i pasted a Revolution Slider Setting Page image.
 
-![](http://transvelo.github.io/docs/enter/images/home4-slider-setting.png)
+![](http://transvelo.github.io/docs/enter/images/kc-slider-setting.png)
 
 ### Row 2
 ---
-* Image Card Setting : Here i pasted a Image Card Setting Page image.
+* **Image Card Setting** : Here i pasted a Image Card Setting Page image.
 
 ![](http://transvelo.github.io/docs/enter/images/kc-image-card-setting.png)
 
 ### Row 3
 ---
-* Image Card Setting : Here i pasted a Image Card Setting Page image.
+* **Image Card Setting** : Here i pasted a Image Card Setting Page image.
 
 ![](http://transvelo.github.io/docs/enter/images/kc-image-card-setting.png)
 
 
 ### Row 4
 ---
-* Image Card Setting : Here i pasted a Image Card Setting Page image.
+* **Image Card Setting** : Here i pasted a Image Card Setting Page image.
 
 ![](http://transvelo.github.io/docs/enter/images/kc-image-card-setting.png)
 
 ### Row 5
 ---
-* Image Card Setting : Here i pasted a Image Card Setting Page image.
+* **Image Card Setting** : Here i pasted a Image Card Setting Page image.
 
 ![](http://transvelo.github.io/docs/enter/images/kc-image-card-setting.png)
 

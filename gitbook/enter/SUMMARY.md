@@ -69,6 +69,7 @@
    * [Products Cards Carousel](king_composer/products_cards_carousel.md)
    * [Products Carousel](king_composer/products_carousel.md)
    * [Quote Carousel](king_composer/quote_carousel.md)
+   * [Revolution Slider](king_composer/revolution_slider.md)
    * [Tiled Gallery](king_composer/tiled_gallery.md)
    * [Tiled Product categories](king_composer/tiled_product_categories.md)
 * [Credits](credits/README.md)
