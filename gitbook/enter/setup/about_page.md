@@ -25,7 +25,3 @@ About Page of Enter is built using **Aboutpage Template**.It has 3 rows. The **A
 * **About Page Story Setting** : Here i pasted a About Page Story Settings Page image.
 
 ![](http://transvelo.github.io/docs/enter/images/about-story-setting.png)
-
-
-
-

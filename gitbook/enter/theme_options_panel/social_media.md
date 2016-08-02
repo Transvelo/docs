@@ -17,5 +17,5 @@
 * Type your Sound Cloud profile URL here.
 * Enable / Disable RSS Feed Icon.
 
-![](http://transvelo.github.io/docs/electro/images/theme-options-social-media.png)
+![](http://transvelo.github.io/docs/enter/images/theme-options-social-media.png)
 
