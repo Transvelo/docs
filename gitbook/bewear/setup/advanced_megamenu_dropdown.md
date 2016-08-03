@@ -7,7 +7,7 @@ We built our simple Megamenu in previous section. We are now going to build a li
 * Navigate to **Static Content > Static Blocks**.
 * It should display the **"Mega-Menu-v2"** that we created from previous section.
 * Click on edit and you should see an existing text block.
-* Delete the text edit block by hovering over the block and clicking on the button which has the trash icon.
+* Delete the text edit block by hovering over the block and clicking on the button which has the close icon.
 
 ![](http://transvelo.github.io/docs/bewear/images/edit-test-megamenu-item.png)
 
@@ -25,14 +25,14 @@ We built our simple Megamenu in previous section. We are now going to build a li
 
 ### 2. Populating the Grid
 
-* **Visual Composer** comes with lot of elements that can be added to the Grid.
+* **King Composer** comes with lot of elements that can be added to the Grid.
 
 #### Row 1 has 2 columns.
 ##### Left Column
-* Column 1 - Click on the **Add** button. It should popup **Add Element** button. Let us add **WP Custom Menu** widget under **Wordpress Widgets**. I have already created a menu (via **Appearance > Menus**).
+* Column 1 - Click **Add Element** button. Let us add **Custom Menu** widget under **Widgets**. I have already created a menu (via **Appearance > Menus**).
  * **Widget Title** : COLLECTION
  * **Menu** : Menu-3 ( name of the menu created already)
-* Column 2 -  Click on the **Add** button. It should popup **Add Element** button. Let us add **WP Custom Menu** widget under **Wordpress Widgets**. I have already created a menu (via **Appearance > Menus**).
+* Column 2 -  Click **Add Element** button. Let us add **Custom Menu** widget under **Widgets**. I have already created a menu (via **Appearance > Menus**).
  * **Widget Title** : ACCESORIES
  * **Menu** : Menu-4 ( name of the menu created already)
 

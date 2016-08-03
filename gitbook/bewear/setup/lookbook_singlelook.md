@@ -1,6 +1,6 @@
 # Lookbook Singlelook
 
-Lookbook Singlelook Page of Bewear is built using **Visual Composer** with 2 rows. The **Visual Composer** Backend editor of the page look like this
+Lookbook Singlelook Page of Bewear is built using **King Composer** with 2 rows. The **King Composer** Backend editor of the page look like this
 
 ![](http://transvelo.github.io/docs/bewear/images/lookbook-singlelook-setting.png)
 
@@ -9,7 +9,7 @@ Lookbook Singlelook Page of Bewear is built using **Visual Composer** with 2 row
 * It has Lookbook Carousel with Products element.
 * **Lookbook Carousel with Products** : Here is the screenshot for Lookbook Carousel with Products setting
 
-![](http://transvelo.github.io/docs/bewear/images/lookbook-carousel-products.png)
+![](http://transvelo.github.io/docs/bewear/images/kc-lookbook-carousel-setting.png)
 
 ### Row 2
 ---

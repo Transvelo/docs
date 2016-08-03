@@ -23,10 +23,9 @@ Bewear – is a clean and modern theme with Lookbook / Collection style to inspi
 
 ### Customization Options
 
-**Bewear** can be customized easily using **Redux Framework** and **Customizer**. It has a powerful theme options panel via Redux and can easily integrate most of its options with WP's native Customizer. The theme also bundles custom tailored version of revolutionary **Visual Composer** which allows users to build various page layouts with minimum effort.
+**Bewear** can be customized easily using **Redux Framework** and **Customizer**. It has a powerful theme options panel via Redux and can easily integrate most of its options with WP's native Customizer. The theme also bundles custom tailored version of revolutionary **King Composer** which allows users to build various page layouts with minimum effort.
 
 * Fully Customizable design and layout
-* **Visual Composer** Drag-and-drop page builder bundled ( Save $34 )
 * **Revolution Slider** bundled ( Save $19 )
 * **Visual Attributes** bundled
 * Easily change look and feel

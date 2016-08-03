@@ -1,8 +1,6 @@
 # Bewear Terms
 Allows you to add shortcodes to get-terms on your page.
 
-![](http://transvelo.github.io/docs/bewear/images/vc-product-tabs-setting.png)
-
 ## Settings
 
 | Field | Type | Description | Default

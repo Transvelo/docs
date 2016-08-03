@@ -1,6 +1,6 @@
 # Megamenu Dropdown
 
-**Bewear** supports Megamenu Dropdown, with the help of two plugins that comes bundled with the theme namely :  **Visual Composer** plugin and **Bewear Extensions** plugin.
+**Bewear** supports Megamenu Dropdown, with the help of two plugins that comes bundled with the theme namely :  **King Composer** plugin and **Bewear Extensions** plugin.
 
 ## Building a megamenu dropdown item
 
@@ -10,17 +10,18 @@ A megamenu item in **Bewear** theme is a **Static Block**. This **Static Block**
 
 ![](http://transvelo.github.io/docs/bewear/images/admin-static-content.png)
 
-### 2. Enable Visual Composer for Static Block
+### 2. Enable King Composer for Static Block
 
-1. Navigate to **Settings > Visual Composer**.
-2. In **Post Types** under **Role Manager** tab , make sure **custom** is selected and **static_block** is checked.<br/>![](http://transvelo.github.io/docs/bewear/images/vc-settings.png)
-3. Go to **Static Content > Add New** and make sure it has a button just below the title with visual composer icon and text that reads **Backend Editor**.<br/>![](http://transvelo.github.io/docs/bewear/images/visual-composer-button.png)
+1. Navigate to **King Composer > Composer Settings**.
+2. In **General Settings** tab , make sure **static_block** is checked.<br/>![](http://transvelo.github.io/docs/bewear/images/vc-settings.png)
+
+3. Go to **Static Content > Add New** and make sure it has a button just below the title with **king composer**.<br/>![](http://transvelo.github.io/docs/bewear/images/king-composer-button.png)
 
 ### 3. Add a new megamenu item
 
 1. Navigate to **Static Content > Add New**.
 2. Give it a title, lets say **"Mega-Menu-v2"** item. The title is not used anywhere in displaying the menu.
-3. Click on **Backend Editor**. It will display Visual Composer Backend Editor. We will use this back end editor to build our megamenu item.
+3. Click on **King Composer**. It will display **Browse Icon**.
 ![](http://transvelo.github.io/docs/bewear/images/test-megamenu-item.png)
 
 4. Let us add a simple text block. Click on **Add text block** button and the result will look like this.<br/>![](http://transvelo.github.io/docs/bewear/images/add-text-block.png)

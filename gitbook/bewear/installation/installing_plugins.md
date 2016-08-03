@@ -22,8 +22,6 @@ The following is the list of plugins in alphabetical order that are recommended 
 
 * **[QueryLoop Visual Attributes](http://demo.queryloop.com/visual-attributes/)** — Visual Attributes is a WooCommerce extension that replaces the standard dropdowns for attributes in variable products with images, icons or color swatches.
 
-* **[WPBakery Visual Composer](http://codecanyon.net/item/visual-composer-page-builder-for-wordpress/242431)** - This is a drag and drop frontend and backend page builder plugin that will save you tons of time working on the site content. This is a premium plugin and comes bundled with your theme.
-
 * **[Features](https://wordpress.org/plugins/features-by-woothemes/)** - Load in the features your product, company or services offers, and display them via a shortcode, widget or template tag on your website.
 
 * **[Our Team](https://wordpress.org/plugins/our-team-by-woothemes/)** - Load in your team members and display their profiles via a shortcode, widget or template tag on your website.

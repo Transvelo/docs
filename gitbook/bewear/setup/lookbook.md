@@ -1,6 +1,6 @@
 # Lookbook
 
-Lookbook Page of Bewear is built using **Visual Composer** with 1 row. The **Visual Composer** Backend editor of the page look like this
+Lookbook Page of Bewear is built using **King Composer** with 1 row. The **King Composer** Backend editor of the page look like this
 
 ![](http://transvelo.github.io/docs/bewear/images/lookbook-setting.png)
 
