@@ -30,6 +30,5 @@ Once you had downloaded the package from ThemeForest, you can find the dummy dat
 * For **Front Page** choose **Home** and for **Blog Page** choose **Blog**.
 * Now Navigate to **WooCommerce > Settings** and click on **Product** tab.
 * Choose **Shop** page for **Product Archive/Shop Page** option.
-* Navigate to **Enter > Shop ** Tab, scroll down to **Shop Comparison** page.
-* Choose **Compare** page and click on **Save Changes**.
+
 

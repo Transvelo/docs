@@ -4,7 +4,7 @@
 
 ## Enter Elements
 
-There are 14 additional elements that are made available via **Enter Extensions** plugin.They are :
+There are 15 additional elements that are made available via **Enter Extensions** plugin.They are :
 
 1. [Ad Block](ad_block.md)
 2. [Banner Fullwidth](banner_fullwidth.md)
@@ -20,6 +20,7 @@ There are 14 additional elements that are made available via **Enter Extensions*
 12.[Quote Carousel](quote_carousel.md)
 13.[Tiled Gallery](tiled_gallery.md)
 14.[Tiled Product categories](tiled_product_categories.md)
+14.[Revolutions Slider](revolution_slider.md)
 
 
 ![](http://transvelo.github.io/docs/enter/images/king-composer-enter-elements.png)

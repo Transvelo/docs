@@ -34,7 +34,7 @@ Enter has 12 Page templates and they are :
 9. **Homepage v6 Template** - This template will dislay **Home v6** page.
 10.**Homepage v7 Template** - This template will dislay **Home v7** page.
 11.**Homepage v8 Template** - This template will dislay **Home v8** page.
-12.*Homepage v9 Template** - This template will dislay **Home v9** page.
+12.**Homepage v9 Template** - This template will dislay **Home v9** page.
 
 ### Enter Page Options Meta Box
 

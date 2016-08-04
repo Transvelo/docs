@@ -6,7 +6,6 @@
 
 * Enable / Disable the Catalog Mode.
 * Choose a Product Attribute that will be used as Brands.
-* Set Shop Comparison Page as Compare.
 
 #### Shop/Catalog Pages
 

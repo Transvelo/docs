@@ -7,7 +7,7 @@ We built our simple Megamenu in previous section. We are now going to build a li
 * Navigate to **Static Content > Static Blocks**.
 * It should display the **"Megamenu"** that we created from previous section.
 * Click on edit and you should see an existing text block.
-* Delete the text edit block by hovering over the block and clicking on the button which has the trash icon.
+* Delete the text edit block by hovering over the block and clicking on the button which has the close icon.
 
 ![](http://transvelo.github.io/docs/enter/images/edit-test-megamenu-item.png)
 
@@ -30,16 +30,16 @@ We built our simple Megamenu in previous section. We are now going to build a li
 #### Row 1 has 4 columns.
 * Column 1 - Click on the **Add Element** button. It should popup **Add Element** button. Let us add **Custom Menu** widget under **Widgets**. I have already created a menu (via **Appearance > Menus**).
  * **Widget Title** : Clothes
- * **Select Menu** : Menu 1 ( name of the menu created already)
+ * **Select Menu** : Megamenu 1 ( name of the menu created already)
 * Column 2 -  Click on the **Add Element** button. It should popup **Add Element** button. Let us add **Custom Menu** widget under **Widgets**. I have already created a menu (via **Appearance > Menus**).
  * **Widget Title** :
- * **Select Menu** : Menu 2 ( name of the menu created already)
+ * **Select Menu** : Megamenu 2 ( name of the menu created already)
 * Column 3 -  Click on the **Add Element** button. It should popup **Add Element** button. Let us add **Custom Menu** widget under **Widgets**. I have already created a menu (via **Appearance > Menus**).
  * **Widget Title** :
- * **Select Menu** : Menu 3 ( name of the menu created already)
+ * **Select Menu** : Megamenu 3 ( name of the menu created already)
 * Column 4 -  Click on the **Add Element** button. It should popup **Add Element** button. Let us add **Custom Menu** widget under **Widgets**. I have already created a menu (via **Appearance > Menus**).
  * **Widget Title** :
- * **Select Menu** : Menu 4 ( name of the menu created already)
+ * **Select Menu** : Megamenu 4 ( name of the menu created already)
 
 ### 3. How does the Grid look after populating ?
 

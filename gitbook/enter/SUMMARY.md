@@ -53,6 +53,7 @@
    * [Footer](theme_options_panel/footer.md)
    * [Shop](theme_options_panel/shop.md)
    * [Blog](theme_options_panel/blog.md)
+   * [Navigation](theme_options_panel/navigation)
    * [Typography](theme_options_panel/typography.md)
    * [Custom Code](theme_options_panel/custom_code.md)
    * [Social Media](theme_options_panel/social_media.md)
