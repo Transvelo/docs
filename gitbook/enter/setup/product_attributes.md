@@ -24,7 +24,7 @@ Here you can use attribute for Brands with terms like : Frank, Sams, John, Origi
 
 Here you can use attribute for Colors with terms like : Black, Blue, Green, Red, Yellow etc.,
 
-![](http://transvelo.github.io/docs/electro/images/color-attribute.png)
+![](http://transvelo.github.io/docs/enter/images/color-attribute.png)
 
 
 

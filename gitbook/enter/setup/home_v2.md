@@ -35,5 +35,5 @@ Home v2 of Enter is built using **Homepage v2**.It has 1 row. The **Homepage v2*
 * It has Slider element.
 * **Slider Setting** : Here is the screenshot for Slider setting
 
-![](http://transvelo.github.io/docs/electro/images/home-v2-slider-setting.png)
+![](http://transvelo.github.io/docs/enter/images/home-v2-slider-setting.png)
 
