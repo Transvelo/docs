@@ -5,12 +5,11 @@
 
 #### Primary Navigation
 
-* Set a Dropdown Style for Primary Navigation.
 * Set a Dropdown Trigger for Primary Navigation.
-* Set a Dropdown Animation for Primary Navigation.
-* Enable / Disable the Show Dropdown Indicator.
+* Set a Dropdown Trigger for Secondary Navigation.
+* Set a Dropdown Trigger for Top Bar Navigation.
 
-![](http://transvelo.github.io/docs/mybag/images/theme-options-navigation.png)
+![](http://transvelo.github.io/docs/enter/images/theme-options-navigation.png)
 
 
 
