@@ -1,6 +1,6 @@
 # King Composer
 
-**King Composer**  is the most professional WordPress page builder plugin it comes bundled with the theme. It provides 40+ elements that can be easily added to your page. In addition to extending functionalities of existing elements, **Bewear** theme has added 12 additional elements. With this set of elements, you will be able to create unlimited varities of pages.
+**King Composer**  is the most professional WordPress page builder plugin it comes bundled with the theme. It provides 40+ elements that can be easily added to your page. In addition to extending functionalities of existing elements, **Bewear** theme has added 13 additional elements. With this set of elements, you will be able to create unlimited varities of pages.
 
 ## Bewear Elements
 

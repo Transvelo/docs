@@ -11,13 +11,14 @@
 
 <div class="alert alert-info">**Deep Diving** : Since creating and editing pages requires basic WordPress knowledge, we won’t cover it in detail. If you’re new to WordPress, you may find the following resource valuable: [Creating and Editing Pages](http://blip.tv/wptuts/05_creating-and-editing-pages-5452398).</div>
 
-### Visual Composer
+### King Composer
 
-![](http://transvelo.github.io/docs/bewear/images/vc-backend-editor.png)
+![](http://transvelo.github.io/docs/bewear/images/kc-backend-editor.png)
 
-Visual Composer is drag and drop frontend and backend page builder plugin that will save you tons of time working on the site content. You will be able to take full control over your WordPress site, build any layout you can imagine – no programming knowledge required. Moreover, now you can choose either work on a backend or move your page building process to frontend and instantly see changes you make.
+King Composer is drag and drop frontend and backend page builder plugin that will save you tons of time working on the site content. You will be able to take full control over your WordPress site, build any layout you can imagine – no programming knowledge required. Moreover, now you can choose either work on a backend or move your page building process to frontend and instantly see changes you make.
 
-It has **40+ predefined elements** that you can add to your pages. Bewear Theme has added 13 exclusive Bewear Elements to the Visual Composer and has also extended the functionality of existing Visual Composer Elements.
+It has **40+ predefined elements** that you can add to your pages. Bewear Theme has added 13 exclusive Bewear Elements to the King Composer and has also extended the functionality of existing King Composer Elements.
+
 
 ### Page Templates
 

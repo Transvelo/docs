@@ -6,7 +6,7 @@
 
 1. Navigate to **Pages > Add New **.
 2. In the **Page Attributes**, select on of the available templates in the dropdown.
-3. Start adding content in the text editor or use the "**Back-End editor**" to build pages using the built-in drag and drop visual composer.
+3. Start adding content in the text editor or use the "**Back-End editor**" to build pages using the built-in drag and drop king composer.
 4. Use **Enter Page Attributes** metabox if required.
 
 <div class="alert alert-info">**Deep Diving** : Since creating and editing pages requires basic WordPress knowledge, we won’t cover it in detail. If you’re new to WordPress, you may find the following resource valuable: [Creating and Editing Pages](http://blip.tv/wptuts/05_creating-and-editing-pages-5452398).</div>

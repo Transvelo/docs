@@ -8,7 +8,7 @@ Allows you to add jumbotron on your page.
 
 | Field | Type | Description | Default
 | -- | -- | -- | -- |
-| **Title** | Text |  Enter title. | Shop by Category
+| **Title** | Text |  Enter title. | New Arrivals
 | **Sub Title** | Text |  Enter the sub title. | Pick up category you are interested in.
 | **Image** | Upload | Upload image.|none
 
