@@ -1,6 +1,6 @@
 # Static Content
 
-Static Content of Bewear is built using **Visual Composer**. Before creating Static Blocks, make sure **static_block** is enable in **Visual Composer > Role Manager**.
+Static Content of Bewear is built using **King Composer**. Before creating Static Blocks, make sure **static_block** is enable in **King Composer > Composer Setting**.
 <br/>![](http://transvelo.github.io/docs/bewear/images/vc-settings.png)
 
 Static Content creates the following static blocks
