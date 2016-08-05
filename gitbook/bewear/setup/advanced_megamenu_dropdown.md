@@ -1,6 +1,6 @@
 # Advanced Megamenu Dropdown
 
-We built our simple Megamenu in previous section. We are now going to build a little complex mega menu using **Visual Composer**.
+We built our simple Megamenu in previous section. We are now going to build a little complex mega menu using **King Composer**.
 
 ## Revisiting Test Megamenu Item Static Block
 
