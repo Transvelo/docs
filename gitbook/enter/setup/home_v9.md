@@ -1,6 +1,6 @@
 # Home v9
 
-Home v9 of Enter is built using **Homepage v9**.It has 4 rows. The **Homepage v9** Backend editor of the page look like this
+Home v9 of Enter is built using **Homepage v9**.It has 6 rows. The **Homepage v9** Backend editor of the page look like this
 
 ![](http://transvelo.github.io/docs/enter/images/home-v9-setting.png)
 
@@ -33,12 +33,19 @@ Home v9 of Enter is built using **Homepage v9**.It has 4 rows. The **Homepage v9
 
 ### Row 1
 ---
-* It has Tiled Gallery element.
-* **Tiled Gallery Setting** : Here is the screenshot for Tiled Gallery setting
+* It has Slider element.
+* **Slider Setting** : Here is the screenshot for Slider setting
 
-![](http://transvelo.github.io/docs/enter/images/home9-tiled-gallery-setting.png)
+![](http://transvelo.github.io/docs/enter/images/home9-slider-setting.png)
 
 ### Row 2
+---
+* It has Banners element.
+* **Banners Settings** : Here is the screenshot for Banners setting
+
+![](http://transvelo.github.io/docs/enter/images/home9-banners-setting.png)
+
+### Row 3
 ---
 * It has Product Carousel element.
 * **Product Carousel Settings** : Here is the screenshot for Product Carousel setting
@@ -46,19 +53,24 @@ Home v9 of Enter is built using **Homepage v9**.It has 4 rows. The **Homepage v9
 ![](http://transvelo.github.io/docs/enter/images/product-carousel-setting.png)
 
 
-### Row 3
----
-* It has Post and Product element.
-* **Post and Product Settings** : Here is the screenshot for Post and Product setting
-
-![](http://transvelo.github.io/docs/enter/images/home9-post-product-setting.png)
-
 ### Row 4
 ---
-* It has Brand and Banner element.
-* **Brand and Banner Settings** : Here is the screenshot for Brand and Banner setting
+* It has Banner element.
+* **Banner Settings** : Here is the screenshot for Banner setting
 
-![](http://transvelo.github.io/docs/enter/images/home9-brand-banner-setting.png)
+![](http://transvelo.github.io/docs/enter/images/home9-banner-setting.png)
+
+### Row 5
+---
+* It has Product List element.
+* **Product List Settings** : Here is the screenshot for Product List setting
+
+![](http://transvelo.github.io/docs/enter/images/home9-product-list-setting.png)
 
 
+### Row 6
+---
+* It has Brands element.
+* **Brands Settings** : Here is the screenshot for Brands setting
 
+![](http://transvelo.github.io/docs/enter/images/home9-brands-setting.png)

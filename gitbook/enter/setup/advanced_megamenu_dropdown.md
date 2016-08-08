@@ -18,7 +18,7 @@ We built our simple Megamenu in previous section. We are now going to build a li
 * Our Complex Megamenu item will now have 4 columns.
 * On the top-right of each row, you will find a grid icon, next to the Publish/ Unpublish icon.
 * Click on the grid icon and it will expand to various grid option available.
-* We will select a predefined grid which is 1/4 + 1/4 + 1/4 + 1/4.
+* We will select a predefined grid which is 25% + 25% + 25% + 25%.
 * Once you click on the predefined grid layout it will look like this :<br/>![](http://transvelo.github.io/docs/enter/images/kc-four-col-grid-on-selection.png)
 
 
@@ -29,17 +29,17 @@ We built our simple Megamenu in previous section. We are now going to build a li
 
 #### Row 1 has 4 columns.
 * Column 1 - Click on the **Add Element** button. It should popup **Add Element** button. Let us add **Custom Menu** widget under **Widgets**. I have already created a menu (via **Appearance > Menus**).
- * **Widget Title** : Clothes
- * **Select Menu** : Megamenu 1 ( name of the menu created already)
+ * **Widget Title** : Shop
+ * **Select Menu** : mega-menu-1  ( name of the menu created already)
 * Column 2 -  Click on the **Add Element** button. It should popup **Add Element** button. Let us add **Custom Menu** widget under **Widgets**. I have already created a menu (via **Appearance > Menus**).
- * **Widget Title** :
- * **Select Menu** : Megamenu 2 ( name of the menu created already)
+ * **Widget Title** : Shop Columns
+ * **Select Menu** : mega-menu-2 ( name of the menu created already)
 * Column 3 -  Click on the **Add Element** button. It should popup **Add Element** button. Let us add **Custom Menu** widget under **Widgets**. I have already created a menu (via **Appearance > Menus**).
- * **Widget Title** :
- * **Select Menu** : Megamenu 3 ( name of the menu created already)
+ * **Widget Title** : Blog
+ * **Select Menu** : mega-menu-3 ( name of the menu created already)
 * Column 4 -  Click on the **Add Element** button. It should popup **Add Element** button. Let us add **Custom Menu** widget under **Widgets**. I have already created a menu (via **Appearance > Menus**).
- * **Widget Title** :
- * **Select Menu** : Megamenu 4 ( name of the menu created already)
+ * **Widget Title** : Others
+ * **Select Menu** : mega-menu-4 ( name of the menu created already)
 
 ### 3. How does the Grid look after populating ?
 

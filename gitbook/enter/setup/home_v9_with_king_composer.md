@@ -1,6 +1,6 @@
 # Home v9 with King Composer
 
-Home v9 of Enter is built using **King Composer**.It has 4 rows. The **King Composer** Backend editor of the page look like this
+Home v9 of Enter is built using **King Composer**.It has 6 rows. The **King Composer** Backend editor of the page look like this
 
 ![](http://transvelo.github.io/docs/enter/images/kc-homev9-setting.png)
 
@@ -9,42 +9,44 @@ Home v9 of Enter is built using **King Composer**.It has 4 rows. The **King Comp
 
 ### Row 1
 ---
-* Tiled gallery Setting : Here i pasted a Tiled gallery Setting Page image.
+* **Slider** Setting : Here i pasted a Slider Setting Page image.
 
-![](http://transvelo.github.io/docs/enter/images/kc-tiled-gallery-setting.png)
-
+![](http://transvelo.github.io/docs/enter/images/kc-slider-setting.png)
 
 ### Row 2
 ---
-* It has Product Carousel setting
-* Product Carousel : Here i pasted a Product Carousel setting Page image.
+* It has two columns in the ratio 50% + 50%.
+* Both the columns has Banners setting
+* **Banners** : Here i pasted a Banners setting Page image.
 
-![](http://transvelo.github.io/docs/enter/images/kc-products-carousel-setting.png)
+![](http://transvelo.github.io/docs/enter/images/kc-banner-setting.png)
 
 ### Row 3
 ---
-* Row 3 has two columns in the ratio 6/12 + 6/12.
-* Column 1 has Post Carousel setting
-* Post Carousel : Here i pasted a Post Carousel setting Page image.
-
-![](http://transvelo.github.io/docs/enter/images/kc-post-carousel-setting.png)
-
-* Column 2 has Products Carousel setting
-* Products Carousel : Here i pasted a Products Carousel setting Page image.
+* It has Product Carousel setting
+* **Product Carousel** : Here i pasted a Product Carousel setting Page image.
 
 ![](http://transvelo.github.io/docs/enter/images/kc-products-carousel-setting.png)
 
-
 ### Row 4
 ---
-* Row 4 has two columns in the ratio 6/12 + 6/12.
-* Column 1 has Brands setting
-* Brands : Here i pasted a Brands setting Page image.
-
-![](http://transvelo.github.io/docs/enter/images/kc-brands-carousel-setting.png)
-
-* Column 2 has Banner setting
-* Banner : Here i pasted a Banner setting Page image.
+* It has Banner setting
+* **Banner** : Here i pasted a Banner setting Page image.
 
 ![](http://transvelo.github.io/docs/enter/images/kc-banner-setting.png)
+
+
+### Row 5
+---
+* It has Product List setting
+* **Product List** : Here i pasted a Product List setting Page image.
+
+![](http://transvelo.github.io/docs/enter/images/kc-products-cards-carousel-setting.png)
+
+### Row 6
+---
+* It has Brands setting
+* **Brands** : Here i pasted a Brands setting Page image.
+
+![](http://transvelo.github.io/docs/enter/images/kc-brands-carousel-setting.png)
 
