@@ -47,6 +47,7 @@
        * [Cart](setup/cart.md)
        * [Checkout](setup/checkout.md)
        * [My Account](setup/my_account.md)
+   * [Subscribe PopUp Modal](setup/subscribe_popup_modal.md)
 * [Theme Options Panel](theme_options_panel/README.md)
    * [General](theme_options_panel/general.md)
    * [Header](theme_options_panel/header.md)

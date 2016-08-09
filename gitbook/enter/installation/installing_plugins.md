@@ -23,7 +23,7 @@ The following is the list of plugins in alphabetical order that are recommended 
 * ** Enter Extensions ** - This is a custom plugin built by Transvelo. Keeping in mind the plugin territory recommendations by ThemeForest we had implemented custom shortcodes and taxonomies functionalities into a separate plugin. This plugin also contains the King Composer extensions added by us.
 
 * **[WooCommerce](https://wordpress.org/plugins/woocommerce/)** — WooCommerce is a powerful, extendable eCommerce plugin that helps you sell anything. Beautifully.
-* 
+*
 * **[WooCommerce Quantity Increment](https://wordpress.org/plugins/woocommerce-quantity-increment/)** — Allows you to add quantity button.
 
 * **[YITH WooCommerce Wishlist](https://wordpress.org/plugins/yith-woocommerce-wishlist/)** — Allows you to add Wishlist functionality to your shop.
