@@ -5,7 +5,7 @@
         
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=11; IE=10; IE=9; IE=8; IE=7; IE=EDGE" />
-        <title>The Theme | Theme Documentation</title>
+        <title>Subscribe PopUp Modal | Theme Documentation</title>
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="">
         <meta name="generator" content="GitBook 1.5.0">
@@ -19,10 +19,10 @@
         
     
     
-    <link rel="next" href="../installation/README.html" />
+    <link rel="next" href="../theme_options_panel/README.html" />
     
     
-    <link rel="prev" href="../what_do_you_get/README.html" />
+    <link rel="prev" href="../setup/my_account.html" />
     
 
         
@@ -34,7 +34,7 @@
 
 
         
-    <div class="book" data-level="2" data-basepath=".." data-revision="1470731838053">
+    <div class="book" data-level="5.9" data-basepath=".." data-revision="1470731838053">
     
 
 <div class="book-summary">
@@ -82,7 +82,7 @@
         </li>
     
         
-        <li class="chapter active" data-level="2" data-path="the_theme/README.html">
+        <li class="chapter " data-level="2" data-path="the_theme/README.html">
             
                 
                     <a href="../the_theme/README.html">
@@ -839,7 +839,7 @@
         </li>
     
         
-        <li class="chapter " data-level="5.9" data-path="setup/subscribe_popup_modal.html">
+        <li class="chapter active" data-level="5.9" data-path="setup/subscribe_popup_modal.html">
             
                 
                     <a href="../setup/subscribe_popup_modal.html">
@@ -1392,44 +1392,91 @@
                 <div class="page-inner">
                 
                 
-                    <section class="normal" id="section-gitbook_153">
+                    <section class="normal" id="section-gitbook_150">
                     
-                        <h1 id="the-theme">The Theme</h1>
-<p>Here is a quick look about the theme and its features.</p>
-<h2 id="general-features">General Features</h2>
-<p>Enter – is a clean and functional Ecommerce theme, perfect for your online fashion stores.</p>
+                        <h1 id="subscribe-popup-modal">Subscribe PopUp Modal</h1>
+<p>Here is the link for Wordpress PopUp plugin</p>
 <ul>
-<li><strong>Easy Installation</strong> and <strong>Setup</strong></li>
-<li><strong>Free Updates</strong> and <strong>one to one support</strong></li>
-<li>Comes with importable Dummy Data</li>
-<li>Built on <strong>Bootstrap 4</strong></li>
-<li><strong>Cross-Browser</strong> compatible ( Chrome/Firefox/IE9+/Safari)</li>
-<li><strong>SASS</strong> Files included</li>
-<li><strong>Clean code</strong> providing high level of customization using filters and actions.</li>
-<li>Can be <strong>Optimized</strong> easily for high speed performance.</li>
-<li><strong>5 Different Headers</strong></li>
-<li><strong>2 Different Footers</strong></li>
-<li><strong>Responsive Megamenu</strong></li>
-<li><strong>4 WooCommerce Pages</strong></li>
-<li><strong>13 Pre Built Pages</strong></li>
-<li><strong>Boxed</strong> and <strong>Stretched</strong> Layouts</li>
-<li>Support for <strong>post formats</strong> and <strong>post thumbnails</strong></li>
+<li><strong><a href="https://wordpress.org/plugins/wordpress-popup/" target="_blank">Wordpress PopUp</a></strong> — Allows you to create unlimited number of popups with different looks and configurations.</li>
 </ul>
-<h3 id="customization-options">Customization Options</h3>
-<p><strong>Enter</strong> can be customized easily using <strong>Redux Framework</strong> and <strong>Customizer</strong>. It has a powerful theme options panel via Redux and can easily integrate most of its options with WP&#39;s native Customizer. The theme also bundles custom tailored version of revolutionary <strong>King Composer</strong> which allows users to build various page layouts with minimum effort.</p>
-<ul>
-<li>Fully Customizable design and layout</li>
-<li><strong>Revolution Slider</strong> bundled ( Save $19 )</li>
-<li><strong>Visual Attributes</strong> bundled</li>
-<li>Easily change look and feel</li>
-<li>Lots of Shortcodes and custom King Composer Elements to work with</li>
-<li><strong>Translation Ready</strong> - comes with .pot file which can be easily translated using a poEditor.</li>
-<li><strong>WPML Ready</strong> - can be easily translated</li>
-<li>Integrated with <strong>Google Fonts</strong></li>
-<li>Integrated with <strong>Font Awesome</strong> icons</li>
-<li>Ability to include <strong>Custom CSS</strong></li>
-</ul>
+<p>After installing the plugin please navigate to <strong>PopUp</strong> &gt; <strong>Add New</strong> &gt; <strong>Main PopUp Content</strong> here paste this following code in Text Mode format</p>
+<h2 id="the-html-code">The Html Code</h2>
+<pre><code>&lt;div class=&quot;row body-content&quot;&gt;
+&lt;div class=&quot;col-xs-12 col-md-5 left-content&quot;&gt;
+&lt;h2 class=&quot;text&quot;&gt;Be the first to &lt;strong&gt;Know about new arrivals&lt;/strong&gt;&lt;/h2&gt;&lt;/div&gt;
+&lt;div class=&quot;col-xs-12 col-md-6 right-content&quot;&gt;
+&lt;div class=&quot;subscribe-and-connect&quot;&gt;
+&lt;div class=&quot;newsletter&quot;&gt;
+&lt;h4 class=&quot;newsletter-title&quot;&gt;Subscribe&lt;/h4&gt;
+&lt;form&gt;
+&lt;div class=&quot;newsletter-form&quot;&gt;
+&lt;div class=&quot;input-group&quot;&gt;&lt;input class=&quot;form-control&quot; type=&quot;text&quot; placeholder=&quot;Enter your email address&quot; /&gt;&lt;span class=&quot;input-group-btn&quot;&gt;&lt;button class=&quot;btn btn-primary&quot; type=&quot;button&quot;&gt;Sign Up&lt;/button&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/form&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</code></pre><h2 id="the-css-code">The CSS Code</h2>
+<p>Paste this following css in Custom CSS which is below the Main PopUp Content</p>
+<pre><code>#popup .wdpu-text,
+#popup .wdpu-msg {
+    background: #1c1c1c;
+    font-family: Lato;
+}
+#popup .wdpu-text {
+    padding: 0;
+}
 
+#popup .wdpu-msg {
+    max-width: 1141px;
+}
+#popup h2.text{
+    color: #f6f6f6;
+    font-size: 72px;
+    font-weight: 300;
+    line-height: 60px;
+    text-transform: uppercase;
+    padding-right: 15%;
+    margin-bottom: 10px;
+}
+
+#popup .body-content {
+    padding: 70px 90px;
+}
+
+#popup .subscribe-and-connect h4.newsletter-title {
+font-size: 19px;
+color: #c9c9c9;
+vertical-align: middle;
+margin-right: 32px;
+font-family: &#39;Open Sans&#39;, sans-serif;
+line-height: 36px;
+display: inline-block;
+font-weight: 400;
+margin-bottom: 0;
+}
+
+#popup .subscribe-and-connect form {
+    display: inline-block;
+    margin: 0;vertical-align: middle;
+}
+
+#popup .wdpu-inner {
+    overflow: visible;
+}
+
+#popup .left-content,
+#popup .right-content {
+    display: table-cell;
+    vertical-align: middle;
+    float: none;
+}
+
+#popup .subscribe-and-connect {
+     padding-right: 80px;
+    text-align: right;
+}
+</code></pre>
                     
                     </section>
                 
@@ -1439,10 +1486,10 @@
         </div>
 
         
-        <a href="../what_do_you_get/README.html" class="navigation navigation-prev " aria-label="Previous page: What do you get ?"><i class="fa fa-angle-left"></i></a>
+        <a href="../setup/my_account.html" class="navigation navigation-prev " aria-label="Previous page: My Account"><i class="fa fa-angle-left"></i></a>
         
         
-        <a href="../installation/README.html" class="navigation navigation-next " aria-label="Next page: Installation"><i class="fa fa-angle-right"></i></a>
+        <a href="../theme_options_panel/README.html" class="navigation navigation-next " aria-label="Next page: Theme Options Panel"><i class="fa fa-angle-right"></i></a>
         
     </div>
 </div>
