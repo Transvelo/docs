@@ -7,7 +7,6 @@
 * [WooCommerce](http://www.woothemes.com/woocommerce/) by WooThemes
 * [Our Team](https://wordpress.org/plugins/our-team-by-woothemes/) by WooThemes
 * [Slider Revolution](http://themepunch.com/revolution/) by ThemePunch
-* [Visual Composer](http://vc.wpbakery.com/) by WPBakery
 * [YITH WooCommerce Wishlist](https://wordpress.org/plugins/yith-woocommerce-wishlist/) by yithemes
 * [YITH WooCommerce Compare](https://wordpress.org/plugins/yith-woocommerce-compare/) by yithemes
 * [Contact Form 7](http://contactform7.com/) by Takayuki Miyoshi

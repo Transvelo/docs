@@ -6,7 +6,7 @@
 * [Wordpress](https://wordpress.org/) by WordPress.org.
 * [WooCommerce](http://www.woothemes.com/woocommerce/) by WooThemes
 * [Slider Revolution](http://themepunch.com/revolution/) by ThemePunch
-* [Visual Composer](http://vc.wpbakery.com/) by WPBakery
+* [King Composer](https://wordpress.org/plugins/kingcomposer/) by kingthemes
 * [YITH WooCommerce Wishlist](https://wordpress.org/plugins/yith-woocommerce-wishlist/) by yithemes
 * [Contact Form 7](http://contactform7.com/) by Takayuki Miyoshi
 * [Envato Toolkit](https://github.com/envato/envato-wordpress-toolkit/)

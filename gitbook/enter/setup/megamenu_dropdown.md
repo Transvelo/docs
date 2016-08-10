@@ -14,7 +14,7 @@ A megamenu item in **Enter** theme is a **Static Block**. This **Static Block** 
 
 1. Navigate to **King Composer > Composer Settings **.
 2. In **General Settings** tab , make sure **static_block** is checked.<br/>![](http://transvelo.github.io/docs/enter/images/kc-settings.png)
-3. Go to **Static Content > Add New** and make sure it has a button just below the title with king composer icon and text that reads **Backend Editor**.<br/>![](http://transvelo.github.io/docs/enter/images/king-composer-button.png)
+3. Go to **Static Content > Add New** and make sure it has a button just below the title with king composer icon and text that reads **King *Composer*.<br/>![](http://transvelo.github.io/docs/enter/images/king-composer-button.png)
 
 ### 3. Add a new megamenu item
 
@@ -36,7 +36,7 @@ A megamenu item in **Enter** theme is a **Static Block**. This **Static Block** 
 6. Drag the **Megamenu** box and drop it under any existing menu as a submenu.<br/>
 ![](http://transvelo.github.io/docs/enter/images/static-block-submenu.png)
 7. Click on **Save Menu**.
-8. Now the megamenu will is added as a submenu.
+8. Now the megamenu item is added as a submenu.
 
 <div class="alert alert-danger">**Alert :** Please do not use **Static Content Block** as a top level menu item or as submenu menu item beyond level 1. Do not use other menu items with **Static Content Block** menu item.</div>
 

@@ -17,7 +17,7 @@
 
 King Composer is drag and drop frontend and backend page builder plugin that will save you tons of time working on the site content. You will be able to take full control over your WordPress site, build any layout you can imagine – no programming knowledge required. Moreover, now you can choose either work on a backend or move your page building process to frontend and instantly see changes you make.
 
-It has **40+ predefined elements** that you can add to your pages. Enter Theme has added 15 exclusive Enter Elements to the King Composer and has also extended the functionality of existing King Composer Elements.
+It has **40+ predefined elements** that you can add to your pages. Enter Theme has added 14 exclusive Enter Elements to the King Composer and has also extended the functionality of existing King Composer Elements.
 
 ### Page Templates
 
