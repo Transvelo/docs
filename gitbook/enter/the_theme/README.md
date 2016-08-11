@@ -9,7 +9,7 @@ Enter – is a clean and functional Ecommerce theme, perfect for your online fas
 * **Easy Installation** and **Setup**
 * **Free Updates** and **one to one support**
 * Comes with importable Dummy Data
-* Built on **Bootstrap 4**
+* Built on **Bootstrap 3**
 * **Cross-Browser** compatible ( Chrome/Firefox/IE9+/Safari)
 * **SASS** Files included
 * **Clean code** providing high level of customization using filters and actions.
