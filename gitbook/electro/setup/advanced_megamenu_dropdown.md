@@ -101,3 +101,22 @@ The megamenu now looks advanced and neat. What if we want the megamenu to be ful
 
 ![](http://transvelo.github.io/docs/electro/images/highlight-menu-output.png)
 
+### 11. Adding Class Name for Single Image which extend outside of the yamm content in Vertical Menu
+
+1. Navigate to Static Content > Add New.
+2. Give it a title, lets say "**Mobiles & Tablets Megamenu Item**". The title is not used anywhere in displaying the menu.
+3. Click on Backend Editor. It will display Visual Composer Backend Editor. We will use this back end editor to build our Mobiles & Tablets Megamenu Item.
+4. **Mobiles & Tablets Megamenu** Item has 2 rows.
+5. First row has **Single Image** Setting. Here is the screeshot for **Single Image Setting**.
+![](http://transvelo.github.io/docs/electro/images/static-block-image-setting.png)
+6.On the Row settings of the Single Image Block, add the class name **bg-yamm-content** in
+Extra Class Name option. Here is the screenshot for your refenece
+![](http://transvelo.github.io/docs/electro/images/single-image-row-setting.png)
+7. In Single Image Setting upload the image and remember to add the class name **bg-yamm-extend-outside** in Extra Class Name Option which makes the image to extend outside of the Menu Container
+Here is the screenshot for the reference
+![](http://transvelo.github.io/docs/electro/images/single-image-class-name-setting.png)
+
+### 12. Output of Single Image which locate in outside of the yamm content in Vertical Menu
+![](http://transvelo.github.io/docs/electro/images/image-extend-outside.png)
+
+
