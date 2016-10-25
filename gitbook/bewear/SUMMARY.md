@@ -12,6 +12,7 @@
    * [General](setup/general.md)
        * [Header](setup/header.md)
        * [Footer](setup/footer.md)
+       * [Logo and Favicon](setup/logo_and_favicon)
    * [Adding Products](setup/adding_products.md)
        * [Product Attributes](setup/product_attributes.md)
    * [Product Archive/Shop Page](setup/product_archiveshop_page.md)
