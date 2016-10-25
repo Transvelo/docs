@@ -1,16 +1,7 @@
 # Logo and Favicon
 
-To set the logo for your website, please use the **Bewear** page. By default, Bewear theme logo is loaded.
+Logo and Favicon are now part of Wordpress and does not require Theme Options. Please navigate to Appearance > Customize > Site Identity.
 
-<div class="alert alert-info">**Recommendation**: We recommend a png file for logo which has a transparent background. The recommended resolution of logo is : **152x51 pixels**.</div>
+![](http://transvelo.github.io/docs/bewear/images/customize.png)
 
-Follow the steps to setup the logo and favicon for your website.
-
-1. Navigate to **Bewear** page.
-2. Select **Header** tab.
-3. In **Your Logo** option, click on **upload** button to launch Wordpress Media Library. Choose an existing media file or upload a new media file.
-4. Click on **Save Changes** button to save the logo.
-
-![](http://transvelo.github.io/docs/bewear/images/theme-option-logo.png)
-
-
+![](http://transvelo.github.io/docs/bewear/images/logo-favicon.png)
