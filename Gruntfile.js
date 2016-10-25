@@ -14,6 +14,7 @@ module.exports = function( grunt ) {
 			enter: 'gh-pages/enter/',
 			mediacenter: 'gh-pages/mediacenter/',
 			mybag: 'gh-pages/mybag/',
+			pizzaro: 'gh-pages/pizzaro/',
 			playhouse: 'gh-pages/playhouse/',
 			sportexx: 'gh-pages/sportexx/',
 			unicase: 'gh-pages/unicase/',
@@ -49,6 +50,11 @@ module.exports = function( grunt ) {
 			mybag: {
 				files: [
 					{ expand: true, cwd: 'gitbook/mybag/_book/', src: ['**','!.*','!.*/**','.htaccess','!Gruntfile.js','!README.md','!package.json','!node_modules/**','!.DS_Store','!npm-debug.log'], dest : 'gh-pages/mybag/' }
+				],
+			},
+			pizzaro: {
+				files: [
+					{ expand: true, cwd: 'gitbook/pizzaro/_book/', src: ['**','!.*','!.*/**','.htaccess','!Gruntfile.js','!README.md','!package.json','!node_modules/**','!.DS_Store','!npm-debug.log'], dest : 'gh-pages/pizzaro/' }
 				],
 			},
 			playhouse: {
@@ -100,6 +106,10 @@ module.exports = function( grunt ) {
 				input: 'gitbook/mybag',
 				github: 'Transvelo/mybag'
 			},
+			pizzaro: {
+				input: 'gitbook/pizzaro',
+				github: 'Transvelo/pizzaro'
+			},
 			playhouse: {
 				input: 'gitbook/playhouse',
 				github: 'Transvelo/playhouse'
@@ -148,6 +158,10 @@ module.exports = function( grunt ) {
 
 	grunt.registerTask( 'mybag', [
 		'gitbook:mybag', 'clean:mybag', 'copy:mybag'
+	]);
+
+	grunt.registerTask( 'pizzaro', [
+		'gitbook:pizzaro', 'clean:pizzaro', 'copy:pizzaro'
 	]);
 
 	grunt.registerTask( 'playhouse', [
