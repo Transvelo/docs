@@ -6,19 +6,23 @@
 
 ### Header Style 1
 
-![](http://transvelo.github.io/docs/pizzaro/images/header-style-1.png)
+![](http://transvelo.github.io/docs/pizzaro/images/header-v1.png)
 
 ### Header Style 2
 
-![](http://transvelo.github.io/docs/pizzaro/images/header-style-2.png)
+![](http://transvelo.github.io/docs/pizzaro/images/header-v2.png)
 
 ### Header Style 3
 
-![](http://transvelo.github.io/docs/pizzaro/images/header-style-3.png)
+![](http://transvelo.github.io/docs/pizzaro/images/header-v3.png)
+
+![](http://transvelo.github.io/docs/pizzaro/images/header-v3-lite.png)
 
 ### Header Style 4
 
-![](http://transvelo.github.io/docs/pizzaro/images/header-style-4.png)
+![](http://transvelo.github.io/docs/pizzaro/images/header-v4.png)
+
+![](http://transvelo.github.io/docs/pizzaro/images/header-v4-lite.png)
 
 ### Choosing a Header Style
 

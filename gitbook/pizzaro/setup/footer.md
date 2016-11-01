@@ -6,23 +6,23 @@
 
 ### Footer Style 1
 
-![](http://transvelo.github.io/docs/pizzaro/images/footer-style-1.png)
+![](http://transvelo.github.io/docs/pizzaro/images/footer-v1.png)
 
 ### Footer Style 2
 
-![](http://transvelo.github.io/docs/pizzaro/images/footer-style-2.png)
+![](http://transvelo.github.io/docs/pizzaro/images/footer-v2.png)
 
 ### Footer Style 3
 
-![](http://transvelo.github.io/docs/pizzaro/images/footer-style-3.png)
+![](http://transvelo.github.io/docs/pizzaro/images/footer-v3.png)
 
 ### Footer Style 4
 
-![](http://transvelo.github.io/docs/pizzaro/images/footer-style-4.png)
+![](http://transvelo.github.io/docs/pizzaro/images/footer-v4.png)
 
 ### Footer Style 5
 
-![](http://transvelo.github.io/docs/pizzaro/images/footer-style-5.png)
+![](http://transvelo.github.io/docs/pizzaro/images/footer-v5.png)
 
 ### Choosing a Footer Style
 

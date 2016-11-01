@@ -22,7 +22,7 @@ While adding products, **Pizzaro** theme allows you to add additional informatio
 
 ### Product Archive/ Shop Page
 
-After adding the products, you need to configure how the product items are displayed : [**Click here**](product_archiveshop_page.md) to know more about that.
+After adding the products, you need to configure how the product items are displayed : [**Click here**](shop_page.md) to know more about that.
 
 ## Blog Page
 

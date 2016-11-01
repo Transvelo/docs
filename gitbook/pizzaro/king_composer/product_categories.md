@@ -2,7 +2,7 @@
 
 Allows you to add product categories to your page.
 
-![](http://transvelo.github.io/docs/pizzaro/images/kc-product-categories.png)
+![](http://transvelo.github.io/docs/pizzaro/images/kc-product-categories-setting.png)
 
 ## Settings
 

@@ -2,7 +2,7 @@
 
 Allows you to add recent post on your page.
 
-![](http://transvelo.github.io/docs/enter/images/kc-recent-post-setting.png)
+![](http://transvelo.github.io/docs/pizzaro/images/kc-recent-post-setting.png)
 
 ## Settings
 
@@ -20,4 +20,4 @@ Allows you to add recent post on your page.
 
 ## Sample Output
 
-![](http://transvelo.github.io/docs/enter/images/kc-recent-post-output.png)
+![](http://transvelo.github.io/docs/pizzaro/images/kc-recent-post-output.png)

@@ -41,4 +41,4 @@ The following is the list of plugins in alphabetical order that are recommended 
 6. In case you encounter any problems, try installing theme one by one.
 7. After you have installed all the plugins, activate them by navigating to **Plugins** page, select the required plugins, choose activate from the dropdown option and click on **Apply** button.
 
-You have now successfully installed and activated the plugins required for Enter Wordpress Theme.
+You have now successfully installed and activated the plugins required for Pizzaro Wordpress Theme.

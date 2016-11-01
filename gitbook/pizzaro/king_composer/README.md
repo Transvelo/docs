@@ -4,7 +4,7 @@
 
 ## Pizzaro Elements
 
-There are 16 additional elements that are made available via **Pizzaro Extensions** plugin.They are :
+There are 16 additional elements that are made available via **Pizzaro Extensions** plugin. They are :
 
 1. [Banner](banner.md)
 2. [Shop Coupon](shop_coupon.md)
