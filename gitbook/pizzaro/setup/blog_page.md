@@ -18,6 +18,6 @@ You can select blog page layout form **Pizzaro > Blog > Blog Page Layout**.
 
 ## Sidebar
 
-If a sidebar layout is chosen, then the sidebar is populated with widgets. The name of the sidebar area is **Sidebar**.
+If a sidebar layout is chosen, then the sidebar is populated with widgets.
 
-![](http://transvelo.github.io/docs/pizzaro/images/blog-sidebar.png)
+![](http://transvelo.github.io/docs/pizzaro/images/blog-page-sidebar-widget.png)

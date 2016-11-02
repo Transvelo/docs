@@ -37,22 +37,24 @@ You can set the number of items displayed from **Pizzaro > Shop > Shop/Catalog P
 
 ### Shop Sidebar
 
-This widgetized area contains all the widgets used for layered navigation. In the default preview we have used :
+This widgetized area contains all the widgets used for shop sidebar area.
 
-1. **Woocommerce Product Categories** Widget : Widget for Product Categories
-2. **WooCommerce Layered Nav** Widget : To filter products by Colors.
-3. **WooCommerce Layered Nav** Widget : To filter products by Size.
-4. **WooCommerce Price Filter** Widget : To filter products by price.
+In the default preview we have used :
 
-![](http://transvelo.github.io/docs/pizzaro/images/shop-sidebar-widget.png)
+1. **Custom Menu** Widget : To list product categories from menu with icons.
+2. **WooCommerce Product Search** Widget : To search products.
+3. **WooCommerce Price Filter** Widget : To filter products by price.
+4. **WooCommerce Products** Widget : To list products in sidebar.
+
+![](http://transvelo.github.io/docs/pizzaro/images/shop-page-sidebar-widget.png)
 
 ### Product Filter Sidebar
 
-This widgetized area contains all the widgets used for layered navigation. In the default preview we have used :
+This widgetized area contains all the widgets used for product filter area.
 
-1. **Woocommerce Product Categories** Widget : Widget for Product Categories
-2. **WooCommerce Layered Nav** Widget : To filter products by Colors.
-3. **WooCommerce Layered Nav** Widget : To filter products by Size.
-4. **WooCommerce Price Filter** Widget : To filter products by price.
+In the default preview we have used :
 
-![](http://transvelo.github.io/docs/pizzaro/images/shop-product-filter-widget.png)
+1. **WooCommerce Price Filter** Widget : To filter products by price.
+2. **WooCommerce Layered Nav** Widget : To filter products by Food Type.
+
+![](http://transvelo.github.io/docs/pizzaro/images/shop-page-filter-widget.png)
