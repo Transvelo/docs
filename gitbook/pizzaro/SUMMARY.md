@@ -63,6 +63,7 @@
    * [Recent Post](king_composer/recent_post.md)
    * [Recent Posts](king_composer/recent_posts.md)
    * [Sale Product](king_composer/sale_product.md)
+   * [Store Location](king_composer/store_location.md)
 * [Credits](credits/README.md)
 * [FAQ](faq/README.md)
 

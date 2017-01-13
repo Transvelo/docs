@@ -4,7 +4,7 @@
 
 ## Pizzaro Elements
 
-There are 16 additional elements that are made available via **Pizzaro Extensions** plugin. They are :
+There are 17 additional elements that are made available via **Pizzaro Extensions** plugin. They are :
 
 1. [Banner](banner.md)
 2. [Shop Coupon](shop_coupon.md)
@@ -22,6 +22,7 @@ There are 16 additional elements that are made available via **Pizzaro Extension
 14. [Recent Post](recent_post.md)
 15. [Recent Posts](recent_posts.md)
 16. [Sale Product](sale_product.md)
+17. [Store Location](store_location.md)
 
 
 ![](http://transvelo.github.io/docs/pizzaro/images/kc-elements.png)

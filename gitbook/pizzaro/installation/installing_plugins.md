@@ -30,6 +30,7 @@ The following is the list of plugins in alphabetical order that are recommended 
 
 * **[YITH WooCommerce Product Add-Ons](https://wordpress.org/plugins/yith-woocommerce-product-add-ons/)** — Allow your customers to customize your products by adding new options such as input boxes, dropdowns or checkboxes.
 
+* **[WP Store Locator](https://wordpress.org/plugins/wp-store-locator/)** — An easy to use location management system that enables users to search for nearby physical stores.
 
 ## Installation
 

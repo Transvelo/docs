@@ -4,6 +4,7 @@
 * HTML code by [Transvelo](http://transvelo.com/)
 * [Wordpress](https://wordpress.org/) by WordPress.org.
 * [WooCommerce](http://www.woothemes.com/woocommerce/) by WooThemes
+* [WP Store Locator](https://wpstorelocator.co/) by Tijmen Smit
 * [Our Team](https://wordpress.org/plugins/our-team-by-woothemes/) by WooThemes
 * [Slider Revolution](http://themepunch.com/revolution/) by ThemePunch
 * [YITH WooCommerce Product Add-Ons](https://wordpress.org/plugins/yith-woocommerce-product-add-ons/) by yithemes
