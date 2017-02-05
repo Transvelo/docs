@@ -34,7 +34,7 @@
 
 
         
-    <div class="book" data-level="5.6.9" data-basepath=".." data-revision="1484305862375">
+    <div class="book" data-level="5.6.9" data-basepath=".." data-revision="1486395473706">
     
 
 <div class="book-summary">
@@ -1262,7 +1262,38 @@
 <h3 id="row-3">Row 3</h3>
 <hr>
 <p><img src="http://transvelo.github.io/docs/pizzaro/images/contact-page-setting-row-3.png" alt=""></p>
+<h4 id="sample-contact-form-code">Sample Contact Form code:</h4>
+<pre><code>&lt;div class=&quot;form-group row&quot;&gt;
+&lt;div class=&quot;col-xs-12 col-md-6&quot;&gt;
+&lt;label&gt;First name*&lt;/label&gt;
+    [text* first-name class:input-text  first-name]
+&lt;/div&gt;
+&lt;div class=&quot;col-xs-12 col-md-6&quot;&gt;
+&lt;label&gt;Last name*&lt;/label&gt;
+    [text* last-name class:input-text  last-name]
+&lt;/div&gt;
+&lt;/div&gt;
 
+&lt;div class=&quot;form-group row&quot;&gt;
+&lt;div class=&quot;col-xs-12 col-md-6&quot;&gt;
+&lt;label&gt; Your Email*&lt;/label&gt;
+    [email* your-email]
+&lt;/div&gt;
+&lt;div class=&quot;col-xs-12 col-md-6&quot;&gt;
+&lt;label&gt;Subject&lt;/label&gt;
+    [text subject class:input-text your-subject]
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;form-group&quot;&gt;
+&lt;label&gt;Your Message&lt;/label&gt;
+    [textarea your-message]
+&lt;/div&gt;
+
+&lt;div class=&quot;form-group clearfix&quot;&gt;
+&lt;p&gt;[submit &quot;Send Message&quot;]&lt;/p&gt;
+&lt;/div&gt;
+</code></pre>
                     
                     </section>
                 
