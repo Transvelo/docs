@@ -41,4 +41,16 @@ A megamenu item in **Bethlehem** theme is a **Static Block**. This **Static Bloc
 7. Click on **Save Menu**.
 8. Now the megamenu will is added as a submenu and it should look like this: <br/> ![](http://transvelo.github.io/docs/bethlehem/images/megamenu-as-submenu.png)
 
+### 5. How to make megamenu full width?
+
+If we want the megamenu to be full width ? It is easy.
+
+1. Go to **Appearance > Menus **.
+2. Click on the caret on the top-right of menu item that contains the megamenu subitem to expand it.
+3. In the **CSS Classes** text box, enter `full-width`. This will make the megamenu to full width.
+![](http://transvelo.github.io/docs/bethlehem/images/menu-css-class-enable.png)
+4. If the **CSS Classes** field is not visible. Click on **Screen Options** on the top-right corner of the screen and check on **CSS Classess** under **Show advanced menu properties**.
+![](http://transvelo.github.io/docs/bethlehem/images/make-menu-full-width.png)
+4. Click on **Save Menu**.
+
 <div class="alert alert-danger">**Alert :** Please do not use **Static Content Block** as a top level menu item or as submenu menu item beyond level 1. Do not use other menu items with **Static Content Block** menu item.</div>

@@ -79,7 +79,7 @@ Click on **Publish** button and view the output.
 
 ### 5. Split the megamenu dropdown in Left and Right Column
 
-The megamenu now looks advanced and neat. What if we want the megamenu to be full width ? It is easy.
+If we want to split the megamenu to left and right ? It is easy.
 
 1. Go back to **Appearance > Menus **.
 2. Click on the caret on the top-right of menu item that contains the megamenu subitem to expand it.
