@@ -16,6 +16,7 @@
    * [Adding Products](setting_up_the_theme/adding_products.md)
        * [Product Brands](setting_up_the_theme/product_brands.md)
        * [Product Labels](setting_up_the_theme/product_labels.md)
+       * [Migrate Brands and Labels](setting_up_the_theme/migrate_brands_and_labels.md)
    * [Product Archive / Shop Page](setting_up_the_theme/shop_page.md)
    * [Blog Page](setting_up_the_theme/blog_page.md)
    * [Building Pages](setting_up_the_theme/building_pages.md)
