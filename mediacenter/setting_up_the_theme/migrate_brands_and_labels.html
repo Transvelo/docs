@@ -5,7 +5,7 @@
         
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=11; IE=10; IE=9; IE=8; IE=7; IE=EDGE" />
-        <title>Dummy Data | Theme Documentation</title>
+        <title>Migrate Brands and Labels | Theme Documentation</title>
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="">
         <meta name="generator" content="GitBook 1.5.0">
@@ -19,10 +19,10 @@
         
     
     
-    <link rel="next" href="../setting_up_the_theme/README.html" />
+    <link rel="next" href="../setting_up_the_theme/shop_page.html" />
     
     
-    <link rel="prev" href="../installation/installing_plugins.html" />
+    <link rel="prev" href="../setting_up_the_theme/product_labels.html" />
     
 
         
@@ -34,7 +34,7 @@
 
 
         
-    <div class="book" data-level="3" data-basepath=".." data-revision="1487150782817">
+    <div class="book" data-level="4.2.3" data-basepath=".." data-revision="1487150782817">
     
 
 <div class="book-summary">
@@ -152,7 +152,7 @@
         </li>
     
         
-        <li class="chapter active" data-level="3" data-path="dummy_data/README.html">
+        <li class="chapter " data-level="3" data-path="dummy_data/README.html">
             
                 
                     <a href="../dummy_data/README.html">
@@ -320,7 +320,7 @@
         </li>
     
         
-        <li class="chapter " data-level="4.2.3" data-path="setting_up_the_theme/migrate_brands_and_labels.html">
+        <li class="chapter active" data-level="4.2.3" data-path="setting_up_the_theme/migrate_brands_and_labels.html">
             
                 
                     <a href="../setting_up_the_theme/migrate_brands_and_labels.html">
@@ -1158,33 +1158,26 @@
                 <div class="page-inner">
                 
                 
-                    <section class="normal" id="section-gitbook_3">
+                    <section class="normal" id="section-gitbook_56">
                     
-                        <h1 id="dummy-data">Dummy Data</h1>
-<p>Once you had downloaded the package from ThemeForest, you can find the dummy data inside <strong>Assets &gt; DummyData &gt; dummy_data.xml</strong>.</p>
-<h2 id="installing-dummy-data">Installing Dummy Data</h2>
-<ul>
-<li>Navigate to <strong>Tools &gt; Import</strong>.</li>
-<li>Click on <strong>Wordpress Import</strong>.</li>
-<li>Install the Wordpress Import plugin.</li>
-<li>Upload the <strong>dummy_data.xml</strong> file to import all the dummy information.</li>
-</ul>
-<h2 id="importing-dummy-sliders">Importing Dummy Sliders</h2>
-<ul>
-<li>Navigate to <strong>Revolution Slider</strong> and click on import Sliders.</li>
-<li>From the package, navigate to <strong>Assets &gt; DummyData</strong>.</li>
-<li>Import these two zip files <strong>home-page-boxed-slider.zip</strong> and <em>*home-page-full-slider.zip</em>, one after another.</li>
-</ul>
-<h2 id="setting-up-the-pages">Setting up the Pages</h2>
-<ul>
-<li>Navigate to <strong>Settings &gt; Reading</strong>.</li>
-<li>Under <strong>Front Page Displays</strong>, choose <strong>A static page</strong>.</li>
-<li>For <strong>Front Page</strong> choose <strong>Home Page <sup>v1</sup></strong> and for <strong>Blog Page</strong> choose <strong>Blog</strong>.</li>
-<li>Now Navigate to <strong>WooCommerce &gt; Settings</strong> and click on <strong>Product</strong> tab.</li>
-<li>Choose <strong>Shop</strong> page for <strong>Product Archive/Shop Page</strong> option.</li>
-<li>Navigate to <strong>MC Options &gt; Shop </strong> Tab, scroll down to <strong>Product Comparison</strong> page.</li>
-<li>Choose <strong>Product Comparison</strong> page and click on <strong>Save Changes</strong>.</li>
-</ul>
+                        <h1 id="migrate-brands-and-labels">Migrate Brands and Labels</h1>
+<p>Product Brands and Labels taxonomies are migrated to product attributes.</p>
+<div class="alert alert-warning"><strong>Note:</strong> Should backup your database before proceeding migration.
+</div>
+
+<h3 id="1-add-attributes">1. Add Attributes</h3>
+<p>Add Brand and Label Attributes in Product &gt; Attributes.</p>
+<p><img src="http://transvelo.github.io/docs/mediacenter/images/product-attribute-brand-settings.png" alt=""></p>
+<p><img src="http://transvelo.github.io/docs/mediacenter/images/product-attribute-label-settings.png" alt=""></p>
+<h3 id="2-setup-attributes">2. Setup Attributes</h3>
+<p>Setup Brand and Label Attributes in MC Options&gt; Shop.</p>
+<p><img src="http://transvelo.github.io/docs/mediacenter/images/product-attributes-options.png" alt=""></p>
+<h3 id="3-migrate">3. Migrate</h3>
+<p>Now proceed migration.</p>
+<p><img src="http://transvelo.github.io/docs/mediacenter/images/brand-migrate.png" alt=""></p>
+<p><img src="http://transvelo.github.io/docs/mediacenter/images/label-migrate.png" alt=""></p>
+<h3 id="4-output">4. Output</h3>
+<p><img src="http://transvelo.github.io/docs/mediacenter/images/migration-output.png" alt=""></p>
 
                     
                     </section>
@@ -1195,10 +1188,10 @@
         </div>
 
         
-        <a href="../installation/installing_plugins.html" class="navigation navigation-prev " aria-label="Previous page: Installing Plugins"><i class="fa fa-angle-left"></i></a>
+        <a href="../setting_up_the_theme/product_labels.html" class="navigation navigation-prev " aria-label="Previous page: Product Labels"><i class="fa fa-angle-left"></i></a>
         
         
-        <a href="../setting_up_the_theme/README.html" class="navigation navigation-next " aria-label="Next page: Setup"><i class="fa fa-angle-right"></i></a>
+        <a href="../setting_up_the_theme/shop_page.html" class="navigation navigation-next " aria-label="Next page: Product Archive / Shop Page"><i class="fa fa-angle-right"></i></a>
         
     </div>
 </div>
