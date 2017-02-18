@@ -30,3 +30,7 @@ Now proceed migration.
 ### 4. Output
 
 ![](http://transvelo.github.io/docs/mediacenter/images/migration-output.png)
+
+#### Here the video tutorial:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/usNkSlsfsuw" frameborder="0" allowfullscreen></iframe>
