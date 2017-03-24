@@ -1,0 +1,13 @@
+# Home v6 with Visual Composer
+
+Home v6 of Pizzaro is built using **Visual Composer**.It has 10 rows. The **Visual Composer** Backend editor of the page look like this
+
+![](http://transvelo.github.io/docs/pizzaro/images/vc-home-v6.png)
+
+## The Code
+
+Please switch your editor to classic mode and paste the code given here :
+
+```
+[vc_row][vc_column][rev_slider_vc alias="home-v6-slider" el_class="home-v6-slider"][/vc_column][/vc_row][vc_row el_class="banners"][vc_column width="1/3"][pizzaro_banner bg_image="78" title="iCED COFFEE" sub_title="SUMMERS" action_link="#" condition="<em>*</em>ONLY IN LOCAL"][/vc_column][vc_column width="1/3"][pizzaro_banner bg_image="79" title="CHICKEN WRAP" sub_title="SPECIALS" action_link="#" condition="<em>*</em>ONLY IN LOCAL"][/vc_column][vc_column width="1/3"][pizzaro_banner bg_image="80" title="ORDER ONLINE" action_link="#" el_class="center"][/vc_column][/vc_row][vc_row][vc_column][pizzaro_products_card media_align="media-left" shortcode_tag="products" image="85" product_id="82"][/vc_column][/vc_row][vc_row][vc_column][pizzaro_products_card media_align="media-right" shortcode_tag="products" image="84" product_id="82"][/vc_column][/vc_row][vc_row][vc_column][pizzaro_products_card media_align="media-left" shortcode_tag="products" limit="2" title="Veggie" image="92" product_id="56,53"][/vc_column][/vc_row][vc_row][vc_column][pizzaro_products_card media_align="media-right" shortcode_tag="products" limit="2" title="Pasta" image="93" product_id="181,187"][/vc_column][/vc_row][vc_row][vc_column][pizzaro_products_card media_align="media-left" shortcode_tag="products" limit="4" title="Burgers" image="94" product_id="244,136,125,245"][/vc_column][/vc_row][vc_row css=".vc_custom_1490350837241{margin-bottom: 30px !important;}"][vc_column][pizzaro_products_card shortcode_tag="products" limit="4" title="Cold Drinks" image="95" product_id="145,147,149,151"][/vc_column][/vc_row][vc_row][vc_column][pizzaro_banner bg_image="91" title="FREE DELIVERY IN YOUR CITY" sub_title="ON ORDERS FOR OVER 68$" action_link="#" el_class="center"][/vc_column][/vc_row][vc_row][vc_column][vc_tta_tabs active_section="1" el_class="pizzaro-vc-tabs"][vc_tta_section title="Wraps" tab_id="1490264124638-197fdc23-c2be"][pizzaro_products shortcode_tag="product_category" limit="8" columns="4" category="cold-drinks"][/vc_tta_section][vc_tta_section title="Pizza Sets" tab_id="1490264124702-c75a8817-254a"][pizzaro_products shortcode_tag="products" limit="8" columns="4" product_id="45,51,48,56,58,82,43,53"][/vc_tta_section][vc_tta_section title="Burgers" tab_id="1490264128032-f576ea5c-1ca6"][pizzaro_products shortcode_tag="product_category" limit="8" columns="4" category="burgers"][/vc_tta_section][/vc_tta_tabs][/vc_column][/vc_row]
+```
