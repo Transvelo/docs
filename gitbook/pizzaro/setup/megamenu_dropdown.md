@@ -30,3 +30,5 @@
 ![](http://transvelo.github.io/docs/pizzaro/images/menu-css-class-enable.png)
 
 ![](http://transvelo.github.io/docs/pizzaro/images/menu-css-class-add.png)
+
+<div class="alert alert-info">**Megamenu Fullwidth** : Please add "yamm-fw" css class to its parent menu item to make megamenu fullwidth.</div>
