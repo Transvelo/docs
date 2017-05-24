@@ -49,6 +49,7 @@
        * [FAQ](setup/faq.md)
        * [Terms and Conditions](setup/terms_and_conditions.md)
        * [Track your Order](setup/track_your_order.md)
+       * [Shop List No Image Parallax KC](setup/kc_shop_list_no_image_parallax.md)
    * [Static Block](setup/static_block.md)
 * [Theme Options Panel](theme_options_panel/README.md)
    * [General](theme_options_panel/general.md)
