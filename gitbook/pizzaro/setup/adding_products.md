@@ -15,20 +15,20 @@ In addition to the product information that can be added to a product, **Pizzaro
 ## Adding Product options
 
 **Step-1**
-![](http://transvelo.github.io/docs/pizzaro/images/Pizzaro Product Add Ons step-1.png)
+![](http://transvelo.github.io/docs/pizzaro/images/product-add-ons-step-1.png)
 
 **Step-2**
-![](http://transvelo.github.io/docs/pizzaro/images/Pizzaro Product Add Ons step-2.png)
+![](http://transvelo.github.io/docs/pizzaro/images/product-add-ons-step-2.png)
 
 **Step-3**
-![](http://transvelo.github.io/docs/pizzaro/images/Pizzaro Product Add Ons step-1.1.png)
+![](http://transvelo.github.io/docs/pizzaro/images/product-add-ons-step-3.png)
 
 
 
 ## Single Product V3 options
 
-![](http://transvelo.github.io/docs/pizzaro/images/Pizzaro Product Add Ons step-3.png)
+![](http://transvelo.github.io/docs/pizzaro/images/single-product-v3-add-ons-1.png)
 
-![](http://transvelo.github.io/docs/pizzaro/images/Pizzaro Product Add Ons step-4.png)
+![](http://transvelo.github.io/docs/pizzaro/images/single-product-v3-add-ons-2.png)
 
-![](http://transvelo.github.io/docs/pizzaro/images/Pizzaro Product Add Ons step-5.png)
+![](http://transvelo.github.io/docs/pizzaro/images/single-product-v3-add-ons-3.png)
