@@ -18,6 +18,7 @@ module.exports = function( grunt ) {
 			playhouse: 'gh-pages/playhouse/',
 			sportexx: 'gh-pages/sportexx/',
 			unicase: 'gh-pages/unicase/',
+			techmarket: 'gh-pages/techmarket/',
 		},
 
 		// Copy documantation to gh-pages
@@ -65,6 +66,11 @@ module.exports = function( grunt ) {
 			sportexx: {
 				files: [
 					{ expand: true, cwd: 'gitbook/sportexx/_book/', src: ['**','!.*','!.*/**','.htaccess','!Gruntfile.js','!README.md','!package.json','!node_modules/**','!.DS_Store','!npm-debug.log'], dest : 'gh-pages/sportexx/' }
+				],
+			},
+			techmarket: {
+				files: [
+					{ expand: true, cwd: 'gitbook/techmarket/_book/', src: ['**','!.*','!.*/**','.htaccess','!Gruntfile.js','!README.md','!package.json','!node_modules/**','!.DS_Store','!npm-debug.log'], dest : 'gh-pages/techmarket/' }
 				],
 			},
 			unicase: {
@@ -118,6 +124,10 @@ module.exports = function( grunt ) {
 				input: 'gitbook/sportexx',
 				github: 'Transvelo/sportexx'
 			},
+			techmarket: {
+				input: 'gitbook/techmarket',
+				github: 'Transvelo/techmarket'
+			},
 			unicase: {
 				input: 'gitbook/unicase',
 				github: 'Transvelo/unicase'
@@ -170,6 +180,10 @@ module.exports = function( grunt ) {
 
 	grunt.registerTask( 'sportexx', [
 		'gitbook:sportexx', 'clean:sportexx', 'copy:sportexx'
+	]);
+
+	grunt.registerTask( 'techmarket', [
+		'gitbook:techmarket', 'clean:techmarket', 'copy:techmarket'
 	]);
 
 	grunt.registerTask( 'unicase', [
