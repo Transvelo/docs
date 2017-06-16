@@ -77,6 +77,7 @@
    * [Product Categories List](visual_composer/product_categories_list.md)
    * [Products Cards Carousel with Image](visual_composer/products_cards_carousel_with_image.md)
    * [Products Carousel Tabs  with Featured Products](visual_composer/products_carousel_tabs__with_featured_products.md)
+   * [Products Carousel Tabs](visual_composer/products_carousel_tabs.md)
    * [Products Carousel Vertical Tabs](visual_composer/products_carousel_vertical_tabs.md)
    * [Products Carousel with Image](visual_composer/products_carousel_with_image.md)
    * [Products Carousel](visual_composer/products_carousel.md)
@@ -84,7 +85,8 @@
    * [Products with Image](visual_composer/products_with_image.md)
    * [Recent Posts with Categories ](visual_composer/recent_posts_with_categories.md)
    * [Team Member](visual_composer/team_member.md)
-   * [Terms](visual_composer/terms)
+   * [Terms](visual_composer/terms.md)
+   * [Revolution Slider](visual_composer/revolution_slider.md)
 * [Credits](credits/README.md)
 * [FAQ](faq/README.md)
 

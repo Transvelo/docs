@@ -16,6 +16,9 @@
 * Set the Number of Product Columns for displaying products in shop page.
 * Set the number of products to be displayed per page.
 
+#### Single Product Pages
+* Select the layout for the Single Product Page.
+
 ![](http://transvelo.github.io/docs/electro/images/theme-options-shop.png)
 
 

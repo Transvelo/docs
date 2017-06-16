@@ -25,6 +25,10 @@
 * Enter Call us icon.
 * Enter Call us number.
 * Enable / Disable Footer Address.
+* If enable Footer Address, enter address.
+* Enter Map Link.
+* Enter Map Icon.
+* Enter Map Text.
 
 #### Footer Payment Block
 
