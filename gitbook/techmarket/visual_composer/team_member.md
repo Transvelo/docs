@@ -2,7 +2,7 @@
 
 Allows you to add a team member to profile to your page.
 
-![](http://transvelo.github.io/docs/electro/images/vc-team-member-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/team-member-setting.png)
 
 ## Settings
 
@@ -15,4 +15,4 @@ Allows you to add a team member to profile to your page.
 
 ## Sample Output
 
-![](http://transvelo.github.io/docs/electro/images/vc-team-member-output.png)
+![](http://transvelo.github.io/docs/techmarket/images/output-team-member.png)

@@ -8,4 +8,4 @@ Checkout page is created automatically on activating the **Woocommerce** plugin.
 4. Check on **Hide Page Header** under **Techmarket Page Options** Meta box.
 5. Click on **Publish**.
 
-![](http://transvelo.github.io/docs/electro/images/page-checkout.png)
+![](http://transvelo.github.io/docs/techmarket/images/page-checkout.png)

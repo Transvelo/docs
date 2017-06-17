@@ -19,7 +19,7 @@
 * Enter Search Button Text.
 * Enable / Disable Live Search.
 
-![](http://transvelo.github.io/docs/electro/images/theme-options-header.png)
+![](http://transvelo.github.io/docs/techmarket/images/theme-options-header.png)
 
 
 

@@ -9,5 +9,5 @@
 * Enable / Disable Force Excerpt.
 * Select the layout for the Single Post.
 
-![](http://transvelo.github.io/docs/electro/images/theme-options-blog.png)
+![](http://transvelo.github.io/docs/techmarket/images/theme-options-blog.png)
 

@@ -12,7 +12,7 @@
 
 ## Product Comparison Page Editor
 
-![](http://transvelo.github.io/docs/electro/images/page-product-comparison.png)
+![](http://transvelo.github.io/docs/techmarket/images/page-product-comparison.png)
 
 
 

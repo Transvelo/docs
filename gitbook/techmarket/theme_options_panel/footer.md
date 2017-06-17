@@ -50,5 +50,5 @@
 * Enter Site Credit Text.
 
 
-![](http://transvelo.github.io/docs/electro/images/theme-options-footer.png)
+![](http://transvelo.github.io/docs/techmarket/images/theme-options-footer.png)
 

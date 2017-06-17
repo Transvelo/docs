@@ -2,7 +2,7 @@
 
 Allows you to add notice on your page.
 
-![](http://transvelo.github.io/docs/pizzaro/images/kc-features-list-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/notice-block-setting.png)
 
 ## Settings
 
@@ -14,5 +14,5 @@ Allows you to add notice on your page.
 
 ## Sample Output
 
-![](http://transvelo.github.io/docs/pizzaro/images/kc-features-list-output.png)
+![](http://transvelo.github.io/docs/techmarket/images/output-notice-block.png)
 

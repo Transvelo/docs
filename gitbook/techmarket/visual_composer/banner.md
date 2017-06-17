@@ -2,7 +2,7 @@
 
 Allows you to add banner on your page.
 
-![](http://transvelo.github.io/docs/pizzaro/images/kc-banner-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/banner.png)
 
 ## Settings
 
@@ -22,4 +22,4 @@ Allows you to add banner on your page.
 
 ## Sample Output
 
-![](http://transvelo.github.io/docs/electro/images/vc-brands-carousel-output.png)
+![](http://transvelo.github.io/docs/techmarket/images/banner-output.png)

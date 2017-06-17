@@ -2,7 +2,7 @@
 
 Allows you to add recent posts with categories on your page.
 
-![](http://transvelo.github.io/docs/pizzaro/images/kc-banner-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/post-with-categories-setting.png)
 
 ## Settings
 
@@ -20,4 +20,4 @@ Allows you to add recent posts with categories on your page.
 
 ## Sample Output
 
-![](http://transvelo.github.io/docs/electro/images/vc-brands-carousel-output.png)
+![](http://transvelo.github.io/docs/techmarket/images/output-post-with-categories.png)

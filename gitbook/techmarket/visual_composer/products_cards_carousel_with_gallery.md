@@ -2,7 +2,7 @@
 
 Allows you to add products cards carousel with gallery on your page.
 
-![](http://transvelo.github.io/docs/pizzaro/images/kc-products-carousel-with-image-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/products-cards-carousel-with-gallery-setting.png)
 
 ## Settings
 
@@ -23,4 +23,4 @@ Allows you to add products cards carousel with gallery on your page.
 
 ## Sample Output
 
-![](http://transvelo.github.io/docs/pizzaro/images/kc-products-carousel-with-image-output.png)
+![](http://transvelo.github.io/docs/techmarket/images/output-products-cards-carousel-with-gallery.png)

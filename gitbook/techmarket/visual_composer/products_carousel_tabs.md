@@ -2,7 +2,7 @@
 
 Allows you to add products carousel tabs on your page.
 
-![](http://transvelo.github.io/docs/electro/images/vc-products-carousel-tabs-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/carousel-tabs-setting.png)
 
 ## Settings
 
@@ -29,4 +29,4 @@ Allows you to add products carousel tabs on your page.
 
 ## Sample Output
 
-![](http://transvelo.github.io/docs/electro/images/vc-products-carousel-tabs-output.png)
+![](http://transvelo.github.io/docs/techmarket/images/output-carousel-tabs.png)

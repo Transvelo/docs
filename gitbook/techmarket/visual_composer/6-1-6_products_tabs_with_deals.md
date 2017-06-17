@@ -2,7 +2,7 @@
 
 Allows you to add products on your page.
 
-![](http://transvelo.github.io/docs/electro/images/vc-product-2-1-2-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/6-1-6-products-tabs-deals.png)
 
 ## Settings
 
@@ -20,4 +20,4 @@ Allows you to add products on your page.
 
 ## Sample Output
 
-![](http://transvelo.github.io/docs/electro/images/vc-product-2-1-2-output.png)
+![](http://transvelo.github.io/docs/techmarket/images/output-6-1-6-products-tabs-deals.png)

@@ -2,7 +2,7 @@
 
 Allows you to add products isotope on your page.
 
-![](http://transvelo.github.io/docs/electro/images/vc-electro-products-cards-carousel-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/product-isotope-setting.png)
 
 ## Settings
 
@@ -26,4 +26,4 @@ Allows you to add products isotope on your page.
 
 ## Sample Output
 
-![](http://transvelo.github.io/docs/electro/images/vc-electro-products-cards1-carousel-output.png)
+![](http://transvelo.github.io/docs/techmarket/images/output-product-isotope.png)

@@ -2,7 +2,7 @@
 
 Allows you to add features list on your page.
 
-![](http://transvelo.github.io/docs/pizzaro/images/kc-features-list-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/features-list.png)
 
 ## Settings
 
@@ -15,5 +15,5 @@ Allows you to add features list on your page.
 
 ## Sample Output
 
-![](http://transvelo.github.io/docs/pizzaro/images/kc-features-list-output.png)
+![](http://transvelo.github.io/docs/techmarket/images/output-features-list.png)
 

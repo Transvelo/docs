@@ -2,7 +2,7 @@
 
 Allows you to add products carousel vertical tabs on your page.
 
-![](http://transvelo.github.io/docs/electro/images/vc-products-carousel-tabs-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/carousel-with-vertical-tab-setting.png)
 
 ## Settings
 
@@ -24,4 +24,4 @@ Allows you to add products carousel vertical tabs on your page.
 
 ## Sample Output
 
-![](http://transvelo.github.io/docs/electro/images/vc-products-carousel-tabs-output.png)
+![](http://transvelo.github.io/docs/techmarket/images/output-carousel-with-vertical-tab.png)

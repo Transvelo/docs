@@ -8,4 +8,4 @@ My Account page is created automatically on activating the **Woocommerce** plugi
 4. Check on **Hide Page Header** under **Techmarket Page Options** Meta box.
 5. Click on **Publish**.
 
-![](http://transvelo.github.io/docs/electro/images/page-myaccount.png)
+![](http://transvelo.github.io/docs/techmarket/images/page-myaccount.png)

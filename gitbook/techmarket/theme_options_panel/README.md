@@ -6,7 +6,7 @@ The Theme Options panel helps you easily take control over the appearance of you
 
 To access it, navigate to the **Techmarket** section in the WordPress dashboard.
 
-![](http://transvelo.github.io/docs/electro/images/electro-options-dashboard.png)
+![](http://transvelo.github.io/docs/techmarket/images/techmarket-options-dashboard.png)
 
 
 ## Export Your Options

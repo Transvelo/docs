@@ -2,7 +2,7 @@
 
 Allows you to add a terms to your page.
 
-![](http://transvelo.github.io/docs/electro/images/vc-team-member-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/terms-setting.png)
 
 ## Settings
 
@@ -24,6 +24,3 @@ Allows you to add a terms to your page.
 | **Include Child Of Team** | Text |  Include "Child Of" term in the terms list. Accepts 1 (yes) or 0 (no). Default 1. | 1
 | **Parent** | Text |  Enter term parent | none
 
-## Sample Output
-
-![](http://transvelo.github.io/docs/electro/images/vc-team-member-output.png)

@@ -2,7 +2,7 @@
 
 Allows you to add carousel with featured product on your page.
 
-![](http://transvelo.github.io/docs/electro/images/vc-product-2-1-2-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/tabs-with-featured.png)
 
 ## Settings
 
@@ -33,4 +33,4 @@ Allows you to add carousel with featured product on your page.
 
 ## Sample Output
 
-![](http://transvelo.github.io/docs/electro/images/vc-product-2-1-2-output.png)
+![](http://transvelo.github.io/docs/techmarket/images/output-tabs-with-featured.png)

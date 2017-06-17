@@ -2,7 +2,7 @@
 
 Allows you to add a slider to your page.
 
-![](http://transvelo.github.io/docs/electro/images/vc-team-member-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/slider-setting.png)
 
 ## Settings
 
@@ -11,6 +11,3 @@ Allows you to add a slider to your page.
 | **Revolution Slider** | Select | Select slider to displayed. | none
 
 
-## Sample Output
-
-![](http://transvelo.github.io/docs/electro/images/vc-team-member-output.png)

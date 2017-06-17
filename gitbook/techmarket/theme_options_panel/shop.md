@@ -19,6 +19,6 @@
 #### Single Product Pages
 * Select the layout for the Single Product Page.
 
-![](http://transvelo.github.io/docs/electro/images/theme-options-shop.png)
+![](http://transvelo.github.io/docs/techmarket/images/theme-options-shop.png)
 
 

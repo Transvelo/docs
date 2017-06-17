@@ -2,7 +2,7 @@
 
 Allows you to add products with image on your page.
 
-![](http://transvelo.github.io/docs/electro/images/vc-electro-products-cards-carousel-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/products-with-image-setting.png)
 
 ## Settings
 
@@ -25,4 +25,4 @@ Allows you to add products with image on your page.
 
 ## Sample Output
 
-![](http://transvelo.github.io/docs/electro/images/vc-electro-products-cards1-carousel-output.png)
+![](http://transvelo.github.io/docs/techmarket/images/output-products-with-image.png)

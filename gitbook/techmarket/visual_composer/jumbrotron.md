@@ -2,7 +2,7 @@
 
 Allows you to add jumbotron on your page.
 
-![](http://transvelo.github.io/docs/pizzaro/images/kc-features-list-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/jumbotron-setting.png)
 
 ## Settings
 
@@ -13,6 +13,3 @@ Allows you to add jumbotron on your page.
 | **Background Image** | Upload | Upload background image. | none
 
 
-## Sample Output
-
-![](http://transvelo.github.io/docs/pizzaro/images/kc-features-list-output.png)

@@ -2,7 +2,7 @@
 
 Allows you to add product categories list on your page.
 
-![](http://transvelo.github.io/docs/electro/images/vc-brand-carousel-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/product-categories-list-setting.png)
 
 ## Settings
 
@@ -18,4 +18,4 @@ Allows you to add product categories list on your page.
 
 ## Sample Output
 
-![](http://transvelo.github.io/docs/electro/images/vc-brands-carousel-output.png)
+![](http://transvelo.github.io/docs/techmarket/images/output-product-categories-list.png)

@@ -8,4 +8,4 @@ Cart page is created automatically on activating the **Woocommerce** plugin. If 
 4. Check on **Hide Page Header** under **Techmarket Page Options** Meta box.
 5. Click on **Publish**.
 
-![](http://transvelo.github.io/docs/electro/images/page-cart.png)
+![](http://transvelo.github.io/docs/techmarket/images/page-cart.png)
