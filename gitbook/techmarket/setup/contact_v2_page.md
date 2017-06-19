@@ -2,7 +2,7 @@
 
 Contact v2 page of Techmarket is built using **King Composer**.It has 1 row. The **King Composer** Backend editor of the page look like this
 
-![](http://transvelo.github.io/docs/electro/images/contact-v2.png)
+![](http://transvelo.github.io/docs/techmarket/images/contact-v2.png)
 
 
 ### Row 1
@@ -49,7 +49,7 @@ neque odio ultricies tellus, eu porttitor nisl ipsum eu massa.
 </div>
 ```
 
-![](http://transvelo.github.io/docs/electro/images/contact-form-7-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/contact-form-7-setting.png)
 
 ##### Column 2 (1/2) :
 
@@ -57,7 +57,7 @@ neque odio ultricies tellus, eu porttitor nisl ipsum eu massa.
 * It has 2 elements which are Google Maps and Text Block Element.
 * Here is the screenshot of Google Maps Setting page.
 
-![](http://transvelo.github.io/docs/electro/images/google-map-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/google-map-setting.png)
 
 **Text Block** : The content of the text block setting
 

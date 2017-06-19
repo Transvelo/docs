@@ -2,7 +2,7 @@
 
 Home v3 of Techmarket is built using **Homepage v3 Template** with 17 rows. The  Backend editor of the page look like this
 
-![](http://transvelo.github.io/docs/electro/images/home-v3-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/home-v3-setting.png)
 
 ## Content Section
 

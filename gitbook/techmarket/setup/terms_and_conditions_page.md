@@ -2,7 +2,7 @@
 
 Terms and Conditions Page of Techmarket is built using **King Composer**.It has one row. The **King Composer** Backend editor of the page look like this
 
-![](http://transvelo.github.io/docs/electro/images/terms-and-conditions.png)
+![](http://transvelo.github.io/docs/techmarket/images/terms-and-conditions.png)
 
 ### Row 1
 ---

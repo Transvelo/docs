@@ -2,7 +2,7 @@
 
 Home v2 of Techmarket is built using **Homepage v2 Template** with 13 rows. The  Backend editor of the page look like this
 
-![](http://transvelo.github.io/docs/electro/images/home-v2-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/home-v2-setting.png)
 
 ## Content Section
 
@@ -11,7 +11,7 @@ Home v2 of Techmarket is built using **Homepage v2 Template** with 13 rows. The 
 3. After Publish, **Home v2** options will appear in the meta box area. Here you can edit the default content and image.
 
     Here is the screenshot for your reference
-    ![](http://transvelo.github.io/docs/electro/images/home-v2-option.png)
+    ![](http://transvelo.github.io/docs/techmarket/images/home-v2-option.png)
 
 4. Home v2 has three options which makes for the benefit of the user to change.
     * **Animation** : Techmarket Elements can be animated when they appear on viewport. More than 25+ CSS3 animation effects are available which includes :
@@ -35,14 +35,14 @@ Home v2 of Techmarket is built using **Homepage v2 Template** with 13 rows. The 
 * It has Slider with Banner element.
 * **Slider With Banner Setting** : Here is the screenshot for Slider With Banner setting
 
-![](http://transvelo.github.io/docs/electro/images/home-v2-slider-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/home-v2-slider-with-banner-setting.png)
 
 ### Row 2
 ---
 * It has Category Carousel element.
 * **Category Carousel Settings** : Here is the screenshot for Category Carousel setting
 
-![](http://transvelo.github.io/docs/electro/images/home-v2-ads-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/home-v2-category-carousel-setting.png)
 
 
 ### Row 3
@@ -50,63 +50,63 @@ Home v2 of Techmarket is built using **Homepage v2 Template** with 13 rows. The 
 * It has 6-1-6 Tabs element.
 * **6-1-6 Tabs Settings** : Here i pasted a 6-1-6 Tabs Settings Page image.
 
-![](http://transvelo.github.io/docs/electro/images/home2-tabs-carousel-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/home2-6-1-6-tabs-setting.png)
 
 ### Row 4
 ---
 * It has Notice Block element.
 * **Notice Block Setting** : Here i pasted a Notice Block Settings Page image.
 
-![](http://transvelo.github.io/docs/electro/images/home2-deal-carousel-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/home2-notice-block-setting.png)
 
 ### Row 5
 ---
 * It has 3-Column banner element
 * **3-Column banner Settings** : Here i pasted a 3-Column banner Setting Page image.
 
-![](http://transvelo.github.io/docs/electro/images/home2-products-cards-carousel-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/home2-3-column-banner-setting.png)
 
 ### Row 6
 ---
 * It has Products Carousel Tabs 1 element
 * **Products Carousel Tabs 1 Settings** : Here i pasted a Products Carousel Tabs 1 Setting Page image.
 
-![](http://transvelo.github.io/docs/electro/images/home2-banner-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/home2-products-carousel1-setting.png)
 
 ### Row 7
 ---
 * It has 3-2-3 Tabs element
 * **3-2-3 Tabs element Settings** : Here i pasted a 3-2-3 Tabs element Setting Page image.
 
-![](http://transvelo.github.io/docs/electro/images/home2-products-carousel-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/home2-3-2-3-tabs-setting.png)
 
 ### Row 8
 ---
 * It has Products Carousel Tabs 2
 * **Products Carousel Tabs 2 element Settings** : Here i pasted a Products Carousel Tabs 2 element Setting Page image.
 
-![](http://transvelo.github.io/docs/electro/images/home2-products-carousel-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/home2-products-carousel2-setting.png)
 
 ### Row 9
 ---
 * It has Full Width Banner element
 * **Full Width Banner Settings** : Here i pasted a Full Width Banner element Setting Page image.
 
-![](http://transvelo.github.io/docs/electro/images/home2-products-carousel-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/home2-fullwidth-banner-setting.png)
 
 ### Row 10
 ---
 * It has Products Carousel with Image element.
-* **3-2-3 Tabs element Settings** : Here i pasted a 3-2-3 Tabs element Setting Page image.
+* **Products Carousel with Image Settings** : Here i pasted a Products Carousel with Image Setting Page image.
 
-![](http://transvelo.github.io/docs/electro/images/home2-products-carousel-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/home2-products-carousel-with-image-setting.png)
 
 ### Row 11
 ---
 * It has Carousel With Tabs selement
 * **Carousel With Tabs element Settings** : Here i pasted a Carousel With Tabs element Setting Page image.
 
-![](http://transvelo.github.io/docs/electro/images/home2-products-carousel-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/home2-carousel-with-tab-setting.png)
 
 
 ### Row 12
@@ -114,12 +114,12 @@ Home v2 of Techmarket is built using **Homepage v2 Template** with 13 rows. The 
 * It has Brands Carousel selement
 * **Brands Carousel Settings** : Here i pasted a Brands Carousel element Setting Page image.
 
-![](http://transvelo.github.io/docs/electro/images/home2-products-carousel-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/home2-brands-carousel-setting.png)
 
 ### Row 13
 ---
 * It has Landscape Product Carousel selement
 * **Landscape Product Carousel element Settings** : Here i pasted a Landscape Product Carousel element Setting Page image.
 
-![](http://transvelo.github.io/docs/electro/images/home2-products-carousel-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/home2-landscape-products-carousel-setting.png)
 

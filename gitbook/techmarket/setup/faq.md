@@ -2,7 +2,7 @@
 
 Frequently Asked Questions **(FAQ)** of  Techmarket is built using **King Composer**.It has 5 rows. The **King Composer** Backend editor of the page look like this
 
-![](http://transvelo.github.io/docs/electro/images/faq.png)
+![](http://transvelo.github.io/docs/techmarket/images/faq.png)
 
 ### Row 1
 ---
@@ -10,7 +10,7 @@ Frequently Asked Questions **(FAQ)** of  Techmarket is built using **King Compos
 
 Here is the screenshot for Custom Heading
 
-![](http://transvelo.github.io/docs/electro/images/faq-custom-heading-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/faq-custom-heading-setting.png)
 
 ### Row 2
 ---
@@ -53,4 +53,4 @@ Integer ex turpis, venenatis vitae nibh vel, vestibulum maximus quam. Ut pretium
 * Clone the **FAQ** element as much as the questions you have.
 * Here is a sample **FAQ Element Settings **.
 
-![](http://transvelo.github.io/docs/electro/images/faq-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/faq-accordion-setting.png)
