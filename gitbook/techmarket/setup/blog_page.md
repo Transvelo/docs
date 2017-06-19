@@ -41,6 +41,6 @@ Select the layout for Single Post Page.
 
 If a sidebar layout is chosen, then the sidebar is populated with widgets. The name of the sidebar area is **Sidebar**.
 
-![](http://transvelo.github.io/docs/electro/images/blog-sidebar.png)
+![](http://transvelo.github.io/docs/techmarket/images/blog-sidebar.png)
 
 

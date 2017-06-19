@@ -2,7 +2,7 @@
 
 About Page of Techmarket is built using **King Composer**.It has 4 rows. The **King Composer** Backend editor of the page look like this
 
-![](http://transvelo.github.io/docs/electro/images/about.png)
+![](http://transvelo.github.io/docs/techmarket/images/about.png)
 
 ### Row 1
 ---
@@ -19,7 +19,7 @@ About Page of Techmarket is built using **King Composer**.It has 4 rows. The **K
 **Single Image Element** : Click on **Add** button and add **Single Image**  under **All**.
 
 Here i pasted the single image setting
-![](http://transvelo.github.io/docs/electro/images/single-image-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/single-image-setting.png)
 
 * **Text Block** : The content of the text block:
 
@@ -38,7 +38,7 @@ vitae ultrices lacus purus vitae metus.
 * **Team Memeber** element : Click on **Add** button and add **Electro Team Memeber**  under **Electro Elements**.
 
 Here i pasted the team member setting image
-![](http://transvelo.github.io/docs/electro/images/team-member-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/team-member-setting.png)
 
 ### Row 4
 ---
@@ -63,7 +63,7 @@ Donec libero dolor, tincidunt id laoreet vitae, ullamcorper eu tortor. Maecenas 
 * Clone the **FAQ** element as much as the questions you have.
 * Here is a sample **About Accordion Element Settings **.
 
-![](http://transvelo.github.io/docs/electro/images/about-us-accordion-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/about-us-accordion-setting.png)
 
 
 

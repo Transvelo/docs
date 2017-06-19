@@ -2,14 +2,14 @@
 
 Contact v1 page of Techmarket is built using **King Composer**.It has 2 rows. The **King Composer** Backend editor of the page look like this
 
-![](http://transvelo.github.io/docs/electro/images/contact-v1.png)
+![](http://transvelo.github.io/docs/techmarket/images/contact-v1.png)
 
 ### Row 1
 ---
 * It has one column which and the element is Google Map.
 * Here is the screenshot of Google Map Setting page.
 
-![](http://transvelo.github.io/docs/electro/images/google-map-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/google-map-setting.png)
 
 ### Row 2
 ---
@@ -56,7 +56,7 @@ neque odio ultricies tellus, eu porttitor nisl ipsum eu massa.
 </div>
 ```
 
-![](http://transvelo.github.io/docs/electro/images/contact-form-7-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/contact-form-7-setting.png)
 
 ##### Column 2 (1/4) :
 * This column has **store-info** as class name.
