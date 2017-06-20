@@ -26,19 +26,19 @@
 
  Here is how it looks like for **Home** Page.
 
-![](http://transvelo.github.io/docs/techmarket/images/header-style-3.png)
+![](http://transvelo.github.io/docs/techmarket/images/header-style-4.png)
 
 ### Header Style 5
 
  Here is how it looks like for **Home** Page.
 
-![](http://transvelo.github.io/docs/techmarket/images/header-style-3.png)
+![](http://transvelo.github.io/docs/techmarket/images/header-style-5.png)
 
 ### Header Style 6
 
  Here is how it looks like for **Home** Page.
 
-![](http://transvelo.github.io/docs/techmarket/images/header-style-3.png)
+![](http://transvelo.github.io/docs/techmarket/images/header-style-6.png)
 ### Choosing a Header Style
 
 **Header v1** is chosen by default header. To change the header style :

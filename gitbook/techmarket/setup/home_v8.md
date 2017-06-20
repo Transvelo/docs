@@ -2,7 +2,7 @@
 
 Home v8 of Techmarket is built using **Homepage v8 Template** with 6 rows. The  Backend editor of the page look like this
 
-![](http://transvelo.github.io/docs/electro/images/home-v3-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/home-v8-setting.png)
 
 ## Content Section
 
@@ -11,7 +11,7 @@ Home v8 of Techmarket is built using **Homepage v8 Template** with 6 rows. The  
 3. After Publish, **Home v8** options will appear in the meta box area. Here you can edit the default content and image.
 
     Here is the screenshot for your reference
-    ![](http://transvelo.github.io/docs/electro/images/home-v2-option.png)
+    ![](http://transvelo.github.io/docs/techmarket/images/home-v8-option.png)
 
 4. **Home v8** has three different options which makes for the benefit of the user to change.
 
@@ -36,14 +36,14 @@ Home v8 of Techmarket is built using **Homepage v8 Template** with 6 rows. The  
 * It has Product Isotope element.
 * **Product Isotope Setting** : Here is the screenshot for Product Isotope setting
 
-![](http://transvelo.github.io/docs/electro/images/home3-slider-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/home8-1st-block.png)
 
 ### Row 2
 ---
 * It has Notice Block element.
 * **Notice Block Settings** : Here is the screenshot for Notice Block setting
 
-![](http://transvelo.github.io/docs/electro/images/home3-feature-list-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/notice-block.png)
 
 
 ### Row 3
@@ -51,25 +51,25 @@ Home v8 of Techmarket is built using **Homepage v8 Template** with 6 rows. The  
 * It has Full Width Banner element.
 * **Full Width Banner Settings** : Here i pasted a Full Width Banner Settings Page image.
 
-![](http://transvelo.github.io/docs/electro/images/home3-ads-block-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/home8-3rd-block.png)
 
 ### Row 4
 ---
 * It has Category List Block.
 * **Category List Setting** : Here i pasted a Category List Page image.
 
-![](http://transvelo.github.io/docs/electro/images/home3-tabs-carousel-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/home8-4th-block.png)
 
 ### Row 5
 ---
 * It has Landscape Product Carousel element.
 * **Landscape Product Carousel Settings** : Here i pasted a Landscape Product Carousel Setting Page image.
 
-![](http://transvelo.github.io/docs/electro/images/home3-carousel-with-image-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/home8-5th-block.png)
 
 ### Row 6
 ---
 * It has Brands Carousel element.
 * **Brands Carousel Settings** : Here i pasted a Brands Carousel Setting Page image.
 
-![](http://transvelo.github.io/docs/electro/images/home3-category-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/homepage-brands-carousel-setting.png)

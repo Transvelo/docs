@@ -17,8 +17,13 @@ Once you had downloaded the package from ThemeForest, you can find the dummy dat
 
     **Home v1 Slider.zip**,
     **Home v2 Slider.zip**,
-    **Home v3 Slider.zip** and
-    **Home v4 Slider.zip**, **Home v5 Slider.zip**, **Home v6 Slider.zip**, **Landing v1 Slider.zip** and **Landing v2 Slider.zip** one after another.
+    **Home v3 Slider.zip**,
+    **Home v4 Slider.zip**,
+    **Home v5 Slider.zip**,
+    **Home v6 Slider.zip**,
+    **Home v9 Slider.zip**,
+    **Home v10 Slider.zip**,
+    **Landing v1 Slider.zip** and **Landing v2 Slider.zip** one after another.
 
 ## Setting up the Pages
 
