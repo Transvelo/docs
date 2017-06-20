@@ -1,29 +1,44 @@
 # King Composer
 
-**King Composer**  is the most professional WordPress page builder plugin it comes bundled with the theme. It provides 40+ elements that can be easily added to your page. In addition to extending functionalities of existing elements, **Techmarket** theme has added 16 additional elements. With this set of elements, you will be able to create unlimited varities of pages.
+**King Composer**  is the most professional WordPress page builder plugin it comes bundled with the theme. It provides 40+ elements that can be easily added to your page. In addition to extending functionalities of existing elements, **Techmarket** theme has added 30 additional elements. With this set of elements, you will be able to create unlimited varities of pages.
 
 ## Techmarket Elements
 
-There are 17 additional elements that are made available via **Techmarket Extensions** plugin. They are :
+There are 30 additional elements that are made available via **Techmarket Extensions** plugin. They are :
 
-1. [Banner](banner.md)
-2. [Shop Coupon](shop_coupon.md)
-3. [Events](events.md)
-4. [Features List](features_list.md)
-5. [Menu Card](menu_card.md)
-6. [Newsletter](newsletter.md)
-7. [Product Categories](product_categories.md)
-8. [Product](product.md)
-9. [Products 4-1](products_4-1.md)
-10. [Products Card](products_card.md)
-11. [Products Carousel with Image](products_carousel_with_image.md)
-12. [Products with Gallery](products_with_gallery.md)
-13. [Products](products.md)
-14. [Recent Post](recent_post.md)
-15. [Recent Posts](recent_posts.md)
-16. [Sale Product](sale_product.md)
-17. [Store Location](store_location.md)
+1. [3-2-3 Products Cards Tabs](3-2-3-products_cards_tabs.md)
+2. [6-1-6 Products Tabs with Deals](6-1-6_products_tabs_with_deals.md)
+3. [Banner](banner.md)
+4. [Banners](banners.md)
+5. [Brands](brands.md)
+6. [Brands Carousel](brands_carousel.md)
+7. [Deals Cards Carousel](deals_cards_carousel.md)
+8. [Deals Carousel](deals_carousel.md)
+9. [Features List](features_list.md)
+10. [Jumbotron](jumbotron.md)
+11. [Media Single Banner](media_single_banner.md)
+12. [Poster](poster.md)
+13. [Products Categories Carousel](product_categories_carousel.md)
+14. [Product Categories Filter](product_categories_ffilter.md)
+15. [Product Categories List](product_categories_list.md)
+16. [Products Cards Carousel with Gallery ](products_cards_carousel_with_gallery.md)
+17. [Products cards Carousel with Image](products_cards_carousel_with_image.md)
+18.[Products Carousel](products_carousel.md)
+19.[Products Carousel Tabs](products_carousel_tabs.md)
+20.[Products Carousel Tabs with Featured Products](products_carousel_tabs__with_featured_products.md)
+21.[Products Carousel Vertical Tabs](products_carousel_vertical_tabs.md)
+22.[Products Carousel With Image](products_carousel_with_image.md)
+23.[Products Isotope](products_isotope.md)
+24.[Products Tabs](products_tabs].md)
+25.[Products with Image](products_with_image.md)
+26.[Recent Posts with Categories](recent_posts_with_categories.md)
+27.[Revolution Slider](revolution_slider.md)
+28.[Team Member](team_member.md)
+29.[Terms](terms.md)
+30.[Notice Block](notice_block.md)
 
 
-![](http://transvelo.github.io/docs/pizzaro/images/kc-elements.png)
+
+
+![](http://transvelo.github.io/docs/techmarket/images/kc-elements.png)
 

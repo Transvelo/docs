@@ -72,14 +72,14 @@ With
 * It has Product Carousel Tabs 2 Block.
 * **Product Carousel Tabs 2** : Here i pasted a Product Carousel Tabs 2 Page image.
 
-![](http://transvelo.github.io/docs/techmarket/images/home8-4th-block.png)
+![](http://transvelo.github.io/docs/techmarket/images/home10-6th-block.png)
 
 ### Row 7
 ---
 * It has 3 Column Banners 2 element.
 * **3 Column Banners 2** : Here i pasted a 3 Column Banners 2 Setting Page image.
 
-![](http://transvelo.github.io/docs/techmarket/images/home8-5th-block.png)
+![](http://transvelo.github.io/docs/techmarket/images/home10-7th-block.png)
 
 ### Row 8
 ---

@@ -72,7 +72,7 @@ Home v6 of Techmarket is built using **Homepage v6 Template** with 12 rows. The 
 * It has Products Carousel element
 * **Products Carousel Settings** : Here i pasted a Products Carousel Setting Page image.
 
-![](http://transvelo.github.io/docs/techmarket/images/home6-6th-block.png)
+![](http://transvelo.github.io/docs/techmarket/images/home6-6th-block..png)
 
 ### Row 7
 ---
@@ -91,7 +91,7 @@ Home v6 of Techmarket is built using **Homepage v6 Template** with 12 rows. The 
 ### Row 9
 ---
 * It has Notice Block element.
-* **Products Carousel With Image Settings** : Here i pasted a Products Carousel With Image Setting Page image.
+* **Notice Block Settings** : Here i pasted a Notice Block Setting Page image.
 
 ![](http://transvelo.github.io/docs/techmarket/images/notice-block.png)
 

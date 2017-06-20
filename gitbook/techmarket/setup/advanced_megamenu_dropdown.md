@@ -49,3 +49,6 @@ Click on **Publish** button and view the output.
 
 
 
+### 4. Output of megamenu
+
+![](http://transvelo.github.io/docs/techmarket/images/megamenu-output.png)

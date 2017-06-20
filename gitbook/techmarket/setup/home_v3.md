@@ -84,7 +84,7 @@ Home v3 of Techmarket is built using **Homepage v3 Template** with 17 rows. The 
 ### Row 8
 ---
 * It has Products Carousel Tabs 1 element.
-* **Products Carousel 1 Block Settings** : Here i pasted a Products Carousel 1 Block Setting Page image.
+* **Products Carousel Tabs 1 Block Settings** : Here i pasted a Products Carousel Tabs 1 Block Setting Page image.
 
 ![](http://transvelo.github.io/docs/techmarket/images/home3-product-carousel-tabs1-setting.png)
 

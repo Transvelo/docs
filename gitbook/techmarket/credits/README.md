@@ -2,11 +2,10 @@
 # Credits
 
 * PSD Design by [bcube ](http://themeforest.net/user/bcube)
-* HTML code by [Kader Ibrahim](http://transvelo.com/)
+* HTML code by [Transvelo](http://transvelo.com/)
 * [Wordpress](https://wordpress.org/) by WordPress.org.
 * [WooCommerce](http://www.woothemes.com/woocommerce/) by WooThemes
 * [Slider Revolution](http://themepunch.com/revolution/) by ThemePunch
-* [Visual Composer](http://vc.wpbakery.com/) by WPBakery
 * [YITH WooCommerce Wishlist](https://wordpress.org/plugins/yith-woocommerce-wishlist/) by yithemes
 * [YITH WooCommerce Compare](https://wordpress.org/plugins/yith-woocommerce-compare/) by yithemes
 * [Contact Form 7](http://contactform7.com/) by Takayuki Miyoshi

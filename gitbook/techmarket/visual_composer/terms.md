@@ -1,6 +1,6 @@
 # Terms
 
-Allows you to add a terms to your page.
+Allows you to add terms to your page.
 
 ![](http://transvelo.github.io/docs/techmarket/images/terms-setting.png)
 

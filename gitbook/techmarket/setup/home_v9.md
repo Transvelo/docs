@@ -33,39 +33,39 @@ Home v9 of Techmarket is built using **Homepage v9 Template** with 6 rows. The  
 
 ### Row 1
 ---
-* It has Product Isotope element.
-* **Product Isotope Setting** : Here is the screenshot for Product Isotope setting
+* It has Slider element.
+* **Slider Setting** : Here is the screenshot for Slider setting
 
-![](http://transvelo.github.io/docs/techmarket/images/home8-1st-block.png)
+![](http://transvelo.github.io/docs/techmarket/images/home9-1st-block.png)
 
 ### Row 2
 ---
-* It has Notice Block element.
-* **Notice Block Settings** : Here is the screenshot for Notice Block setting
+* It has Product Tabs element.
+* **Product Tabs Settings** : Here is the screenshot for Product Tabs setting
 
-![](http://transvelo.github.io/docs/techmarket/images/notice-block.png)
+![](http://transvelo.github.io/docs/techmarket/images/home9-2nd-block.png)
 
 
 ### Row 3
 ---
-* It has Full Width Banner element.
-* **Full Width Banner Settings** : Here i pasted a Full Width Banner Settings Page image.
+* It has Full Width Banner 1 element.
+* **Full Width Banner 1 Settings** : Here i pasted a Full Width Banner 1 Settings Page image.
 
-![](http://transvelo.github.io/docs/techmarket/images/home8-3rd-block.png)
+![](http://transvelo.github.io/docs/techmarket/images/home9-3rd-block.png)
 
 ### Row 4
 ---
-* It has Category List Block.
-* **Category List Setting** : Here i pasted a Category List Page image.
+* It has 2-Column Banner Block.
+* **2-Column Banner Setting** : Here i pasted a 2-Column Banner Page image.
 
-![](http://transvelo.github.io/docs/techmarket/images/home8-4th-block.png)
+![](http://transvelo.github.io/docs/techmarket/images/home9-4th-block.png)
 
 ### Row 5
 ---
-* It has Landscape Product Carousel element.
-* **Landscape Product Carousel Settings** : Here i pasted a Landscape Product Carousel Setting Page image.
+* It has Full Width Banner 2 element.
+* **Full Width Banner 2 Settings** : Here i pasted a Full Width Banner 2 Setting Page image.
 
-![](http://transvelo.github.io/docs/techmarket/images/home8-5th-block.png)
+![](http://transvelo.github.io/docs/techmarket/images/home9-5th-block.png)
 
 ### Row 6
 ---

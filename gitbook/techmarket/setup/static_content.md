@@ -1,6 +1,6 @@
 # Static Block
 
-Static Content of Techmarket is built using **King Composer**. Before creating Static Blocks, make sure **static_block** is enable in **King Composer > Role Manager**.
+Static Content of Techmarket is built using **King Composer**. Before creating Static Blocks, make sure **static_block** is enable in **King Composer > General Settings**.
 <br/>![](http://transvelo.github.io/docs/techmarket/images/kc-settings.png)
 
 Static Content creates the following static blocks

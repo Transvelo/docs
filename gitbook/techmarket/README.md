@@ -1,4 +1,4 @@
-![](http://transvelo.github.io/docs/techmarket/images/logo-doc.png)
+![](http://transvelo.github.io/docs/techmarket/images/logo.png)
 
 Theme Documentation
 =======

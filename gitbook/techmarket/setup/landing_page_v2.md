@@ -2,7 +2,7 @@
 
 Landing Page v2 of Techmarket is built using **Landingpage v2 Template** with 5 rows. The  Backend editor of the page look like this
 
-![](http://transvelo.github.io/docs/electro/images/landing-page-v2-setting.png)
+![](http://transvelo.github.io/docs/techmarket/images/landing-page-v2-setting.png)
 
 ## Content Section
 
@@ -11,7 +11,7 @@ Landing Page v2 of Techmarket is built using **Landingpage v2 Template** with 5 
 3. After Publish, **Landing v2** options will appear in the meta box area. Here you can edit the default content and image.
 
     Here is the screenshot for your reference
-    ![](http://transvelo.github.io/docs/electro/images/landing-v2-options.png)
+    ![](http://transvelo.github.io/docs/techmarket/images/landing-v2-options.png)
 
 4. **Landing v2** has three different options which makes for the benefit of the user to change.
 
@@ -36,14 +36,14 @@ Landing Page v2 of Techmarket is built using **Landingpage v2 Template** with 5 
 * It has Slider element.
 * **Slider Setting** : Here is the screenshot for Slider setting
 
-![](http://transvelo.github.io/docs/electro/images/landingv2-1st-block.png)
+![](http://transvelo.github.io/docs/techmarket/images/landingv2-1st-block.png)
 
 ### Row 2
 ---
 * It has Page Header element.
 * **Page Header Settings** : Here is the screenshot for Page Header setting
 
-![](http://transvelo.github.io/docs/electro/images/landingv2-2nd-block.png)
+![](http://transvelo.github.io/docs/techmarket/images/landingv2-2nd-block.png)
 
 
 ### Row 3
@@ -51,28 +51,28 @@ Landing Page v2 of Techmarket is built using **Landingpage v2 Template** with 5 
 * It has Media Single Banner 1 element.
 * **Media Single Banner 1 Settings** : Here i pasted a Media Single Banner 1 Settings Page image.
 
-![](http://transvelo.github.io/docs/electro/images/landingv2-3rd-block.png)
+![](http://transvelo.github.io/docs/techmarket/images/landingv2-3rd-block.png)
 
 ### Row 4
 ---
 * It has Media Single Banner 2 Block.
 * **Media Single Banner 2 Setting** : Here i pasted a Media Single Banner 2 Page image.
 
-![](http://transvelo.github.io/docs/electro/images/landingv2-4th-block.png)
+![](http://transvelo.github.io/docs/techmarket/images/landingv2-4th-block.png)
 
 ### Row 5
 ---
 * It has Media Single Banner 3 element.
 * **Media Single Banner 3 Settings** : Here i pasted a Media Single Banner 3 Setting Page image.
 
-![](http://transvelo.github.io/docs/electro/images/landingv2-5th-block.png)
+![](http://transvelo.github.io/docs/techmarket/images/landingv2-5th-block.png)
 
 ### Row 6
 ---
 * It has Product Category Filter element.
 * **Product Category Filter Settings** : Here i pasted a Product Category Filter Setting Page image.
 
-![](http://transvelo.github.io/docs/electro/images/landingv2-6th-block.png)
+![](http://transvelo.github.io/docs/techmarket/images/landingv2-6th-block.png)
 
 ### Row 7
 ---
