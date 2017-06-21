@@ -58,7 +58,7 @@ Home v6 of Techmarket is built using **Homepage v6 Template** with 12 rows. The 
 * It has Products Carousel With Image Block.
 * **Products Carousel With Image Block Setting** : Here i pasted a Products Carousel With Image Block Page image.
 
-![](http://transvelo.github.io/docs/electro/images/home6-4th-block.png)
+![](http://transvelo.github.io/docs/techmarket/images/home6-4th-block.png)
 
 ### Row 5
 ---

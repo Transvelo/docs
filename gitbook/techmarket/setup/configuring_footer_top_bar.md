@@ -6,7 +6,7 @@ Footer Top Bar has 2 sections and they are
 
 ### **Configuring Newsletter Form**-
 
-Display Newsletter Sign-up Form to know about new Products.
+Display Newsletter Sign-up Form.
 1. Navigate to **Contact > Contact Forms**.
 2. In the form markup textarea, edit the existing code as follows :<br/><br/>
 
@@ -34,7 +34,7 @@ Display Newsletter Sign-up Form to know about new Products.
     <p>[submit "Send Message"]</p>
     </div>
     ```
-    
+
 3. Click on **Save** button and view the output.
 
 
@@ -43,7 +43,7 @@ Here is the newsletter form setting
 
 ### **Social Icons**
 
-**Social Icons** - Links to Social media profiles. It can be set from **Sportexx > Social  Media**<br/>![](http://transvelo.github.io/docs/techmarket/images/theme-options-social-media.png)
+**Social Icons** - Links to Social media profiles. It can be set from **Techmarket > Social  Media**<br/>![](http://transvelo.github.io/docs/techmarket/images/theme-options-social-media.png)
 
 ## Sample Output of the Footer Top Bar
 

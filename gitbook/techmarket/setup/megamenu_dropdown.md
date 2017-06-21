@@ -1,6 +1,6 @@
 # Megamenu Dropdown
 
-**Techmarket** supports Megamenu Dropdown, with the help of [**Static Content Block**](static_block.md).
+**Techmarket** supports Megamenu Dropdown, with the help of [**Static Content Block**](static_content.md).
 
 ## Adding Static Content as submenu to a menu item
 

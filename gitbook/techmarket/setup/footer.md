@@ -6,7 +6,7 @@ The first row is called [**Footer Top Bar**](configuring_footer_top_bar.md) whic
 
 The Second row is called **Footer Widgets**. You can customize the content from **Techmarket** > **Footer**.
 
-The Third row is called [**Footer Bottom Bar**](footer_bottom_bar.md)
+The Third row is called [**Footer Bottom Bar**](footer_site_info.md)
 which has Copyright Information on left and credit text on right.
 
 Here is the Footer's anatomy:

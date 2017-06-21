@@ -79,5 +79,5 @@ NW1 8JR, UK</address>
 	<li class="clearfix"><span class="day">Sunday</span><span class="pull-right flip hours">Closed</span></li>
 </ul>
 <h3>Careers</h3>
-<p class="inner-right-md">If you're interested in employment opportunities at Electro, please email us: <a href="mailto:contact@yourstore.com">contact@yourstore.com</a></p>
+<p class="inner-right-md">If you're interested in employment opportunities at Techmarket, please email us: <a href="mailto:contact@yourstore.com">contact@yourstore.com</a></p>
 ```

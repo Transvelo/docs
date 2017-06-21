@@ -65,12 +65,12 @@ neque odio ultricies tellus, eu porttitor nisl ipsum eu massa.
 <h2 class="contact-page-title">Our Address</h2>
 17 Princess Road London, Greater London NW1 8JR, UK
 Support(+800)856 800 604
-Email: <a href="mailto:contact@yourstore.com">info@electro.com</a>
+Email: <a href="mailto:contact@yourstore.com">info@techmarket.com</a>
 <h3>Opening Hours</h3>
 Monday to Friday: 9am-9pm
 Saturday to Sunday: 9am-11pm
 <h3>Careers</h3>
-If you're interested in employment opportunities at Electro, please email us: <a href="mailto:contact@yourstore.com">contact@yourstore.com</a>
+If you're interested in employment opportunities at Techmarket, please email us: <a href="mailto:contact@yourstore.com">contact@yourstore.com</a>
 ```
 
 

@@ -38,6 +38,16 @@ You can set the number of items displayed from **Techmarket > Shop > Shop/Catalo
 
 In **Techmarket** theme, the Single Product Page can be displayed in 3 different layouts, you can choose the layout as you like in Single Product layout option.
 
+### Style Setting for Full Width Single Product Page
+In **Techmarket** theme, full width single product page comes with 2 different styles they are Normal and Extended .
+
+**The ouput of Normal style of Single Product Page**
+![](http://transvelo.github.io/docs/techmarket/images/normal-style.png)
+
+**The ouput of Extended style of Single Product Page**
+![](http://transvelo.github.io/docs/techmarket/images/extended-style.png)
+
+
 ### Add Custom Tabs in Single Product Page
 Apart from default WooCoommerce Tabs, we add an extra tabs like **Accessories** and **Specifications** which create for the benefit of the user to show more information about their products.
 
@@ -47,7 +57,8 @@ Here i pasted the setting for Accessories Tab
 
 **The Output of Accessories Tab**![](http://transvelo.github.io/docs/techmarket/images/accessories-tab-output.png)
 
-2. **Specifications Tab**: Like **Additional Information** Tab, it will also display weight, dimensions or attributes.
+
+2.**Specifications Tab**: Like **Additional Information** Tab, it will also display weight, dimensions or attributes.
 Here i pasted the setting for Specifications Tab
 ![](http://transvelo.github.io/docs/techmarket/images/specifications-tab-setting.png)
 
