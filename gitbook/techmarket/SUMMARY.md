@@ -88,6 +88,7 @@
    * [Products Carousel with Image](visual_composer/products_carousel_with_image.md)
    * [Products Carousel](visual_composer/products_carousel.md)
    * [Products Isotope](visual_composer/products_isotope.md)
+   * [Product Tabs](visual_composer/product_tabs.md)
    * [Products with Image](visual_composer/products_with_image.md)
    * [Recent Posts with Categories ](visual_composer/recent_posts_with_categories.md)
    * [Team Member](visual_composer/team_member.md)

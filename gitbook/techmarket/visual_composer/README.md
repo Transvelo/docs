@@ -1,10 +1,10 @@
 # King Composer
 
-**King Composer**  is the most professional WordPress page builder plugin it comes bundled with the theme. It provides 40+ elements that can be easily added to your page. In addition to extending functionalities of existing elements, **Techmarket** theme has added 29 additional elements. With this set of elements, you will be able to create unlimited varities of pages.
+**King Composer**  is the most professional WordPress page builder plugin it comes bundled with the theme. It provides 40+ elements that can be easily added to your page. In addition to extending functionalities of existing elements, **Techmarket** theme has added 30 additional elements. With this set of elements, you will be able to create unlimited varities of pages.
 
 ## Techmarket Elements
 
-There are 29 additional elements that are made available via **Techmarket Extensions** plugin. They are :
+There are 30 additional elements that are made available via **Techmarket Extensions** plugin. They are :
 
 1. [3-2-3 Products Cards Tabs](3-2-3-products_cards_tabs.md)
 2. [6-1-6 Products Tabs with Deals](6-1-6_products_tabs_with_deals.md)
@@ -35,6 +35,7 @@ There are 29 additional elements that are made available via **Techmarket Extens
 27.[Team Member](team_member.md)
 28.[Terms](terms.md)
 29.[Notice Block](notice_block.md)
+30.[Product Tabs](product_tabs.md)
 
 
 ![](http://transvelo.github.io/docs/techmarket/images/kc-elements.png)
