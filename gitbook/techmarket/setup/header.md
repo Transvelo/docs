@@ -39,6 +39,19 @@
  Here is how it looks like for **Home** Page.
 
 ![](http://transvelo.github.io/docs/techmarket/images/header-style-6.png)
+
+### Glassmarket Header Style
+
+ Here is how it looks like for **Home** Page.
+
+![](http://transvelo.github.io/docs/techmarket/images/glassmarket-header-style.png)
+
+### Shoemarket Header Style
+
+ Here is how it looks like for **Home** Page.
+
+![](http://transvelo.github.io/docs/techmarket/images/shoemarket-header-style.png)
+
 ### Choosing a Header Style
 
 **Header v1** is chosen by default header. To change the header style :
