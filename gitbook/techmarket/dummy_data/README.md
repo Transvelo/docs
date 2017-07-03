@@ -4,7 +4,7 @@
 Importing the Dummy Data can be done in two ways. You can import the data through **One Click Demo Import** Plugin, or import it manually.
 
 1. [**Using One Click Demo Import plugin**](using_one_click_demo_report_plugin.md)
-2. [**Import by Manual method**](import_by_manual.md)
+2. [**Import by Manual**](import_by_manual.md)
 
 ## Setting up the Pages
 
