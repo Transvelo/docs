@@ -13,13 +13,34 @@ We recommend to download **all files & documentation** (the package) however you
 
 Once you download the package, unzip it and you will find it contains the following folders.
 
-* *assets*
- * *dummy-data* - This folder contains the dummy data for revolution slider and WP data.
+
+* *dummy-data* - This folder contains the dummy data for 5 repository.
+   * **gardenmarket**
+       * **dummy-data.xml** - The xml file which contains distributable dummy data which can be imported using Wordpress Importer.
+       * **dummy-data.tar.gz** - gzipped xml file. Useful in somecases when .xml file throws error.
+
+ * **glassmarket**
+      * **dummy-data.xml** - The xml file which contains distributable dummy data which can be imported using Wordpress Importer.
+
+    * **dummy-data.tar.gz** - gzipped xml file. Useful in somecases when .xml file throws error.
+
+ * **organicmarket**
    * **dummy-data.xml** - The xml file which contains distributable dummy data which can be imported using Wordpress Importer.
-   * **dummy-data.xml.gz** - gzipped xml file. Useful in somecases when .xml file throws error.
+
+    * **dummy-data.tar.gz** - gzipped xml file. Useful in somecases when .xml file throws error.
+
+  * **Shoesmarket**
+   * **dummy-data.xml** - The xml file which contains distributable dummy data which can be imported using Wordpress Importer.
+
+    * **dummy-data.tar.gz** - gzipped xml file. Useful in somecases when .xml file throws error.
+
+ * **techmarket**
+    * **dummy-data.xml** - The xml file which contains distributable dummy data which can be imported using Wordpress Importer.
+
+    * **dummy-data.tar.gz** - gzipped xml file. Useful in somecases when .xml file throws error.
+
 * *documentation* - This folder contains the documentation for the theme.
+
+
 * *licensing* - License information governing the usage of the theme.
-* *theme-files* - This folder contains the installable theme files.
-   * **techmarket.zip** - The Installable Wordpress Theme
-   * **techmarket-child.zip** - The child theme for Techmarket WP Theme
 * **changelog.txt** - Changelog for the theme.

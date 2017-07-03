@@ -8,7 +8,7 @@
 6. Navigate to **Techmarket > Shop Tab > General**.
 7. Click on the dropdown next to **Shop Comparison Page** and select the page you just created.
 8. Scroll down and click on **Save Changes**.
-9. Navigate to **WooCommerce > Settings > Products Compare** tab and uncheck the **Open automatically lightbox** option.
+
 
 ## Product Comparison Page Editor
 
@@ -16,4 +16,6 @@
 
 
 
+* Navigate to **Techmarket > Shop > Shop Comparison Page > Choose Compare Page** and click on **Save Changes**.
 
+![](http://transvelo.github.io/docs/techmarket/images/shop-compare-setting.png)
