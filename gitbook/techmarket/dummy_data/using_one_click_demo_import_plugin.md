@@ -1,8 +1,6 @@
-# Using One Click Demo Report Plugin
+# Using One Click Demo Import Plugin
 
-Once the plugin is activated, import the dummy data for the theme **Techmarket** from  **Appearance** > **Import Demo Data** by clicking the "**Import**" button. Wait for some time, it will take hardly 20 minutes to complete the process. After that all posts, pages, images, widgets, menus and other theme settings will get imported.
-
-Do the same for all the themes to import data.
+Once the plugin is activated, import the dummy data for the theme **Techmarket** from  **Appearance** > **Import Demo Data** by clicking the "**Import**" button. Wait for some time, it will take hardly 15 to 20 minutes to complete the process. After that all posts, pages, images, widgets, menus and other theme settings will get imported.
 
 Here is the screenshot to import dummy data
 ![](http://transvelo.github.io/docs/techmarket/images/import-demo-data.png)

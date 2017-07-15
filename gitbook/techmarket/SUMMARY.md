@@ -7,7 +7,7 @@
    * [Using Wordpress Theme Upload](installation/using_wordpress_theme_upload.md)
    * [Uploading by FTP](installation/uploading_by_ftp.md)
 * [Dummy Data](dummy_data/README.md)
-   * [Using One Click Demo Report Plugin](dummy_data/using_one_click_demo_report_plugin.md)
+   * [Using One Click Demo Import Plugin](dummy_data/using_one_click_demo_import_plugin.md)
    * [Import by Manual](dummy_data/import_by_manual.md)
 * [Setup](setup/README.md)
    * [Installing Plugins](installation/installing_plugins.md)
