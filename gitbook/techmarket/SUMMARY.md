@@ -104,6 +104,7 @@
    * [Brands](visual_composer/brands.md)
    * [Deals Cards Carousel](visual_composer/deals_cards_carousel.md)
    * [Deals Carousel](visual_composer/deals_carousel.md)
+   * [Deals Cards Carousel with Gallery](visual_composer/deals_cards_carousel_gallery.md)
    * [Features List](visual_composer/features_list.md)
    * [Notice Block](visual_composer/notice_block.md)
    * [Jumbotron](visual_composer/jumbrotron.md)
