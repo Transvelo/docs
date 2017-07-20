@@ -2,11 +2,13 @@
 
 <div class="alert alert-info">**Info** : This section is incomplete. More questions will be added as we receive more questions from our customers</div>
 
-#### Where can i upload my Logo image ?
+#### How can i upload my Logo image ?
 
-* Navigate to **Techmarket** > **General**.
-* Find **Logo SVG** option here upload your logo image
-* Click on **Save Changes** to save your configuration.
+Logo and Favicon are now part of Wordpress and does not require Theme Options. Please navigate to Appearance > Customize > Site Identity.
+
+![](http://transvelo.github.io/docs/techmarket/images/customize.png)
+
+![](http://transvelo.github.io/docs/techmarket/images/logo-favicon.png)
 
 #### How to enable/disable Scroll to Top button ?
 
