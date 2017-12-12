@@ -43,9 +43,9 @@ In the preview it has 3 widgets. Technically it is possible to have more than or
 
 By default the footer bottom widget area is populated with 3 instances of 3 widgets and they are :
 
-1. **WooCommerce Categories** Widgets - configured to display **Find It Fast** section
-2. **WP Meta** Widget - configured to display **Meta** Information links.
-3. **WP Pages** Widget - configured to display **Pages** menu links.
+1. **Custom Menu** Widget - configured to display **Footer Menu #1** menu.
+2. **Custom Menu** Widget - configured to display **Footer Menu #2** menu.
+3. **Custom Menu** Widget - configured to display **Footer Menu #3** menu.
 
 <div class="alert alert-warning alert-block">
 **Pro Tip:** Each widget in **footer bottom widget area** has a margin-left of **5.357em** ( CSS Rule : **.footer-bottom-widgets .columns + .columns**). Adjust the margin-left value to accomodate more widgets.

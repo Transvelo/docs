@@ -115,3 +115,16 @@ Home v6 of Techmarket is built using **Homepage v6 Template** with 12 rows. The 
 * **Brands Carousel Settings** : Here i pasted a Brands Carousel Setting Page image.
 
 ![](http://transvelo.github.io/docs/techmarket/images/homepage-brands-carousel-setting.png)
+
+
+## Sidebar Section
+
+To configure sidebar for **Home v6**, navigate to **Appearance** > **Widgets** > **Home Sidebar** here drag and drop the following widgets
+
+1. **Techmarket Banner** Widget : Techmarket Banner widget for Banner Image.
+2. **Techmarket Features Block** Widget : Widget to display Feature List.
+3. **Techmarket Posts Carousel** Widget :  Widget for Post Carousel.
+4. **Techmarket Products Carousel** Widget : Widget for Latest Product.
+5. **Techmarket Poster** Widget : Widget for Poster Image.
+6. **Techmarket Products Carousel** Widget : Widget for Latest Products.
+![](http://transvelo.github.io/docs/techmarket/images/home-sidebar-setting.png)
