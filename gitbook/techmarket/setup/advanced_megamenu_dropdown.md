@@ -47,8 +47,67 @@ We built our simple Megamenu in previous section. We are now going to build a li
 
 Click on **Publish** button and view the output.
 
-
-
 ### 4. Output of megamenu
 
 ![](http://transvelo.github.io/docs/techmarket/images/megamenu-output.png)
+
+
+### 5. Making the megamenu dropdown as half of the width
+
+1. Go back to **Appearance > Menus **.
+2. Click on the caret on the top-right of menu item that contains the megamenu subitem to expand it.
+3. In the **CSS Classes** text box, enter `yamm-hw`.
+4. This will make the subitem extend to three half of the container.
+4. If the **CSS Classes** field is not visible. Click on **Screen Options** on the top-right corner of the screen and check on **CSS Classess** under **Show advanced menu properties**.
+4. Click on **Save Menu**.
+
+![](http://transvelo.github.io/docs/techmarket/images/megamenu-half-1.png)
+
+### 6. The Output of the megamenu dropdown as  half of the width
+![](http://transvelo.github.io/docs/techmarket/images/megamenu-half-1-out.png)
+
+
+### 7. Making the megamenu dropdown as three half of the width
+
+1. Go back to **Appearance > Menus **.
+2. Click on the caret on the top-right of menu item that contains the megamenu subitem to expand it.
+3. In the **CSS Classes** text box, enter `yamm-tfw`.
+4. This will make the subitem extend to three half of the container.
+4. If the **CSS Classes** field is not visible. Click on **Screen Options** on the top-right corner of the screen and check on **CSS Classess** under **Show advanced menu properties**.
+4. Click on **Save Menu**.
+
+![](http://transvelo.github.io/docs/techmarket/images/megamenu-half-1-out.png)
+
+### 8. The Output of the megamenu dropdown as three half of the width
+![](http://transvelo.github.io/docs/techmarket/images/megamenu-half-out.png)
+
+### 9. To make the Menu Item as Highlight or Bold
+
+1. Go back to **Appearance > Menus **.
+2. Click on the caret on the top-right of menu item that contains the megamenu subitem to expand it.
+3. In the **CSS Classes** text box, enter `highlight`. This will make the menu item as BOLD.
+4. If the **CSS Classes** field is not visible. Click on **Screen Options** on the top-right corner of the screen and check on **CSS Classess** under **Show advanced menu properties**.
+4. Click on **Save Menu**.
+
+![](http://transvelo.github.io/docs/techmarket/images/highlight-menu.png)
+
+### 10. The Output of the Highlight Menu
+
+![](http://transvelo.github.io/docs/techmarket/images/highlight-menu-output.png)
+
+### 11. Adding Class Name for Single Image which extend outside of the content area in Vertical Menu
+
+1. Navigate to Static Content > Add New.
+2. Give it a title, lets say "**Mobiles & Tablets Megamenu Item**". The title is not used anywhere in displaying the menu.
+3. Click on Backend Editor. It will display Visual Composer Backend Editor. We will use this back end editor to build our Mobiles & Tablets Megamenu Item.
+4. **Mobiles & Tablets Megamenu** Item has 2 rows.
+5. First row has **Single Image** Setting. Here is the screenshot for **Single Image Setting**.<br>
+![](http://transvelo.github.io/docs/techmarket/images/static-block-image-setting.png)
+6. On the Row settings of the Single Image Block, add the class name **bg-yamm-content** in
+Extra Class Name option. Here is the screenshot for your refenece<br>
+![](http://transvelo.github.io/docs/techmarket/images/single-image-row-setting.png)
+
+
+### 12. Output of Single Image which extend outside of the content area in Vertical Menu
+![](http://transvelo.github.io/docs/techmarket/images/megamenu-half-out.png)
+<div class="alert alert-info">**Megamenu Fullwidth** : Please add "yamm-fw" css class to its parent menu item to make megamenu fullwidth.</div>

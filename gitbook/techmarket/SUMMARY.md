@@ -95,6 +95,7 @@
    * [Social Media](theme_options_panel/social_media.md)
    * [Styling](theme_options_panel/styling.md)
    * [Custom Code](theme_options_panel/custom_code.md)
+   * [Typography](theme_options_panel/typography.md)
 * [King Composer](visual_composer/README.md)
    * [3-2-3-Products Cards Tabs](visual_composer/3-2-3-products_cards_tabs.md)
    * [6-1-6 Products Tabs with Deals](visual_composer/6-1-6_products_tabs_with_deals.md)

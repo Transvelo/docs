@@ -1,6 +1,8 @@
 # Footer
 
 ## Footer Options
+#### Footer Before Block
+* Enable / Disable Footer Before Block.
 
 #### Footer Newsletter Section
 
